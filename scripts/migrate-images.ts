@@ -207,17 +207,83 @@ function updatePostsWithLocalImages(mapping: ImageMapping): void {
   }
 }
 
+function cleanupUnusedImages(): void {
+  console.log("\nCleaning up unused images...");
+  if (!fs.existsSync(IMAGE_DIR)) return;
+
+  const allImages = fs.readdirSync(IMAGE_DIR);
+  const usedImages = new Set<string>();
+
+  const files = fs.readdirSync(BLOG_DIR).filter((f) => f.endsWith(".md"));
+  for (const file of files) {
+    const content = fs.readFileSync(path.join(BLOG_DIR, file), "utf-8");
+
+    // Regex for Markdown links: ![alt](/images/filename) or ../images/filename
+    const imgRegex = /!\[.*?\]\((.*?)\)/g;
+    let match;
+    while ((match = imgRegex.exec(content)) !== null) {
+      const url = match[1];
+      // We only care about images we manage, which are in src/images presumably
+      // Check if it's a local file reference
+      if (url.includes("images/") || /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(url)) {
+        // Resolve query params if any
+        try {
+          const cleanUrl = url.split('?')[0].split('#')[0];
+          usedImages.add(path.basename(cleanUrl));
+        } catch (e) {
+          usedImages.add(path.basename(url));
+        }
+      }
+    }
+
+    // Frontmatter cover
+    const coverMatch = content.match(/cover:\s*(.+)/);
+    if (coverMatch) {
+      const url = coverMatch[1].trim();
+      try {
+        const cleanUrl = url.split('?')[0].split('#')[0];
+        usedImages.add(path.basename(cleanUrl));
+      } catch (e) {
+        usedImages.add(path.basename(url));
+      }
+    }
+  }
+
+  let deleted = 0;
+  for (const image of allImages) {
+    // Skip hidden files or non-image files if needed
+    if (image.startsWith(".")) continue;
+
+    if (!usedImages.has(image)) {
+      try {
+        fs.unlinkSync(path.join(IMAGE_DIR, image));
+        console.log(`Deleted orphan: ${image}`);
+        deleted++;
+      } catch (e) {
+        console.error(`Failed to delete ${image}:`, e);
+      }
+    }
+  }
+  console.log(`Cleanup complete. Deleted ${deleted} unused images.`);
+}
+
 async function main(): Promise<void> {
   console.log("Image Migration Script (Local Only)");
   console.log("===================================\n");
 
   const mapping = await downloadAllImages();
 
-  fs.writeFileSync(MAPPING_FILE, JSON.stringify(mapping, null, 2));
-  console.log(`\nSaved image mapping to: ${MAPPING_FILE}`);
+  if (Object.keys(mapping).length > 0) {
+    fs.writeFileSync(MAPPING_FILE, JSON.stringify(mapping, null, 2));
+    console.log(`\nSaved image mapping to: ${MAPPING_FILE}`);
 
-  console.log("\nUpdating posts with new image URLs...\n");
-  updatePostsWithLocalImages(mapping);
+    console.log("\nUpdating posts with new image URLs...\n");
+    updatePostsWithLocalImages(mapping);
+  } else {
+    console.log("\nNo new images to download.");
+  }
+
+  cleanupUnusedImages();
 
   console.log("\nImage migration complete!");
 }
