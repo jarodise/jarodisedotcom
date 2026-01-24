@@ -5,7 +5,7 @@ description: 近日，OpenAI的CEO Sam Altman发表了一篇题为“Three Obser
 date: 2025-02-10T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 科技/人工智能
+  - 科技AI
   - 思考哲学
 featured: false
 editable: true
