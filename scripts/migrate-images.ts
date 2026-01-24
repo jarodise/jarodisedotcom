@@ -7,13 +7,6 @@ const BLOG_DIR = path.join(process.cwd(), "src/blog");
 const IMAGE_DIR = path.join(process.cwd(), "src/images");
 const MAPPING_FILE = path.join(process.cwd(), "scripts/image-mapping.json");
 
-// Cloudflare R2 configuration - set these via environment variables
-const R2_ACCOUNT_ID = process.env.R2_ACCOUNT_ID || "";
-const R2_ACCESS_KEY_ID = process.env.R2_ACCESS_KEY_ID || "";
-const R2_SECRET_ACCESS_KEY = process.env.R2_SECRET_ACCESS_KEY || "";
-const R2_BUCKET_NAME = process.env.R2_BUCKET_NAME || "jarodise-images";
-const R2_PUBLIC_URL = process.env.R2_PUBLIC_URL || ""; // e.g., https://images.jarodise.com
-
 interface ImageMapping {
   [originalUrl: string]: string;
 }
@@ -35,12 +28,13 @@ function extractImageUrls(content: string): string[] {
     urls.push(coverMatch[1].trim());
   }
 
-  // Filter to hashnode CDN and zhimg URLs
+  // Filter to any external http/https URL that isn't already our domain
+  // This effectively migrates EVERYTHING external to local
   return urls.filter(
     (url) =>
-      url.includes("cdn.hashnode.com") ||
-      url.includes("res/hashnode/image") ||
-      url.includes("zhimg.com")
+      url.startsWith('http') &&
+      !url.includes("jarodise.com") &&
+      !url.includes("localhost")
   );
 }
 
@@ -52,7 +46,6 @@ function downloadImage(url: string, dest: string): Promise<void> {
     protocol
       .get(url, (response) => {
         if (response.statusCode === 301 || response.statusCode === 302) {
-          // Handle redirects
           const redirectUrl = response.headers.location;
           if (redirectUrl) {
             file.close();
@@ -86,34 +79,39 @@ function downloadImage(url: string, dest: string): Promise<void> {
 }
 
 function getExtensionFromUrl(url: string): string {
-  // Try to extract extension from URL
-  const urlPath = new URL(url).pathname;
-  const ext = path.extname(urlPath);
-  if (ext && [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"].includes(ext.toLowerCase())) {
-    return ext;
+  try {
+    const urlPath = new URL(url).pathname;
+    const ext = path.extname(urlPath);
+    if (ext && [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"].includes(ext.toLowerCase())) {
+      return ext;
+    }
+  } catch (e) {
+    // ignore invalid urls
   }
-  // Default to .jpg if no extension found
   return ".jpg";
 }
 
 function generateImageFilename(url: string, index: number): string {
-  // Extract meaningful name from URL or generate one
-  const urlPath = new URL(url).pathname;
-  const segments = urlPath.split("/").filter(Boolean);
-  const lastSegment = segments[segments.length - 1] || `image-${index}`;
-  const ext = getExtensionFromUrl(url);
+  try {
+    const urlPath = new URL(url).pathname;
+    const segments = urlPath.split("/").filter(Boolean);
+    const lastSegment = segments[segments.length - 1] || `image-${index}`;
+    const ext = getExtensionFromUrl(url);
 
-  // Clean up the filename
-  let filename = lastSegment.replace(/[^a-zA-Z0-9-_]/g, "-");
-  if (!filename.endsWith(ext)) {
-    filename = filename + ext;
+    let filename = lastSegment.replace(/[^a-zA-Z0-9-_]/g, "-");
+    // truncated if too long
+    if (filename.length > 50) filename = filename.substring(0, 50);
+
+    if (!filename.toLowerCase().endsWith(ext.toLowerCase())) {
+      filename = filename + ext;
+    }
+    return filename;
+  } catch (e) {
+    return `image-${index}.jpg`;
   }
-
-  return filename;
 }
 
 async function downloadAllImages(): Promise<ImageMapping> {
-  // Ensure image directory exists
   if (!fs.existsSync(IMAGE_DIR)) {
     fs.mkdirSync(IMAGE_DIR, { recursive: true });
   }
@@ -121,7 +119,6 @@ async function downloadAllImages(): Promise<ImageMapping> {
   const mapping: ImageMapping = {};
   const allUrls = new Set<string>();
 
-  // Collect all image URLs from all posts
   const files = fs.readdirSync(BLOG_DIR).filter((f) => f.endsWith(".md"));
 
   for (const file of files) {
@@ -133,34 +130,45 @@ async function downloadAllImages(): Promise<ImageMapping> {
   console.log(`Found ${allUrls.size} unique images to download\n`);
 
   let index = 0;
-  // Parallel download with concurrency limit
-  const CONCURRENCY = 20;
+  const CONCURRENCY = 10;
   const queue = Array.from(allUrls);
-  let active = 0;
   let completed = 0;
 
   const next = async () => {
     if (queue.length === 0) return;
     const url = queue.shift()!;
-    index++; // Note: index order is not guaranteed to match array order perfectly but that's fine
-    const currentIdx = index; // capture for closure
+    index++;
+    const currentIdx = index;
 
     try {
       const filename = generateImageFilename(url, currentIdx);
       const localPath = path.join(IMAGE_DIR, filename);
 
-      // Skip if already downloaded
-      if (fs.existsSync(localPath)) {
-        console.log(`[${completed + 1}/${allUrls.size}] Already exists: ${filename}`);
-        mapping[url] = `/images/${filename}`;
-      } else {
+      // Download if not exists
+      if (!fs.existsSync(localPath)) {
         console.log(`[${completed + 1}/${allUrls.size}] Downloading: ${filename}`);
         await downloadImage(url, localPath);
-        mapping[url] = `/images/${filename}`;
+      } else {
+        console.log(`[${completed + 1}/${allUrls.size}] Exists: ${filename}`);
       }
+
+      // Update mapping to use Astro's public path (assuming images are imported or in public)
+      // Since we are putting them in src/images, we likely want to use Astro's image optimization
+      // But for now, let's assume we want to reference them relative to the markdown file OR as absolute paths
+      // If we use absolute paths like /src/images/..., Astro might pick them up if configured correctly
+      // However, usually for dynamic MD images, it's safer to put them in public/images for raw access 
+      // OR use relative paths like ../../images/filename
+
+      // Strategy: Use filesystem relative path which Astro's markdown processor usually resolves
+      // If the markdown file is in src/blog/post.md and images are in src/images/
+      // The relative path is ../images/filename
+
+      const relativePath = `../images/${filename}`;
+      mapping[url] = relativePath;
+
     } catch (error) {
       console.error(`Failed to download ${url}:`, error);
-      mapping[url] = url;
+      mapping[url] = url; // keep original if failed
     } finally {
       completed++;
       await next();
@@ -186,7 +194,7 @@ function updatePostsWithLocalImages(mapping: ImageMapping): void {
     let updated = false;
 
     for (const [originalUrl, newUrl] of Object.entries(mapping)) {
-      if (content.includes(originalUrl)) {
+      if (content.includes(originalUrl) && originalUrl !== newUrl) {
         content = content.split(originalUrl).join(newUrl);
         updated = true;
       }
@@ -200,40 +208,18 @@ function updatePostsWithLocalImages(mapping: ImageMapping): void {
 }
 
 async function main(): Promise<void> {
-  console.log("Image Migration Script");
-  console.log("======================\n");
+  console.log("Image Migration Script (Local Only)");
+  console.log("===================================\n");
 
-  // Check for R2 credentials
-  if (!R2_PUBLIC_URL) {
-    console.log("Note: R2_PUBLIC_URL not set. Images will be stored locally in src/images/");
-    console.log("For R2 upload, set these environment variables:");
-    console.log("  - R2_ACCOUNT_ID");
-    console.log("  - R2_ACCESS_KEY_ID");
-    console.log("  - R2_SECRET_ACCESS_KEY");
-    console.log("  - R2_BUCKET_NAME");
-    console.log("  - R2_PUBLIC_URL\n");
-  }
-
-  // Step 1: Download all images locally
-  console.log("Step 1: Downloading images from Hashnode CDN...\n");
   const mapping = await downloadAllImages();
 
-  // Save mapping file
   fs.writeFileSync(MAPPING_FILE, JSON.stringify(mapping, null, 2));
   console.log(`\nSaved image mapping to: ${MAPPING_FILE}`);
 
-  // Step 2: Update posts with new URLs
-  console.log("\nStep 2: Updating posts with new image URLs...\n");
+  console.log("\nUpdating posts with new image URLs...\n");
   updatePostsWithLocalImages(mapping);
 
   console.log("\nImage migration complete!");
-  console.log(`Total images processed: ${Object.keys(mapping).length}`);
-
-  // TODO: Step 3 - Upload to R2 (when credentials are available)
-  if (R2_PUBLIC_URL && R2_ACCESS_KEY_ID && R2_SECRET_ACCESS_KEY) {
-    console.log("\nStep 3: Uploading to Cloudflare R2...");
-    console.log("(R2 upload not yet implemented - images are stored locally)");
-  }
 }
 
 main().catch(console.error);

@@ -121,7 +121,7 @@ editable: true
 
 数字游民知识星球是目前中文互联网较权威的数字游民生活方式设计主题社群，扫下方二维码加入我们，开启你的生活方式设计之旅！
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/hPjQM0VNtFEjdkqhOkJISaOXbYZPn7V8q8CHAic6dlMkMlHYEOwrm8pVzhfBwbwviaUkyncNp00v90aXpnjlkPwg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](../images/640.jpg)
 
 数字游民部落官网：JARODISE.COM
 

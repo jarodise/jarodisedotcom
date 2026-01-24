@@ -11,7 +11,7 @@ editable: true
 
 **“到2035年，世界上会有10亿个数字游民。”**
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/hPjQM0VNtFEzZ8tSFhEUzEPj6eTfSRXIrFGx4JnrTnv9BS9UNdgD1v4PtYLlfLOhOgKJyyz9eYQHgQibaRiccQbQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](../images/640.jpg)
 
 如果你有关注过“数字游民”，那么相信你一定在某些媒体报道上看到过类似的表述。
 
