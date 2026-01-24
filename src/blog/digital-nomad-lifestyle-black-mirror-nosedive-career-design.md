@@ -10,8 +10,6 @@ tags:
   - 思考
   - 数字游民
   - 社交网络
-  - 职场
-  - 黑镜
 featured: false
 editable: true
 ---

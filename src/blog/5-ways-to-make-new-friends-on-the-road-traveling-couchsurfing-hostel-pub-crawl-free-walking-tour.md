@@ -10,8 +10,6 @@ tags:
   - 数字游民
   - 旅行
   - 独旅
-  - 社交
-  - 背包客
 featured: false
 editable: true
 ---

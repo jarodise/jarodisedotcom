@@ -8,9 +8,6 @@ tags:
   - 人工智能
   - 土耳其
   - 年终总结
-  - 数字游民
-  - 生活方式
-  - 阅读
 featured: false
 editable: true
 ---

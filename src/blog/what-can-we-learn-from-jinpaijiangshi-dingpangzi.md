@@ -8,8 +8,6 @@ tags:
   - 乐观
   - 极简主义
   - 生活方式
-  - 社会观察
-  - 金牌讲师
 featured: false
 editable: true
 ---

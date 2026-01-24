@@ -8,8 +8,6 @@ tags:
   - 宠物
   - 思考
   - 数字游民
-  - 生活方式
-  - 责任
 featured: false
 editable: true
 ---

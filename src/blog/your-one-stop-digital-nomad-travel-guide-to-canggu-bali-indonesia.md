@@ -9,8 +9,6 @@ tags:
   - Canggu
   - 印尼
   - 城市指南
-  - 巴厘岛
-  - 数字游民
 featured: false
 editable: true
 ---

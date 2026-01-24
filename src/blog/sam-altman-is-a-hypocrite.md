@@ -8,8 +8,6 @@ tags:
   - OpenAI
   - Sam Altman
   - 思考
-  - 批判
-  - 生活方式
 featured: false
 editable: true
 ---

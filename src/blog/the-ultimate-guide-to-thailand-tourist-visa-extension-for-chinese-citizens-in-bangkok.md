@@ -11,8 +11,6 @@ tags:
   - 攻略
   - 曼谷
   - 泰国
-  - 生活方式
-  - 签证
 featured: false
 editable: true
 ---

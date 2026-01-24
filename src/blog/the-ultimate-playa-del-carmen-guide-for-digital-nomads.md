@@ -9,8 +9,6 @@ tags:
   - Playa Del Carmen
   - 城市指南
   - 墨西哥
-  - 数字游民
-  - 旅居
 featured: false
 editable: true
 ---

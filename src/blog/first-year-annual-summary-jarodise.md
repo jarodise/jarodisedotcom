@@ -8,8 +8,6 @@ tags:
   - 内容创业
   - 回顾
   - 年终总结
-  - 数字游民
-  - 部落
 featured: false
 editable: true
 ---

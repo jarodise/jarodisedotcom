@@ -8,8 +8,6 @@ tags:
   - 价值观
   - 内卷
   - 生活方式
-  - 社会思考
-  - 躺平
 featured: false
 editable: true
 ---

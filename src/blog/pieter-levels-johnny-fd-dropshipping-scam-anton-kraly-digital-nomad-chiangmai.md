@@ -11,8 +11,6 @@ tags:
   - Dropshipping
   - Pieter Levels
   - 数字游民
-  - 清迈
-  - 避坑
 featured: false
 editable: true
 ---

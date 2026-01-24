@@ -10,8 +10,6 @@ tags:
   - FIRE
   - 提前退休
   - 理财
-  - 生活方式
-  - 财富自由
 featured: false
 editable: true
 ---

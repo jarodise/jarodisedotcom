@@ -9,8 +9,6 @@ tags:
   - 副业
   - 数字游民
   - 生活方式设计
-  - 职业规划
-  - 转型
 featured: false
 editable: true
 ---

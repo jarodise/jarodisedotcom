@@ -8,8 +8,6 @@ tags:
   - 人工智能
   - 未来
   - 生活方式
-  - 程序员
-  - 职业危机
 featured: false
 editable: true
 ---

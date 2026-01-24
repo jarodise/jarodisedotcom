@@ -8,8 +8,6 @@ tags:
   - 思考
   - 管理
   - 职场
-  - 趋势
-  - 远程工作
 featured: false
 editable: true
 ---

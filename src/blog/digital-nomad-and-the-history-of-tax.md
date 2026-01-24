@@ -8,8 +8,6 @@ tags:
   - 全球化
   - 历史
   - 思考
-  - 数字游民
-  - 税务
 featured: false
 editable: true
 ---

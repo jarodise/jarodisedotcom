@@ -10,8 +10,6 @@ tags:
   - App
   - 工具
   - 效率
-  - 数字游民
-  - 旅行
 featured: false
 editable: true
 ---

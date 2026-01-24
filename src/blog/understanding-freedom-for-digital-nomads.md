@@ -9,8 +9,6 @@ tags:
   - 哲学
   - 思考
   - 数字游民
-  - 生活方式
-  - 自由
 featured: true
 editable: true
 ---

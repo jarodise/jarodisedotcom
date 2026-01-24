@@ -5,11 +5,9 @@ description: 自从2015年创建数字游民部落这个内容品牌起起，我
 date: 2021-11-10T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - '2022'
   - 扫盲
   - 指南
   - 数字游民
-  - 生活方式
 featured: false
 editable: true
 ---

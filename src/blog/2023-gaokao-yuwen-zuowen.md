@@ -8,8 +8,6 @@ tags:
   - 凯恩斯
   - 思考
   - 生活方式
-  - 社会观察
-  - 高考
 featured: false
 editable: true
 ---

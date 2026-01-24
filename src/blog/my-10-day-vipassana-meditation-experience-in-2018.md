@@ -9,8 +9,6 @@ tags:
   - 体验
   - 内观
   - 冥想
-  - 生活方式
-  - 身心灵
 featured: false
 editable: true
 ---

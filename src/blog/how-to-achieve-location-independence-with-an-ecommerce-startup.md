@@ -10,8 +10,6 @@ tags:
   - 创业
   - 地理套利
   - 数字游民
-  - 电商
-  - 被动收入
 featured: false
 editable: true
 ---

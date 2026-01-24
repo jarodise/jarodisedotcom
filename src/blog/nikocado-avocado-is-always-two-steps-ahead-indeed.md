@@ -10,8 +10,6 @@ tags:
   - 互联网现象
   - 思考
   - 生活方式
-  - 网红
-  - 自媒体
 featured: false
 editable: true
 ---

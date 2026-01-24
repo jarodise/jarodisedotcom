@@ -6,11 +6,9 @@ description: >-
 date: 2019-04-29T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - '2019'
   - 扫盲
   - 指南
   - 数字游民
-  - 生活方式
 featured: false
 editable: true
 ---

@@ -12,8 +12,6 @@ tags:
   - SEO
   - 内容分发
   - 创业
-  - 独立站
-  - 算法
 featured: false
 editable: true
 ---

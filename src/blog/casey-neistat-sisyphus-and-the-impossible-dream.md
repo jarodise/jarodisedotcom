@@ -8,8 +8,6 @@ tags:
   - Casey Neistat
   - 励志
   - 生活方式
-  - 跑步
-  - 马拉松
 featured: false
 editable: true
 ---

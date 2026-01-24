@@ -8,8 +8,6 @@ tags:
   - 亲身经历
   - 哥伦比亚
   - 数字游民
-  - 新冠康复
-  - 麦德林
 featured: false
 editable: true
 ---

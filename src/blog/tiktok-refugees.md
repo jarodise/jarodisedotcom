@@ -9,8 +9,6 @@ tags:
   - TikTok
   - 小红书
   - 思考
-  - 文化交流
-  - 生活方式
 featured: false
 editable: true
 ---

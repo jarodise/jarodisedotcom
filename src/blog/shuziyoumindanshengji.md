@@ -10,8 +10,6 @@ tags:
   - 个人故事
   - 回忆
   - 成长经历
-  - 数字游民
-  - 转型
 featured: false
 editable: true
 ---

@@ -9,8 +9,6 @@ tags:
   - 攻略
   - 欧盟配偶
   - 生活方式
-  - 申根
-  - 签证
 featured: false
 editable: true
 ---

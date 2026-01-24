@@ -9,8 +9,6 @@ tags:
   - 数字游民
   - 未来工作
   - 现代性
-  - 社会思考
-  - 远程工作
 featured: false
 editable: true
 ---

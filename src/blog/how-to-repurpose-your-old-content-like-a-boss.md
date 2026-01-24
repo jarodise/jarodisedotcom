@@ -10,8 +10,6 @@ tags:
   - 内容运营
   - 技巧
   - 效率
-  - 生活方式
-  - 自媒体
 featured: false
 editable: true
 ---

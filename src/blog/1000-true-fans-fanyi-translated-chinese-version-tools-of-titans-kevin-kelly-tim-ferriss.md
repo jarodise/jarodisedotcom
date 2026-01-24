@@ -12,8 +12,6 @@ tags:
   - 内容创作
   - 创业
   - 数字游民
-  - 经典阅读
-  - 翻译
 featured: false
 editable: true
 ---

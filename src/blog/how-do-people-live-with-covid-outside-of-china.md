@@ -9,9 +9,6 @@ tags:
   - 哥伦比亚
   - 土耳其
   - 墨西哥
-  - 旅行
-  - 海外见闻
-  - 疫情
 featured: false
 editable: true
 ---

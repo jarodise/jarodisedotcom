@@ -10,8 +10,6 @@ tags:
   - 人生机会
   - 生活方式
   - 知乎
-  - 英语学习
-  - 观点
 featured: false
 editable: true
 ---

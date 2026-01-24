@@ -10,8 +10,6 @@ tags:
   - 吐槽
   - 哥伦比亚
   - 数字游民
-  - 疫情生活
-  - 经历
 featured: false
 editable: true
 ---

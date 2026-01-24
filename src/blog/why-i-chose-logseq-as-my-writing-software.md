@@ -8,8 +8,6 @@ tags:
   - Logseq
   - PKM
   - 写作
-  - 工具
-  - 生活方式
 featured: false
 editable: true
 ---

@@ -10,8 +10,6 @@ tags:
   - 丝绸之路
   - 数字游民
   - 旅行
-  - 游记
-  - 跨国旅行
 featured: false
 editable: true
 ---

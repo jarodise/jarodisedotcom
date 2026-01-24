@@ -8,8 +8,6 @@ tags:
   - 孤独
   - 心理健康
   - 数字游民
-  - 旅居生活
-  - 社交
 featured: true
 editable: true
 ---

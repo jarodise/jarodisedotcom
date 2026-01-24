@@ -9,8 +9,6 @@ tags:
   - 思考
   - 数字游民
   - 新富人
-  - 生活方式设计
-  - 财富自由
 featured: false
 editable: true
 ---

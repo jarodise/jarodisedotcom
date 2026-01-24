@@ -10,8 +10,6 @@ tags:
   - 土耳其
   - 数字游民
   - 生活方式
-  - 租房
-  - 签证
 featured: false
 editable: true
 ---

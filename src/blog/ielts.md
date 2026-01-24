@@ -9,8 +9,6 @@ tags:
   - 口语
   - 生活方式
   - 经验分享
-  - 英语学习
-  - 雅思
 featured: false
 editable: true
 ---

@@ -10,8 +10,6 @@ tags:
   - 反浮躁
   - 态度
   - 思考
-  - 旅行观
-  - 生活方式
 featured: false
 editable: true
 ---

@@ -8,8 +8,6 @@ tags:
   - 内容创业
   - 思考
   - 生活方式
-  - 知识付费
-  - 观点
 featured: false
 editable: true
 ---

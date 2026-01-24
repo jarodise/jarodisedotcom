@@ -10,8 +10,6 @@ tags:
   - Naval Ravikant
   - 智慧
   - 生活方式
-  - 翻译
-  - 财富
 featured: false
 editable: true
 ---

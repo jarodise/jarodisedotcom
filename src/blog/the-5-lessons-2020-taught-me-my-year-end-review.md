@@ -6,11 +6,9 @@ description: >-
 date: 2020-12-25T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - '2020'
   - 反思
   - 年终总结
   - 成长
-  - 生活方式
 featured: false
 editable: true
 ---

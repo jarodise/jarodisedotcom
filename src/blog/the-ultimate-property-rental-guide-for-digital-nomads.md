@@ -9,8 +9,6 @@ tags:
   - 攻略
   - 数字游民
   - 旅居
-  - 生活技巧
-  - 租房
 featured: true
 editable: true
 ---

@@ -8,8 +8,6 @@ tags:
   - 哥伦比亚
   - 数字游民
   - 旅居
-  - 疫情日记
-  - 麦德林
 featured: false
 editable: true
 ---

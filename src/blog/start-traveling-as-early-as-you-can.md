@@ -8,8 +8,6 @@ tags:
   - 思考
   - 旅行
   - 特种兵旅游
-  - 生活态度
-  - 趁早
 featured: false
 editable: true
 ---

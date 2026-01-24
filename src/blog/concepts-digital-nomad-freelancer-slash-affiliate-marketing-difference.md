@@ -8,8 +8,6 @@ tags:
   - 数字游民
   - 斜杠青年
   - 概念解析
-  - 自由职业
-  - 被动收入
 featured: false
 editable: true
 ---

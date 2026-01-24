@@ -8,8 +8,6 @@ tags:
   - 卡什
   - 土耳其
   - 地理套利
-  - 数字游民
-  - 淡季旅行
 featured: false
 editable: true
 ---

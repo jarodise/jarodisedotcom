@@ -10,8 +10,6 @@ tags:
   - Ishmael
   - 书评
   - 哲学
-  - 生活方式
-  - 阅读
 featured: false
 editable: true
 ---

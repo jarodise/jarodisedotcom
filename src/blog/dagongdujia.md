@@ -10,8 +10,6 @@ tags:
   - WHV
   - 打工度假
   - 新西兰
-  - 旅行
-  - 生活方式
 featured: false
 editable: true
 ---

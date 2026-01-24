@@ -10,8 +10,6 @@ tags:
   - 口语
   - 娱乐学习
   - 生活方式
-  - 美剧
-  - 英语学习
 featured: false
 editable: true
 ---

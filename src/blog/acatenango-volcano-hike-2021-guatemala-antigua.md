@@ -8,8 +8,6 @@ tags:
   - 危地马拉
   - 徒步
   - 户外
-  - 拉美
-  - 旅行
 featured: false
 editable: true
 ---

@@ -8,8 +8,6 @@ tags:
   - ChatGPT
   - 人工智能
   - 思考
-  - 未来
-  - 科技
 featured: false
 editable: true
 ---

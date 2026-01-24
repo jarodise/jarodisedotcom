@@ -8,8 +8,6 @@ tags:
   - 争议
   - 士绅化
   - 思考
-  - 数字游民
-  - 社会现象
 featured: false
 editable: true
 ---

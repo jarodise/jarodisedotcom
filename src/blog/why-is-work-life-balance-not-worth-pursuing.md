@@ -10,8 +10,6 @@ tags:
   - Work-Life Balance
   - 反直觉
   - 思考
-  - 职业观
-  - 远程工作
 featured: false
 editable: true
 ---

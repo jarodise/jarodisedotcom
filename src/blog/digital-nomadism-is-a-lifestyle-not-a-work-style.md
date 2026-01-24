@@ -9,8 +9,6 @@ tags:
   - 定义
   - 数字游民
   - 生活方式
-  - 观念
-  - 远程工作
 featured: false
 editable: true
 ---

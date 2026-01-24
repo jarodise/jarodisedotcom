@@ -10,8 +10,6 @@ tags:
   - 东南亚
   - 安全
   - 旅行
-  - 经验
-  - 观点
 featured: false
 editable: true
 ---

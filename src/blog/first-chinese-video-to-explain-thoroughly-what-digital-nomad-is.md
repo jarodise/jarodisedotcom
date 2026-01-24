@@ -9,8 +9,6 @@ tags:
   - Jarodise
   - 数字游民
   - 生活方式
-  - 科普
-  - 视频
 featured: false
 editable: true
 ---

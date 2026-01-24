@@ -9,8 +9,6 @@ tags:
   - 富爸爸穷爸爸
   - 数字游民
   - 现金流象限
-  - 网赚
-  - 赚钱
 featured: true
 editable: true
 ---

@@ -10,8 +10,6 @@ tags:
   - F-You Money
   - 储蓄
   - 底气
-  - 数字游民
-  - 自由
 featured: false
 editable: true
 ---

@@ -8,8 +8,6 @@ tags:
   - 个人故事
   - 生活方式设计
   - 石油行业
-  - 职业回顾
-  - 远程工作
 featured: false
 editable: true
 ---

@@ -10,8 +10,6 @@ tags:
   - 内容付费
   - 创作者经济
   - 生活方式
-  - 观点
-  - 铁杆粉
 featured: false
 editable: true
 ---

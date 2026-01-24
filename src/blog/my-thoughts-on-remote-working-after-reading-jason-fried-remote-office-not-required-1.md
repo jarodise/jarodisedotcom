@@ -12,8 +12,6 @@ tags:
   - Jason Fried
   - 思考
   - 生活方式
-  - 远程工作
-  - 阅读
 featured: false
 editable: true
 ---

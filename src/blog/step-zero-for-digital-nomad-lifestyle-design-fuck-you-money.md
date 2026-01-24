@@ -8,8 +8,6 @@ tags:
   - F-You Money
   - 准备
   - 数字游民
-  - 理财
-  - 生活方式设计
 featured: false
 editable: true
 ---

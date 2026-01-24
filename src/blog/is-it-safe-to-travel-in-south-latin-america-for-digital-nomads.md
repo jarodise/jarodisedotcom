@@ -10,8 +10,6 @@ tags:
   - 安全
   - 拉美
   - 攻略
-  - 数字游民
-  - 旅行
 featured: false
 editable: true
 ---

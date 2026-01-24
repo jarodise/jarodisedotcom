@@ -9,8 +9,6 @@ tags:
   - 学习方法
   - 生活方式
   - 自我提升
-  - 阅读
-  - 高效能
 featured: false
 editable: true
 ---

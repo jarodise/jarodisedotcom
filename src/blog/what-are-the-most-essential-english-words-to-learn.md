@@ -9,8 +9,6 @@ tags:
   - 方法论
   - 生活方式
   - 英语学习
-  - 词汇
-  - 高效
 featured: false
 editable: true
 ---

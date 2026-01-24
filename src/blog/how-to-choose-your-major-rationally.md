@@ -8,8 +8,6 @@ tags:
   - 思考
   - 教育
   - 生活方式
-  - 职业规划
-  - 高考志愿
 featured: false
 editable: true
 ---

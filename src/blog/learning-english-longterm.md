@@ -10,8 +10,6 @@ tags:
   - 口语
   - 心得
   - 生活方式
-  - 英语学习
-  - 长期主义
 featured: false
 editable: true
 ---

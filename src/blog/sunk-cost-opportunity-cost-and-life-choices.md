@@ -8,8 +8,6 @@ tags:
   - 人生选择
   - 决策
   - 数字游民
-  - 沉没成本
-  - 经济学思维
 featured: false
 editable: true
 ---

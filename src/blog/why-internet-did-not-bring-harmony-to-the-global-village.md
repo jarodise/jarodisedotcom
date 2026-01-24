@@ -10,8 +10,6 @@ tags:
   - 互联网
   - 地球村
   - 思考
-  - 生活方式
-  - 社会学
 featured: false
 editable: true
 ---

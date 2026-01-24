@@ -8,8 +8,6 @@ tags:
   - 思考
   - 生存指南
   - 生活方式
-  - 算法
-  - 自媒体
 featured: false
 editable: true
 ---

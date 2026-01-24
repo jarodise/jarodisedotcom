@@ -9,8 +9,6 @@ tags:
   - 听力
   - 考试技巧
   - 自我提升
-  - 英语学习
-  - 雅思
 featured: false
 editable: true
 ---

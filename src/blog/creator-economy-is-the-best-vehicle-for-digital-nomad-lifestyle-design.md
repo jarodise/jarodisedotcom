@@ -8,8 +8,6 @@ tags:
   - 个人成长
   - 内容创业
   - 创作者经济
-  - 数字游民
-  - 生活方式设计
 featured: false
 editable: true
 ---

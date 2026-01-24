@@ -8,8 +8,6 @@ tags:
   - 攻略
   - 数字游民
   - 旅行
-  - 生活方式
-  - 目的地选择
 featured: true
 editable: true
 ---

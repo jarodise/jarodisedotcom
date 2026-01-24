@@ -8,8 +8,6 @@ tags:
   - 数字游民
   - 数据分析
   - 趋势
-  - 辟谣
-  - 预测
 featured: false
 editable: true
 ---

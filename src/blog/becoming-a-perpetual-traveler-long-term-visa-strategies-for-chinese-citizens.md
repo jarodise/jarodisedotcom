@@ -8,8 +8,6 @@ tags:
   - 全球公民
   - 数字游民
   - 策略
-  - 签证
-  - 长期旅居
 featured: false
 editable: true
 ---
