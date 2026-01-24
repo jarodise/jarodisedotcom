@@ -2,27 +2,31 @@
 
 ---
 
-<nav class="flex items-center justify-center gap-4">
+<nav
+  class="no-scrollbar flex items-center justify-start gap-6 overflow-x-auto pb-1 md:justify-center md:gap-8 md:pb-0"
+>
   <a
     href="/archive/1"
     class:list={[
-      "navigation animation",
-      Astro.url.pathname.startsWith("/archive") ? "text-accent" : "",
+      "navigation animation text-sm whitespace-nowrap md:text-base",
+      Astro.url.pathname.startsWith("/archive")
+        ? "text-accent font-medium"
+        : "",
     ]}>文章存档</a
   >
   <a
     href="/tags"
     class:list={[
-      "navigation animation",
-      Astro.url.pathname.startsWith("/tags") ? "text-accent" : "",
+      "navigation animation text-sm whitespace-nowrap md:text-base",
+      Astro.url.pathname.startsWith("/tags") ? "text-accent font-medium" : "",
     ]}>分类标签</a
   >
   <a
     href="/page/recommended-services"
     class:list={[
-      "navigation animation",
+      "navigation animation text-sm whitespace-nowrap md:text-base",
       Astro.url.pathname.startsWith("/page/recommended-services")
-        ? "text-accent"
+        ? "text-accent font-medium"
         : "",
     ]}>推荐服务</a
   >
@@ -30,6 +34,7 @@
     href="https://namecard.xiaoyuzhoufm.com/j7yhu"
     target="_blank"
     rel="noopener noreferrer"
-    class="navigation animation">🎧数字游民播客</a
+    class="navigation animation text-sm whitespace-nowrap md:text-base"
+    >🎧数字游民播客</a
   >
 </nav>
