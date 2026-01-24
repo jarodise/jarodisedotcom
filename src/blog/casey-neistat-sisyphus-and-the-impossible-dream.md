@@ -1,10 +1,15 @@
 ---
-slug: "casey-neistat-sisyphus-and-the-impossible-dream"
-title: "一个比贾玲的《热辣滚烫》更励志的故事"
-description: "最近几天，随着贺岁片《热辣滚烫》的猛烈宣发攻势，大家都在热议贾玲减肥100斤的励志故事。"
-date: 2024-02-11
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: casey-neistat-sisyphus-and-the-impossible-dream
+title: 一个比贾玲的《热辣滚烫》更励志的故事
+description: 最近几天，随着贺岁片《热辣滚烫》的猛烈宣发攻势，大家都在热议贾玲减肥100斤的励志故事。
+date: 2024-02-11T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Casey Neistat
+  - 励志
+  - 生活方式
+  - 跑步
+  - 马拉松
 featured: false
 editable: true
 ---

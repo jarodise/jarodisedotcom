@@ -1,10 +1,17 @@
 ---
-slug: "from-china-hohhot-to-poland-lodz-through-azerbaijan-baku-georgia-tbilisi-borjomi-batumi"
-title: "数字游民西行漫记 - 从内蒙古呼和浩特到波兰罗兹"
-description: "自从2014年认识我太太开始，我们就保持了每两年回一次她波兰娘家的习惯，一方面是为了探望亲属，另一方面也因为我们都很喜欢波兰的夏天，天气不热，各种节庆活动比较丰富，而且各种时令水果也好吃便宜。"
-date: 2019-08-03
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: >-
+  from-china-hohhot-to-poland-lodz-through-azerbaijan-baku-georgia-tbilisi-borjomi-batumi
+title: 数字游民西行漫记 - 从内蒙古呼和浩特到波兰罗兹
+description: >-
+  自从2014年认识我太太开始，我们就保持了每两年回一次她波兰娘家的习惯，一方面是为了探望亲属，另一方面也因为我们都很喜欢波兰的夏天，天气不热，各种节庆活动比较丰富，而且各种时令水果也好吃便宜。
+date: 2019-08-03T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 丝绸之路
+  - 数字游民
+  - 旅行
+  - 游记
+  - 跨国旅行
 featured: false
 editable: true
 ---

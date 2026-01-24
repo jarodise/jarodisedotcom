@@ -1,10 +1,16 @@
 ---
-slug: "digital-nomad-understanding-and-definition-of-financial-freedom-new-rich-1"
-title: "一个数字游民对财富自由的理解"
-description: "财富自由可能是绝大多数人一辈子的奋斗的目标。到底什么是财富自由？我想世界上没有任何一个人可以给其下一个标准定义，有人说财富自由就是出门旅行住五星酒店，飞头等舱；有人说财富自由就是去超市买东西不用看价格；还有人说财富自由之后喝酸奶不需要用舌头舔盖子了。。。诸如此类。"
-date: 2017-02-01
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: digital-nomad-understanding-and-definition-of-financial-freedom-new-rich-1
+title: 一个数字游民对财富自由的理解
+description: >-
+  财富自由可能是绝大多数人一辈子的奋斗的目标。到底什么是财富自由？我想世界上没有任何一个人可以给其下一个标准定义，有人说财富自由就是出门旅行住五星酒店，飞头等舱；有人说财富自由就是去超市买东西不用看价格；还有人说财富自由之后喝酸奶不需要用舌头舔盖子了。。。诸如此类。
+date: 2017-02-01T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 思考
+  - 数字游民
+  - 新富人
+  - 生活方式设计
+  - 财富自由
 featured: false
 editable: true
 ---

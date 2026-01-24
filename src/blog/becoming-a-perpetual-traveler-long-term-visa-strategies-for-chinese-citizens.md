@@ -1,10 +1,15 @@
 ---
-slug: "becoming-a-perpetual-traveler-long-term-visa-strategies-for-chinese-citizens"
-title: "如何成为一名真正的世界公民 - 谈数字游民的长期签证策略"
-description: "最近有位朋友在数字游民知识星球问到数字游民在国外时候如何获取长期签证，我想就此机会系统地回答一下这个问题。"
-date: 2018-04-13
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: becoming-a-perpetual-traveler-long-term-visa-strategies-for-chinese-citizens
+title: 如何成为一名真正的世界公民 - 谈数字游民的长期签证策略
+description: 最近有位朋友在数字游民知识星球问到数字游民在国外时候如何获取长期签证，我想就此机会系统地回答一下这个问题。
+date: 2018-04-13T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 全球公民
+  - 数字游民
+  - 策略
+  - 签证
+  - 长期旅居
 featured: false
 editable: true
 ---

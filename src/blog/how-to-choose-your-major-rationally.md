@@ -1,10 +1,15 @@
 ---
-slug: "how-to-choose-your-major-rationally"
-title: "张雪峰的工具理性之锤以及高考志愿应该如何填报"
-description: "最近几天临近高考报志愿，张雪峰关于新闻学专业的言论再次引发争议，冲上热搜。"
-date: 2023-06-21
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: how-to-choose-your-major-rationally
+title: 张雪峰的工具理性之锤以及高考志愿应该如何填报
+description: 最近几天临近高考报志愿，张雪峰关于新闻学专业的言论再次引发争议，冲上热搜。
+date: 2023-06-21T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 思考
+  - 教育
+  - 生活方式
+  - 职业规划
+  - 高考志愿
 featured: false
 editable: true
 ---

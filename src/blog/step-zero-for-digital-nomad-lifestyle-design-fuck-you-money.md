@@ -1,10 +1,15 @@
 ---
-slug: "step-zero-for-digital-nomad-lifestyle-design-fuck-you-money"
-title: "数字游民生活方式设计的第0步 - F-You Money (视频）"
-description: "数字游民生活方式设计的第0步 - F-You Money (视频）"
-date: 2022-05-14
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: step-zero-for-digital-nomad-lifestyle-design-fuck-you-money
+title: 数字游民生活方式设计的第0步 - F-You Money (视频）
+description: 数字游民生活方式设计的第0步 - F-You Money (视频）
+date: 2022-05-14T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - F-You Money
+  - 准备
+  - 数字游民
+  - 理财
+  - 生活方式设计
 featured: false
 editable: true
 ---

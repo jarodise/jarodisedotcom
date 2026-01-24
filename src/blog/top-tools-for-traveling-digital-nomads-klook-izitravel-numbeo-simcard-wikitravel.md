@@ -1,10 +1,17 @@
 ---
-slug: "top-tools-for-traveling-digital-nomads-klook-izitravel-numbeo-simcard-wikitravel"
-title: "数字游民常用的旅行利器都有哪些？"
-description: "俗话说：工欲善其事必先利其器。作为一名数字游民，过去的四年中，我每年都要花3-4个月在国外各地旅行/旅居，对我而言，提升旅行幸福感的关键来自于对各种互联网信息和工具的熟练应用。我也想借这个问题，抛砖引玉，与大家分享几个我近几年发现的，并且还没有被主流媒体大肆报道的境外旅行神器："
-date: 2019-08-22
-author: "数字游民Jarod"
-tags: ["数字游民","旅行"]
+slug: >-
+  top-tools-for-traveling-digital-nomads-klook-izitravel-numbeo-simcard-wikitravel
+title: 数字游民常用的旅行利器都有哪些？
+description: >-
+  俗话说：工欲善其事必先利其器。作为一名数字游民，过去的四年中，我每年都要花3-4个月在国外各地旅行/旅居，对我而言，提升旅行幸福感的关键来自于对各种互联网信息和工具的熟练应用。我也想借这个问题，抛砖引玉，与大家分享几个我近几年发现的，并且还没有被主流媒体大肆报道的境外旅行神器：
+date: 2019-08-22T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - App
+  - 工具
+  - 效率
+  - 数字游民
+  - 旅行
 featured: false
 editable: true
 ---

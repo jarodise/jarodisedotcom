@@ -1,10 +1,15 @@
 ---
-slug: "creator-economy-is-the-best-vehicle-for-digital-nomad-lifestyle-design"
-title: "创作者经济是打造数字游民生活方式的最佳赛道"
-description: "『创作者经济』(Creator Economy)可能是近几年互联网上最火的一个词之一。"
-date: 2022-07-24
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: creator-economy-is-the-best-vehicle-for-digital-nomad-lifestyle-design
+title: 创作者经济是打造数字游民生活方式的最佳赛道
+description: 『创作者经济』(Creator Economy)可能是近几年互联网上最火的一个词之一。
+date: 2022-07-24T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 个人成长
+  - 内容创业
+  - 创作者经济
+  - 数字游民
+  - 生活方式设计
 featured: false
 editable: true
 ---

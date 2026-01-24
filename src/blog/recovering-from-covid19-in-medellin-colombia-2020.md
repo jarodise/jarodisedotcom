@@ -1,10 +1,15 @@
 ---
-slug: "recovering-from-covid19-in-medellin-colombia-2020"
-title: "数字游民麦德林封城日记完结篇 - 在哥伦比亚中招新冠病毒是一种什么样的体验"
-description: "旅行这么多年，有一句话让我感同身受：只要时间维度拉得足够长，再低概率的意外事件都会大概率发生。"
-date: 2020-09-17
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: recovering-from-covid19-in-medellin-colombia-2020
+title: 数字游民麦德林封城日记完结篇 - 在哥伦比亚中招新冠病毒是一种什么样的体验
+description: 旅行这么多年，有一句话让我感同身受：只要时间维度拉得足够长，再低概率的意外事件都会大概率发生。
+date: 2020-09-17T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 亲身经历
+  - 哥伦比亚
+  - 数字游民
+  - 新冠康复
+  - 麦德林
 featured: false
 editable: true
 ---

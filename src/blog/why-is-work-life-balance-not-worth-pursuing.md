@@ -1,10 +1,17 @@
 ---
-slug: "why-is-work-life-balance-not-worth-pursuing"
-title: "让Work-Life Balance(工作与生活平衡)成为一个伪命题"
-description: "当代职场，『Work/Life Balance』(工作/生活平衡)是一个经常被提起的概念，它也是很多人在薪资水平之外，用来考量工作职位质量高低的主要指标之一。"
-date: 2021-12-13
-author: "数字游民Jarod"
-tags: ["远程工作"]
+slug: why-is-work-life-balance-not-worth-pursuing
+title: 让Work-Life Balance(工作与生活平衡)成为一个伪命题
+description: >-
+  当代职场，『Work/Life
+  Balance』(工作/生活平衡)是一个经常被提起的概念，它也是很多人在薪资水平之外，用来考量工作职位质量高低的主要指标之一。
+date: 2021-12-13T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Work-Life Balance
+  - 反直觉
+  - 思考
+  - 职业观
+  - 远程工作
 featured: false
 editable: true
 ---

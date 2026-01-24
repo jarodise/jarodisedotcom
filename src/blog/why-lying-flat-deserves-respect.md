@@ -1,10 +1,15 @@
 ---
-slug: "why-lying-flat-deserves-respect"
-title: "为什么“躺平”值得被尊重？"
-description: "毫无疑问，最近这两年“选择”躺平的人越来越多了。从某种程度上讲，躺平是不符合我们的社会主流价值观的，也是政治不正确的。"
-date: 2023-11-16
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: why-lying-flat-deserves-respect
+title: 为什么“躺平”值得被尊重？
+description: 毫无疑问，最近这两年“选择”躺平的人越来越多了。从某种程度上讲，躺平是不符合我们的社会主流价值观的，也是政治不正确的。
+date: 2023-11-16T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 价值观
+  - 内卷
+  - 生活方式
+  - 社会思考
+  - 躺平
 featured: false
 editable: true
 ---

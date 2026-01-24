@@ -1,10 +1,17 @@
 ---
-slug: "my-book-of-the-year-in-2023-ishmael-by-daniel-quinn"
-title: "年度好书推荐👉《大猩猩对话录》：人类文明是否一条注定引向自我毁灭的弯路"
-description: "这应该是我今年读到的最具有启发性的一本书：书名《Ishmael》（中文译名《大猩猩对话录》，但是目前好像还没有正式的简体中文译本），作者是美国作家Daniel Quinn。"
-date: 2023-12-10
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: my-book-of-the-year-in-2023-ishmael-by-daniel-quinn
+title: "年度好书推荐\U0001F449《大猩猩对话录》：人类文明是否一条注定引向自我毁灭的弯路"
+description: >-
+  这应该是我今年读到的最具有启发性的一本书：书名《Ishmael》（中文译名《大猩猩对话录》，但是目前好像还没有正式的简体中文译本），作者是美国作家Daniel
+  Quinn。
+date: 2023-12-10T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Ishmael
+  - 书评
+  - 哲学
+  - 生活方式
+  - 阅读
 featured: false
 editable: true
 ---

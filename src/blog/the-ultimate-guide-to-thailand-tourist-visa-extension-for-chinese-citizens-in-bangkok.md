@@ -1,10 +1,18 @@
 ---
-slug: "the-ultimate-guide-to-thailand-tourist-visa-extension-for-chinese-citizens-in-bangkok"
-title: "泰国旅游签证延期完全攻略（曼谷版）"
-description: "在之前的文章**如何成为一名真正的世界公民 - 谈数字游民的长期签证策略**中我曾经提到过，对于想在泰国居住小于一年的数字游民来说，提前办好纸签然后再来泰国本地延期一个月是最具性价比的一个解决方案，可以做到一次入境呆满三个月。"
-date: 2018-11-03
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: >-
+  the-ultimate-guide-to-thailand-tourist-visa-extension-for-chinese-citizens-in-bangkok
+title: 泰国旅游签证延期完全攻略（曼谷版）
+description: >-
+  在之前的文章**如何成为一名真正的世界公民 -
+  谈数字游民的长期签证策略**中我曾经提到过，对于想在泰国居住小于一年的数字游民来说，提前办好纸签然后再来泰国本地延期一个月是最具性价比的一个解决方案，可以做到一次入境呆满三个月。
+date: 2018-11-03T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 攻略
+  - 曼谷
+  - 泰国
+  - 生活方式
+  - 签证
 featured: false
 editable: true
 ---

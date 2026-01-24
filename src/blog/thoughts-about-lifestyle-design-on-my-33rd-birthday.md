@@ -1,10 +1,15 @@
 ---
-slug: "thoughts-about-lifestyle-design-on-my-33rd-birthday"
-title: "聊聊我的头两份工作"
-description: "我的第一份工作比较特别，工作地点在非洲乍得和喀麦隆接壤的一片广袤的热带草原上。"
-date: 2019-08-26
-author: "数字游民Jarod"
-tags: ["远程工作"]
+slug: thoughts-about-lifestyle-design-on-my-33rd-birthday
+title: 聊聊我的头两份工作
+description: 我的第一份工作比较特别，工作地点在非洲乍得和喀麦隆接壤的一片广袤的热带草原上。
+date: 2019-08-26T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 个人故事
+  - 生活方式设计
+  - 石油行业
+  - 职业回顾
+  - 远程工作
 featured: false
 editable: true
 ---

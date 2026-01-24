@@ -1,10 +1,19 @@
 ---
-slug: "1000-true-fans-fanyi-translated-chinese-version-tools-of-titans-kevin-kelly-tim-ferriss"
-title: "内容创业必读！- 1000个铁杆粉（”1000 True Fans” ToT修订翻译版）"
-description: "第一次听说“1000 True Fans”这篇文章是在Pat Flynn的某期播客上面，当时不以为然，直到后来又被好几个数字游民大咖和互联网创业意见领袖们强势安利了几波，才把这篇文章找过来看。头一回看就有茅塞顿开，惊为天人之感，也从那时候起对Kevin Kelly（以下简称KK）路人转粉，佩服得五体投地。"
-date: 2017-01-18
-author: "数字游民Jarod"
-tags: ["创业"]
+slug: >-
+  1000-true-fans-fanyi-translated-chinese-version-tools-of-titans-kevin-kelly-tim-ferriss
+title: 内容创业必读！- 1000个铁杆粉（”1000 True Fans” ToT修订翻译版）
+description: >-
+  第一次听说“1000 True Fans”这篇文章是在Pat
+  Flynn的某期播客上面，当时不以为然，直到后来又被好几个数字游民大咖和互联网创业意见领袖们强势安利了几波，才把这篇文章找过来看。头一回看就有茅塞顿开，惊为天人之感，也从那时候起对Kevin
+  Kelly（以下简称KK）路人转粉，佩服得五体投地。
+date: 2017-01-18T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 内容创作
+  - 创业
+  - 数字游民
+  - 经典阅读
+  - 翻译
 featured: false
 editable: true
 ---

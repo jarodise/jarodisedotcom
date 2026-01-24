@@ -1,10 +1,17 @@
 ---
-slug: "fire-stands-for-financial-independence-retire-early"
-title: "“火”了以后的人生是什么样的？- 聊一聊fire"
-description: "首先需要声明，标题里面的“火”，并不是我们中文传统意义上的“火”，而是来自英文单词“FIRE”，它是“Financial Independence, Retire Early”这四个单词首字母的缩写，即“财务独立，提前退休”，和数字游民一样，是最近几年日渐流行的一种新生活方式运动。"
-date: 2019-03-13
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: fire-stands-for-financial-independence-retire-early
+title: “火”了以后的人生是什么样的？- 聊一聊fire
+description: >-
+  首先需要声明，标题里面的“火”，并不是我们中文传统意义上的“火”，而是来自英文单词“FIRE”，它是“Financial Independence,
+  Retire Early”这四个单词首字母的缩写，即“财务独立，提前退休”，和数字游民一样，是最近几年日渐流行的一种新生活方式运动。
+date: 2019-03-13T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - FIRE
+  - 提前退休
+  - 理财
+  - 生活方式
+  - 财富自由
 featured: false
 editable: true
 ---

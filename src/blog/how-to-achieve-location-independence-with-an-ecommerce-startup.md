@@ -1,10 +1,17 @@
 ---
-slug: "how-to-achieve-location-independence-with-an-ecommerce-startup"
-title: "如何通过电商创业打造数字游民生活方式"
-description: "最近好几个朋友在微信上问我类似的问题：\"Jarod, 我很向往数字游民生活方式，你讲的那些道理我也都懂，但是我第一没有能够直接拿来在网上赚钱的技能，第二又缺乏做内容创业的耐心，**有没有一种技术门槛略低，又对内容产出要求不那么高的职业选择能够实现数字游民生活方式呢？“我的答案是：有，电商创业**。其实我在数字游..."
-date: 2018-07-21
-author: "数字游民Jarod"
-tags: ["数字游民","创业"]
+slug: how-to-achieve-location-independence-with-an-ecommerce-startup
+title: 如何通过电商创业打造数字游民生活方式
+description: >-
+  最近好几个朋友在微信上问我类似的问题："Jarod,
+  我很向往数字游民生活方式，你讲的那些道理我也都懂，但是我第一没有能够直接拿来在网上赚钱的技能，第二又缺乏做内容创业的耐心，**有没有一种技术门槛略低，又对内容产出要求不那么高的职业选择能够实现数字游民生活方式呢？“我的答案是：有，电商创业**。其实我在数字游...
+date: 2018-07-21T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 创业
+  - 地理套利
+  - 数字游民
+  - 电商
+  - 被动收入
 featured: false
 editable: true
 ---

@@ -1,10 +1,15 @@
 ---
-slug: "my-thoughts-about-chatgpt"
-title: "学好语文，作人上人 - 一些关于ChatGPT的碎碎念"
-description: "经过一段时间的酝酿，ChatGPT终于在最近几天火爆了中文互联网。"
-date: 2023-02-07
-author: "数字游民Jarod"
-tags: ["人工智能"]
+slug: my-thoughts-about-chatgpt
+title: 学好语文，作人上人 - 一些关于ChatGPT的碎碎念
+description: 经过一段时间的酝酿，ChatGPT终于在最近几天火爆了中文互联网。
+date: 2023-02-07T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - ChatGPT
+  - 人工智能
+  - 思考
+  - 未来
+  - 科技
 featured: false
 editable: true
 ---

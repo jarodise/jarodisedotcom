@@ -1,10 +1,17 @@
 ---
-slug: "nikocado-avocado-is-always-two-steps-ahead-indeed"
-title: "有些人天生就是做网红的料，你不服都不行"
-description: "今天，英文互联网上最炸裂的一个新闻，莫过于油管吃播界网红Nikocado Avocado在停更7个月后“大变活人式”的回归。这条视频在一天时间内点击量就超过了2200万。"
-date: 2024-09-08
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: nikocado-avocado-is-always-two-steps-ahead-indeed
+title: 有些人天生就是做网红的料，你不服都不行
+description: >-
+  今天，英文互联网上最炸裂的一个新闻，莫过于油管吃播界网红Nikocado
+  Avocado在停更7个月后“大变活人式”的回归。这条视频在一天时间内点击量就超过了2200万。
+date: 2024-09-08T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 互联网现象
+  - 思考
+  - 生活方式
+  - 网红
+  - 自媒体
 featured: false
 editable: true
 ---

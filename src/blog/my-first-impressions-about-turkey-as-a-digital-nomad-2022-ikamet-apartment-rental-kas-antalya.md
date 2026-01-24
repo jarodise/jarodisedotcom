@@ -1,10 +1,17 @@
 ---
-slug: "my-first-impressions-about-turkey-as-a-digital-nomad-2022-ikamet-apartment-rental-kas-antalya"
-title: "初到土耳其 - 第一印象，租房以及居留证申请"
-description: "在波兰娘家休养生息半年之后，我们在2022年伊始搬到了全新的国家：土耳其。今天这篇文章，我想跟大伙聊聊我对这个国家的第一印象，我们在安塔利亚找房租房的经历，以及有关土耳其居留证申请的一些细节信息。"
-date: 2022-01-19
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: >-
+  my-first-impressions-about-turkey-as-a-digital-nomad-2022-ikamet-apartment-rental-kas-antalya
+title: 初到土耳其 - 第一印象，租房以及居留证申请
+description: >-
+  在波兰娘家休养生息半年之后，我们在2022年伊始搬到了全新的国家：土耳其。今天这篇文章，我想跟大伙聊聊我对这个国家的第一印象，我们在安塔利亚找房租房的经历，以及有关土耳其居留证申请的一些细节信息。
+date: 2022-01-19T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 土耳其
+  - 数字游民
+  - 生活方式
+  - 租房
+  - 签证
 featured: false
 editable: true
 ---

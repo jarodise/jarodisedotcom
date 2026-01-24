@@ -1,10 +1,15 @@
 ---
-slug: "concepts-digital-nomad-freelancer-slash-affiliate-marketing-difference"
-title: "一篇文章搞明白数字游民的核心概念以及各种相关易混淆概念"
-description: "“数字游民就是自由职业者吗？ “斜杠青年是不是也是数字游民？“"
-date: 2017-02-09
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: concepts-digital-nomad-freelancer-slash-affiliate-marketing-difference
+title: 一篇文章搞明白数字游民的核心概念以及各种相关易混淆概念
+description: “数字游民就是自由职业者吗？ “斜杠青年是不是也是数字游民？“
+date: 2017-02-09T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 数字游民
+  - 斜杠青年
+  - 概念解析
+  - 自由职业
+  - 被动收入
 featured: false
 editable: true
 ---

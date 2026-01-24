@@ -1,10 +1,16 @@
 ---
-slug: "what-are-the-most-essential-english-words-to-learn"
-title: "如何用最短的时间科学地增加英语词汇量"
-description: "学习一门外语，背单词是一道无论如何都绕不过去的坎儿。把学习一门语言比喻成盖房子，那么单词就是就是你的砖瓦，没有可靠的单词量，那么语言学习的进度势必会遭遇瓶颈。"
-date: 2017-09-02
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: what-are-the-most-essential-english-words-to-learn
+title: 如何用最短的时间科学地增加英语词汇量
+description: >-
+  学习一门外语，背单词是一道无论如何都绕不过去的坎儿。把学习一门语言比喻成盖房子，那么单词就是就是你的砖瓦，没有可靠的单词量，那么语言学习的进度势必会遭遇瓶颈。
+date: 2017-09-02T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 方法论
+  - 生活方式
+  - 英语学习
+  - 词汇
+  - 高效
 featured: false
 editable: true
 ---

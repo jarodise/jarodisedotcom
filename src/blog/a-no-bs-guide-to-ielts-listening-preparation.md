@@ -1,10 +1,16 @@
 ---
-slug: "a-no-bs-guide-to-ielts-listening-preparation"
-title: "雅思听力满分是如何炼成的 - A No BS Guide"
-description: "我考过两次雅思（2011和2015），第一次听力9分（满分），第二次8分。第一次考试前，唯一的备考行为是做了一套剑桥真题模考，检查后发现只错了一题，后面就没有再做过听力的专项备考了。第二次考试听力部分是完全裸考，没有答满分主要是考试过程中有个瞬间注意力不集中导致漏听造成的。"
-date: 2018-03-12
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: a-no-bs-guide-to-ielts-listening-preparation
+title: 雅思听力满分是如何炼成的 - A No BS Guide
+description: >-
+  我考过两次雅思（2011和2015），第一次听力9分（满分），第二次8分。第一次考试前，唯一的备考行为是做了一套剑桥真题模考，检查后发现只错了一题，后面就没有再做过听力的专项备考了。第二次考试听力部分是完全裸考，没有答满分主要是考试过程中有个瞬间注意力不集中导致漏听造成的。
+date: 2018-03-12T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 听力
+  - 考试技巧
+  - 自我提升
+  - 英语学习
+  - 雅思
 featured: false
 editable: true
 ---

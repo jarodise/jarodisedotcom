@@ -1,10 +1,15 @@
 ---
-slug: "how-to-start-creating-content-in-2023-the-ultimate-guide"
-title: "2023年如何从零开始内容创业"
-description: "我之前曾经在多篇文章中反复论证过创作者经济是打造数字游民生活方式的最佳赛道。"
-date: 2023-02-05
-author: "数字游民Jarod"
-tags: ["创业"]
+slug: how-to-start-creating-content-in-2023-the-ultimate-guide
+title: 2023年如何从零开始内容创业
+description: 我之前曾经在多篇文章中反复论证过创作者经济是打造数字游民生活方式的最佳赛道。
+date: 2023-02-05T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - '2023'
+  - 内容创作
+  - 创业
+  - 实操
+  - 指南
 featured: false
 editable: true
 ---

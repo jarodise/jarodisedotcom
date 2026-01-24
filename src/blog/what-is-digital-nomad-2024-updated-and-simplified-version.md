@@ -1,10 +1,15 @@
 ---
-slug: "what-is-digital-nomad-2024-updated-and-simplified-version"
-title: "什么是数字游民？（2024最新简化版）"
-description: "在很长的一段时间里，“数字游民”都是中文互联网上的一个几乎无人问津的冷门内容细分。"
-date: 2024-01-29
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: what-is-digital-nomad-2024-updated-and-simplified-version
+title: 什么是数字游民？（2024最新简化版）
+description: 在很长的一段时间里，“数字游民”都是中文互联网上的一个几乎无人问津的冷门内容细分。
+date: 2024-01-29T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - '2024'
+  - 扫盲
+  - 数字游民
+  - 最新指南
+  - 趋势
 featured: true
 editable: true
 ---

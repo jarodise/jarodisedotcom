@@ -1,10 +1,15 @@
 ---
-slug: "why-i-chose-logseq-as-my-writing-software"
-title: "我为什么选择用Logseq写作✍️"
-description: "从2015年开始内容创作以来，我一直在寻找一款适合自己的写作工具。"
-date: 2023-01-24
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: why-i-chose-logseq-as-my-writing-software
+title: 我为什么选择用Logseq写作✍️
+description: 从2015年开始内容创作以来，我一直在寻找一款适合自己的写作工具。
+date: 2023-01-24T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Logseq
+  - PKM
+  - 写作
+  - 工具
+  - 生活方式
 featured: false
 editable: true
 ---

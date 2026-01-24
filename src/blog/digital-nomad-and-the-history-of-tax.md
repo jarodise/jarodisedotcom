@@ -1,10 +1,15 @@
 ---
-slug: "digital-nomad-and-the-history-of-tax"
-title: "写给数字游民的全球税收简史"
-description: "“数字游民”这个词，代表的是一种极致的流动性。但只要这种流动需要依赖一本护照来完成，它就必然要面对一个古老而固定的权力：税。"
-date: 2025-08-06
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: digital-nomad-and-the-history-of-tax
+title: 写给数字游民的全球税收简史
+description: “数字游民”这个词，代表的是一种极致的流动性。但只要这种流动需要依赖一本护照来完成，它就必然要面对一个古老而固定的权力：税。
+date: 2025-08-06T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 全球化
+  - 历史
+  - 思考
+  - 数字游民
+  - 税务
 featured: false
 editable: true
 ---

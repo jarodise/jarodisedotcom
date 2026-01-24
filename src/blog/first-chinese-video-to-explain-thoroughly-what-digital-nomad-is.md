@@ -1,10 +1,16 @@
 ---
-slug: "first-chinese-video-to-explain-thoroughly-what-digital-nomad-is"
-title: "有可能是中文互联网第一条全面深度介绍数字游民的视频（内附文字稿）"
-description: "大家好，我是Jarod，中文自媒体『数字游民部落』的主理人。从2015年开始，我已经围绕数字游民生活方式设计这个话题创作了大量的文字内容，也收获了数以万计的读者。但是，迫于能力所限，我还一直未敢涉足视频和播客领域。"
-date: 2022-05-01
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: first-chinese-video-to-explain-thoroughly-what-digital-nomad-is
+title: 有可能是中文互联网第一条全面深度介绍数字游民的视频（内附文字稿）
+description: >-
+  大家好，我是Jarod，中文自媒体『数字游民部落』的主理人。从2015年开始，我已经围绕数字游民生活方式设计这个话题创作了大量的文字内容，也收获了数以万计的读者。但是，迫于能力所限，我还一直未敢涉足视频和播客领域。
+date: 2022-05-01T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Jarodise
+  - 数字游民
+  - 生活方式
+  - 科普
+  - 视频
 featured: false
 editable: true
 ---

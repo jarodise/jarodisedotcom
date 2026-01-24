@@ -1,10 +1,19 @@
 ---
-slug: "the-pros-and-cons-of-the-algorithm-driven-content-distribution-and-why-you-should-have-your-own-website"
-title: "对内容创业者来说，算法是一把双刃剑"
-description: "我对互联网的启蒙始于2000年左右，那时候也恰逢美国互联网泡沫的破灭和Web 2.0的兴起，它的标志性事件是博客（Blog）的诞生。Web2.0意味着每个互联网用户都可以低成本，低技术门槛地将自己生产的内容发布在互联网上，它对于互联网的影响是极为深远的。在Web 2.0之前，互联网跟作为一个媒体平台个传统媒体平台..."
-date: 2018-09-24
-author: "数字游民Jarod"
-tags: ["创业"]
+slug: >-
+  the-pros-and-cons-of-the-algorithm-driven-content-distribution-and-why-you-should-have-your-own-website
+title: 对内容创业者来说，算法是一把双刃剑
+description: >-
+  我对互联网的启蒙始于2000年左右，那时候也恰逢美国互联网泡沫的破灭和Web
+  2.0的兴起，它的标志性事件是博客（Blog）的诞生。Web2.0意味着每个互联网用户都可以低成本，低技术门槛地将自己生产的内容发布在互联网上，它对于互联网的影响是极为深远的。在Web
+  2.0之前，互联网跟作为一个媒体平台个传统媒体平台...
+date: 2018-09-24T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - SEO
+  - 内容分发
+  - 创业
+  - 独立站
+  - 算法
 featured: false
 editable: true
 ---

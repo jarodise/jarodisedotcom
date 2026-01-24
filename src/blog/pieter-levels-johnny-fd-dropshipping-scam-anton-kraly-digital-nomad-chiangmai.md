@@ -1,10 +1,18 @@
 ---
-slug: "pieter-levels-johnny-fd-dropshipping-scam-anton-kraly-digital-nomad-chiangmai"
-title: "（爆料）大神Pieter Levels隔空喊话 - 警惕披着数字游民外衣的诈骗陷阱！"
-description: "提到Pieter Levels这个名字，数字游民的圈子里可谓无人不知，无人不晓。他一手打造的Nomadlist.com俨然已经成长为全球数字游民的核心信息门户网站，而依托于Nomadlist的数字游民社群Hashtag Nomad也笼络了全世界数字游民圈的各路翘楚，是全世界DN最核心的圈子之一。有人甚至说Leve..."
-date: 2017-02-28
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: pieter-levels-johnny-fd-dropshipping-scam-anton-kraly-digital-nomad-chiangmai
+title: （爆料）大神Pieter Levels隔空喊话 - 警惕披着数字游民外衣的诈骗陷阱！
+description: >-
+  提到Pieter
+  Levels这个名字，数字游民的圈子里可谓无人不知，无人不晓。他一手打造的Nomadlist.com俨然已经成长为全球数字游民的核心信息门户网站，而依托于Nomadlist的数字游民社群Hashtag
+  Nomad也笼络了全世界数字游民圈的各路翘楚，是全世界DN最核心的圈子之一。有人甚至说Leve...
+date: 2017-02-28T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Dropshipping
+  - Pieter Levels
+  - 数字游民
+  - 清迈
+  - 避坑
 featured: false
 editable: true
 ---

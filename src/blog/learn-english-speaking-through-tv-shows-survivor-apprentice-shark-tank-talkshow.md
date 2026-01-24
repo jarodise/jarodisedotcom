@@ -1,10 +1,17 @@
 ---
-slug: "learn-english-speaking-through-tv-shows-survivor-apprentice-shark-tank-talkshow"
-title: "如何通过看美剧学英语口语 - 暨一份“不寻常”的美剧推荐单"
-description: "作为一个没有机会去英语母语国家进行沉浸式学习的英语学习者，看美剧其实是一个极好的，不无聊的，并且廉价高效的沉浸式英语学习方法，持续大量地观看美剧会让你从听力，语感，发音和文化积累等多个层面逐渐提高英语水平。随着美剧资源的逐渐丰富，看美剧这种方法也逐渐被广大英语教学者和学习者所采纳和接受，比如新东方就推出过基于经典..."
-date: 2016-10-09
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: >-
+  learn-english-speaking-through-tv-shows-survivor-apprentice-shark-tank-talkshow
+title: 如何通过看美剧学英语口语 - 暨一份“不寻常”的美剧推荐单
+description: >-
+  作为一个没有机会去英语母语国家进行沉浸式学习的英语学习者，看美剧其实是一个极好的，不无聊的，并且廉价高效的沉浸式英语学习方法，持续大量地观看美剧会让你从听力，语感，发音和文化积累等多个层面逐渐提高英语水平。随着美剧资源的逐渐丰富，看美剧这种方法也逐渐被广大英语教学者和学习者所采纳和接受，比如新东方就推出过基于经典...
+date: 2016-10-09T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 口语
+  - 娱乐学习
+  - 生活方式
+  - 美剧
+  - 英语学习
 featured: false
 editable: true
 ---

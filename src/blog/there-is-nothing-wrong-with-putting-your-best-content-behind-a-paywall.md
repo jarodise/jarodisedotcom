@@ -1,10 +1,17 @@
 ---
-slug: "there-is-nothing-wrong-with-putting-your-best-content-behind-a-paywall"
-title: "聊聊b站up主付费视频掉粉这件事"
-description: "在互联网营销领域有一篇人尽皆知的神文，那就是KK(Kevin Kelly)在2008年发表的\"1000 True Fans(1000个铁杆粉)\"。这篇文章的大意是说，当一个创作者拥有了1000个铁杆粉之后，TA就可以全心全意集中精力创作，而不用为生计而发愁，也不用为广告主的五斗米而折腰了。"
-date: 2022-06-25
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: there-is-nothing-wrong-with-putting-your-best-content-behind-a-paywall
+title: 聊聊b站up主付费视频掉粉这件事
+description: >-
+  在互联网营销领域有一篇人尽皆知的神文，那就是KK(Kevin Kelly)在2008年发表的"1000 True
+  Fans(1000个铁杆粉)"。这篇文章的大意是说，当一个创作者拥有了1000个铁杆粉之后，TA就可以全心全意集中精力创作，而不用为生计而发愁，也不用为广告主的五斗米而折腰了。
+date: 2022-06-25T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 内容付费
+  - 创作者经济
+  - 生活方式
+  - 观点
+  - 铁杆粉
 featured: false
 editable: true
 ---

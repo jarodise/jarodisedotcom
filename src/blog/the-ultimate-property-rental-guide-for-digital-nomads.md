@@ -1,10 +1,16 @@
 ---
-slug: "the-ultimate-property-rental-guide-for-digital-nomads"
-title: "数字游民环球旅居终极租房指南(附fb小组求租信息模板）"
-description: "租房是所有数字游民们在海外旅居时都需要面对的一项必考科目，今天这篇文章我想结合最近两年我在拉丁美洲的几例租房实例经验，跟大伙聊聊如何多快好省地找到自己的心仪房源:"
-date: 2021-04-10
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: the-ultimate-property-rental-guide-for-digital-nomads
+title: 数字游民环球旅居终极租房指南(附fb小组求租信息模板）
+description: >-
+  租房是所有数字游民们在海外旅居时都需要面对的一项必考科目，今天这篇文章我想结合最近两年我在拉丁美洲的几例租房实例经验，跟大伙聊聊如何多快好省地找到自己的心仪房源:
+date: 2021-04-10T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 攻略
+  - 数字游民
+  - 旅居
+  - 生活技巧
+  - 租房
 featured: true
 editable: true
 ---

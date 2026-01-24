@@ -1,10 +1,15 @@
 ---
-slug: "sunk-cost-opportunity-cost-and-life-choices"
-title: "沉没成本，机会成本与数字游民的人生选择"
-description: "前不久我收到一条读者的留言，希望我能够写一篇关于\"选择\"的文章。其实这也是一个我个人思考过很久的选题，数字游民不仅仅是一种生活方式，也是一种人生的选择。"
-date: 2025-08-03
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: sunk-cost-opportunity-cost-and-life-choices
+title: 沉没成本，机会成本与数字游民的人生选择
+description: 前不久我收到一条读者的留言，希望我能够写一篇关于"选择"的文章。其实这也是一个我个人思考过很久的选题，数字游民不仅仅是一种生活方式，也是一种人生的选择。
+date: 2025-08-03T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 人生选择
+  - 决策
+  - 数字游民
+  - 沉没成本
+  - 经济学思维
 featured: false
 editable: true
 ---

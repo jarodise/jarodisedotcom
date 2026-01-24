@@ -1,10 +1,16 @@
 ---
-slug: "the-ultimate-playa-del-carmen-guide-for-digital-nomads"
-title: "数字游民终极城市指南：墨西哥Playa Del Carmen"
-description: "在到达墨西哥之前，拉美一直是我这些年世界旅行地图上的一块空白，和一些资深旅行者聊天时候，每到拉美的部分我就只有听的份儿，于是我在2019年初我就暗下定决心，要在2020年到来之前打卡拉美，并借此机会捡起自己之前一直没能学会的西班牙语。"
-date: 2020-01-11
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: the-ultimate-playa-del-carmen-guide-for-digital-nomads
+title: 数字游民终极城市指南：墨西哥Playa Del Carmen
+description: >-
+  在到达墨西哥之前，拉美一直是我这些年世界旅行地图上的一块空白，和一些资深旅行者聊天时候，每到拉美的部分我就只有听的份儿，于是我在2019年初我就暗下定决心，要在2020年到来之前打卡拉美，并借此机会捡起自己之前一直没能学会的西班牙语。
+date: 2020-01-11T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Playa Del Carmen
+  - 城市指南
+  - 墨西哥
+  - 数字游民
+  - 旅居
 featured: false
 editable: true
 ---

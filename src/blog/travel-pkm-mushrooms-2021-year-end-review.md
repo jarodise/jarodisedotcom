@@ -1,10 +1,15 @@
 ---
-slug: "travel-pkm-mushrooms-2021-year-end-review"
-title: "旅行，pkm和蘑菇 - 我的2021年终总结"
-description: "相比充满各种惊喜，坎坷和无奈的2020，我的2021虽然依然笼罩在新冠疫情的阴影之下，但是明显要从容惬意不少。"
-date: 2021-12-30
-author: "数字游民Jarod"
-tags: ["旅行","年终总结"]
+slug: travel-pkm-mushrooms-2021-year-end-review
+title: 旅行，pkm和蘑菇 - 我的2021年终总结
+description: 相比充满各种惊喜，坎坷和无奈的2020，我的2021虽然依然笼罩在新冠疫情的阴影之下，但是明显要从容惬意不少。
+date: 2021-12-30T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - '2021'
+  - PKM
+  - 年终总结
+  - 旅行
+  - 蘑菇
 featured: false
 editable: true
 ---

@@ -1,10 +1,15 @@
 ---
-slug: "first-year-annual-summary-jarodise"
-title: "创办数字游民部落这一年我都学到什么？"
-description: "2015年6月初，我抱着试试看的态度第一次开始认真经营一个自媒体，它就是“数字游民部落”。"
-date: 2016-08-09
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: first-year-annual-summary-jarodise
+title: 创办数字游民部落这一年我都学到什么？
+description: 2015年6月初，我抱着试试看的态度第一次开始认真经营一个自媒体，它就是“数字游民部落”。
+date: 2016-08-09T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 内容创业
+  - 回顾
+  - 年终总结
+  - 数字游民
+  - 部落
 featured: false
 editable: true
 ---

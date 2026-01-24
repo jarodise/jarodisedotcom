@@ -1,10 +1,15 @@
 ---
-slug: "covid19-pandemic-lockdown-life-in-medellin-colombia-digital-nomad"
-title: "数字游民哥伦比亚麦德林封城日记 - 01"
-description: "最近新冠疫情的防控压力逐渐从国内转向了海外，鉴于很多朋友都发信息询问我的状况，遂决定写篇文章，跟大伙汇报一下。"
-date: 2020-03-19
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: covid19-pandemic-lockdown-life-in-medellin-colombia-digital-nomad
+title: 数字游民哥伦比亚麦德林封城日记 - 01
+description: 最近新冠疫情的防控压力逐渐从国内转向了海外，鉴于很多朋友都发信息询问我的状况，遂决定写篇文章，跟大伙汇报一下。
+date: 2020-03-19T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 哥伦比亚
+  - 数字游民
+  - 旅居
+  - 疫情日记
+  - 麦德林
 featured: false
 editable: true
 ---

@@ -1,10 +1,17 @@
 ---
-slug: "5-ways-to-make-new-friends-on-the-road-traveling-couchsurfing-hostel-pub-crawl-free-walking-tour"
-title: "一个人旅行如何才能不寂寞 - 解锁5种旅行中搭伴儿的绝佳方法"
-description: "从2010年到2012年这段时间，我正在非洲油田上工作，由于所在的国家比较特殊，我的工作作息制度是连续工作四周，之后连续休假四周。这也给了我大把的自由时间去旅行，但是毕竟能有这样作息制度的人还是极少数，所以这个期间我的旅行大多都是一个人，也在这个过程中摸索出了一些一个人独自旅行的经验，今天我就抛砖引玉，聊聊我一个..."
-date: 2016-09-25
-author: "数字游民Jarod"
-tags: ["旅行"]
+slug: >-
+  5-ways-to-make-new-friends-on-the-road-traveling-couchsurfing-hostel-pub-crawl-free-walking-tour
+title: 一个人旅行如何才能不寂寞 - 解锁5种旅行中搭伴儿的绝佳方法
+description: >-
+  从2010年到2012年这段时间，我正在非洲油田上工作，由于所在的国家比较特殊，我的工作作息制度是连续工作四周，之后连续休假四周。这也给了我大把的自由时间去旅行，但是毕竟能有这样作息制度的人还是极少数，所以这个期间我的旅行大多都是一个人，也在这个过程中摸索出了一些一个人独自旅行的经验，今天我就抛砖引玉，聊聊我一个...
+date: 2016-09-25T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 数字游民
+  - 旅行
+  - 独旅
+  - 社交
+  - 背包客
 featured: false
 editable: true
 ---

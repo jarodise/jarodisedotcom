@@ -1,10 +1,15 @@
 ---
-slug: "2023-gaokao-yuwen-zuowen"
-title: "斗胆尝试写一下2023年的高考作文"
-description: "白驹过隙，一眨眼，距离我参加高考已经过去将近20年了。"
-date: 2023-06-07
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: 2023-gaokao-yuwen-zuowen
+title: 斗胆尝试写一下2023年的高考作文
+description: 白驹过隙，一眨眼，距离我参加高考已经过去将近20年了。
+date: 2023-06-07T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 凯恩斯
+  - 思考
+  - 生活方式
+  - 社会观察
+  - 高考
 featured: false
 editable: true
 ---

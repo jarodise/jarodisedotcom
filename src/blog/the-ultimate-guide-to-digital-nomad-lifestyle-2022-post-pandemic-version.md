@@ -1,10 +1,15 @@
 ---
-slug: "the-ultimate-guide-to-digital-nomad-lifestyle-2022-post-pandemic-version"
-title: "什么是数字游民生活方式？(后疫情时代升级版扫盲贴)"
-description: "自从2015年创建数字游民部落这个内容品牌起起，我就保持了每两年发布一版数字游民扫盲贴的传统。"
-date: 2021-11-10
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: the-ultimate-guide-to-digital-nomad-lifestyle-2022-post-pandemic-version
+title: 什么是数字游民生活方式？(后疫情时代升级版扫盲贴)
+description: 自从2015年创建数字游民部落这个内容品牌起起，我就保持了每两年发布一版数字游民扫盲贴的传统。
+date: 2021-11-10T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - '2022'
+  - 扫盲
+  - 指南
+  - 数字游民
+  - 生活方式
 featured: false
 editable: true
 ---

@@ -1,10 +1,19 @@
 ---
-slug: "my-thoughts-on-remote-working-after-reading-jason-fried-remote-office-not-required-1"
-title: "自问自答 - Tim Ferriss新书《Tribe of Mentors》中的11个精选问题"
-description: "2017年11月下旬，数字游民生活方式设计教父Tim Ferriss正式出版了他的第五本书 - 《Tribe of Mentors》，总体来讲，这本书的基调跟去年的那本《Tools of Titans》很像，也是从一些牛X的人身上发掘他们的三观，灵感，生活方式和生产力提高方法等，但是这本书的bite size明显..."
-date: 2017-12-10
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: >-
+  my-thoughts-on-remote-working-after-reading-jason-fried-remote-office-not-required-1
+title: 自问自答 - Tim Ferriss新书《Tribe of Mentors》中的11个精选问题
+description: >-
+  2017年11月下旬，数字游民生活方式设计教父Tim Ferriss正式出版了他的第五本书 - 《Tribe of
+  Mentors》，总体来讲，这本书的基调跟去年的那本《Tools of
+  Titans》很像，也是从一些牛X的人身上发掘他们的三观，灵感，生活方式和生产力提高方法等，但是这本书的bite size明显...
+date: 2017-12-10T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Jason Fried
+  - 思考
+  - 生活方式
+  - 远程工作
+  - 阅读
 featured: false
 editable: true
 ---

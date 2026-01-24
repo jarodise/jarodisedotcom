@@ -1,10 +1,15 @@
 ---
-slug: "there-will-not-be-1-billion-digital-nomads-by-2035"
-title: "到2035年，世界上真的会有10亿个数字游民吗？"
-description: "**“到2035年，世界上会有10亿个数字游民。”**"
-date: 2023-02-21
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: there-will-not-be-1-billion-digital-nomads-by-2035
+title: 到2035年，世界上真的会有10亿个数字游民吗？
+description: '**“到2035年，世界上会有10亿个数字游民。”**'
+date: 2023-02-21T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 数字游民
+  - 数据分析
+  - 趋势
+  - 辟谣
+  - 预测
 featured: false
 editable: true
 ---

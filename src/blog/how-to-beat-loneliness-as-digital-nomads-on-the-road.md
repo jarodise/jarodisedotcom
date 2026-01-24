@@ -1,10 +1,15 @@
 ---
-slug: "how-to-beat-loneliness-as-digital-nomads-on-the-road"
-title: "数字游民孤独拯救指南"
-description: "这是我这些年在推广数字游民生活方式过程中被问到的最多次的一个问题之一。 今天这篇短文，我来给大伙支几招。"
-date: 2022-09-20
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: how-to-beat-loneliness-as-digital-nomads-on-the-road
+title: 数字游民孤独拯救指南
+description: 这是我这些年在推广数字游民生活方式过程中被问到的最多次的一个问题之一。 今天这篇短文，我来给大伙支几招。
+date: 2022-09-20T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 孤独
+  - 心理健康
+  - 数字游民
+  - 旅居生活
+  - 社交
 featured: true
 editable: true
 ---

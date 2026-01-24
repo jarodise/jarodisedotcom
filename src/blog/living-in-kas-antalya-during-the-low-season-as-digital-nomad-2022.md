@@ -1,10 +1,15 @@
 ---
-slug: "living-in-kas-antalya-during-the-low-season-as-digital-nomad-2022"
-title: "数字游民淡季套利体验报告 ：土耳其安塔利亚卡什小镇（2022）"
-description: "数字游民的地理套利这个概念不难理解，它是指数字游民利借助地理位置自由，自主选择去那些生活成本更低廉的地方生活，这是一种空间层面的套利行为。"
-date: 2022-05-31
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: living-in-kas-antalya-during-the-low-season-as-digital-nomad-2022
+title: 数字游民淡季套利体验报告 ：土耳其安塔利亚卡什小镇（2022）
+description: 数字游民的地理套利这个概念不难理解，它是指数字游民利借助地理位置自由，自主选择去那些生活成本更低廉的地方生活，这是一种空间层面的套利行为。
+date: 2022-05-31T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 卡什
+  - 土耳其
+  - 地理套利
+  - 数字游民
+  - 淡季旅行
 featured: false
 editable: true
 ---

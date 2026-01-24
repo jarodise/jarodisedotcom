@@ -1,10 +1,15 @@
 ---
-slug: "why-do-some-people-hate-digital-nomads"
-title: "已经有人在痛恨数字游民了"
-description: "我知道这一天肯定会到来，但是没想到它来得如此猝不及防。"
-date: 2023-05-30
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: why-do-some-people-hate-digital-nomads
+title: 已经有人在痛恨数字游民了
+description: 我知道这一天肯定会到来，但是没想到它来得如此猝不及防。
+date: 2023-05-30T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 争议
+  - 士绅化
+  - 思考
+  - 数字游民
+  - 社会现象
 featured: false
 editable: true
 ---

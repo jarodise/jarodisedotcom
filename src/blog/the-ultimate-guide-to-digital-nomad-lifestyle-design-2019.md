@@ -1,10 +1,16 @@
 ---
-slug: "the-ultimate-guide-to-digital-nomad-lifestyle-design-2019"
-title: "什么是数字游民? - Dn扫盲贴(第三版）"
-description: "从2015年创建数字游民部落这个内容品牌开始到现在，已接近四年。在这四年中我完成了从一名石油工程师到内容创业者的蜕变，也见证了“数字游民”这个群体在中国的成长及生活方式设计概念的逐渐普及。"
-date: 2019-04-29
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: the-ultimate-guide-to-digital-nomad-lifestyle-design-2019
+title: 什么是数字游民? - Dn扫盲贴(第三版）
+description: >-
+  从2015年创建数字游民部落这个内容品牌开始到现在，已接近四年。在这四年中我完成了从一名石油工程师到内容创业者的蜕变，也见证了“数字游民”这个群体在中国的成长及生活方式设计概念的逐渐普及。
+date: 2019-04-29T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - '2019'
+  - 扫盲
+  - 指南
+  - 数字游民
+  - 生活方式
 featured: false
 editable: true
 ---

@@ -1,10 +1,16 @@
 ---
-slug: "how-to-make-money-online-digital-nomad-cashflow-quadrant"
-title: "如何在互联网上赚钱？- 详解数字游民现金流象限"
-description: "很多年前，有一本叫做《富爸爸·穷爸爸》的书畅销全球，帮助很多人开启了所谓的“财商”。作者罗伯特清崎之后又趁热打铁，写了好几本续作，其中一本给我留下了极为深刻的印象，它叫做《富爸爸财务自由之路：神奇的现金流象限》，在这本书中，作者将一个人的收入用横竖两条坐标轴划分为了四个不同的象限，分别是左上Employee(职员..."
-date: 2022-08-18
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: how-to-make-money-online-digital-nomad-cashflow-quadrant
+title: 如何在互联网上赚钱？- 详解数字游民现金流象限
+description: >-
+  很多年前，有一本叫做《富爸爸·穷爸爸》的书畅销全球，帮助很多人开启了所谓的“财商”。作者罗伯特清崎之后又趁热打铁，写了好几本续作，其中一本给我留下了极为深刻的印象，它叫做《富爸爸财务自由之路：神奇的现金流象限》，在这本书中，作者将一个人的收入用横竖两条坐标轴划分为了四个不同的象限，分别是左上Employee(职员...
+date: 2022-08-18T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 富爸爸穷爸爸
+  - 数字游民
+  - 现金流象限
+  - 网赚
+  - 赚钱
 featured: true
 editable: true
 ---

@@ -1,10 +1,15 @@
 ---
-slug: "selling-knowledge-is-not-a-scam"
-title: "知识付费只是针对功利学习者的“骗局”"
-description: "人们付费买的其实不是知识, 而是时间和认同感。"
-date: 2017-10-23
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: selling-knowledge-is-not-a-scam
+title: 知识付费只是针对功利学习者的“骗局”
+description: '人们付费买的其实不是知识, 而是时间和认同感。'
+date: 2017-10-23T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 内容创业
+  - 思考
+  - 生活方式
+  - 知识付费
+  - 观点
 featured: false
 editable: true
 ---

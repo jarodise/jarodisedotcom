@@ -1,10 +1,16 @@
 ---
-slug: "your-one-stop-digital-nomad-travel-guide-to-canggu-bali-indonesia"
-title: "数字游民游巴厘岛 - Canggu(长谷)不完全攻略"
-description: "巴厘岛作为一个度假胜地有多么地受欢迎，这里我无需赘言，从1963年Sanur的第一个海滩度假村建成之时，各路西方游客就络绎不绝地从世界各地赶来体验这个在印尼深绿环境下有点儿与众不同的印度教众神之岛。特别是印尼旁边的“邻居“-澳大利亚，更是对这个物美价廉的热带天堂宠爱有加。当然，随着这些年签证政策的利好，我们天朝子..."
-date: 2016-12-30
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: your-one-stop-digital-nomad-travel-guide-to-canggu-bali-indonesia
+title: 数字游民游巴厘岛 - Canggu(长谷)不完全攻略
+description: >-
+  巴厘岛作为一个度假胜地有多么地受欢迎，这里我无需赘言，从1963年Sanur的第一个海滩度假村建成之时，各路西方游客就络绎不绝地从世界各地赶来体验这个在印尼深绿环境下有点儿与众不同的印度教众神之岛。特别是印尼旁边的“邻居“-澳大利亚，更是对这个物美价廉的热带天堂宠爱有加。当然，随着这些年签证政策的利好，我们天朝子...
+date: 2016-12-30T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Canggu
+  - 印尼
+  - 城市指南
+  - 巴厘岛
+  - 数字游民
 featured: false
 editable: true
 ---

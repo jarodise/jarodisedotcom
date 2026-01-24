@@ -1,10 +1,17 @@
 ---
-slug: "why-is-fuck-you-money-important-for-digital-nomads"
-title: "论Fuck-You Money的在数字游民生活方式设计中的重要性"
-description: "如果几年前有人问我“打造数字游民生活方式的最重要的前期准备工作是什么？”，我可能会说“因个人状况人而异”，但是放到现在，我会直接回答: “你需要首先拥有一笔Fuck-you Money。”"
-date: 2021-12-02
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: why-is-fuck-you-money-important-for-digital-nomads
+title: 论Fuck-You Money的在数字游民生活方式设计中的重要性
+description: >-
+  如果几年前有人问我“打造数字游民生活方式的最重要的前期准备工作是什么？”，我可能会说“因个人状况人而异”，但是放到现在，我会直接回答:
+  “你需要首先拥有一笔Fuck-you Money。”
+date: 2021-12-02T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - F-You Money
+  - 储蓄
+  - 底气
+  - 数字游民
+  - 自由
 featured: false
 editable: true
 ---

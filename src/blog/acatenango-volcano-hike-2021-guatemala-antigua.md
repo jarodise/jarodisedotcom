@@ -1,10 +1,15 @@
 ---
-slug: "acatenango-volcano-hike-2021-guatemala-antigua"
-title: "记一次有意义的登山活动：徒步危地马拉Acatenango火山"
-description: "在Latitlán湖区休憩了整整一个月后，我们来到了美丽的危地马拉故都: 安提瓜，目标是打卡本次危地马拉之行最重要的一个目的地: Acatenango火山。"
-date: 2021-06-27
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: acatenango-volcano-hike-2021-guatemala-antigua
+title: 记一次有意义的登山活动：徒步危地马拉Acatenango火山
+description: '在Latitlán湖区休憩了整整一个月后，我们来到了美丽的危地马拉故都: 安提瓜，目标是打卡本次危地马拉之行最重要的一个目的地: Acatenango火山。'
+date: 2021-06-27T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 危地马拉
+  - 徒步
+  - 户外
+  - 拉美
+  - 旅行
 featured: false
 editable: true
 ---

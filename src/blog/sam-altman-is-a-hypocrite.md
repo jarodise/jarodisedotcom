@@ -1,10 +1,15 @@
 ---
-slug: "sam-altman-is-a-hypocrite"
-title: "技术精英的救世主情结，驳Sam Altman的“三个观察”"
-description: "近日，OpenAI的CEO Sam Altman发表了一篇题为“Three Observations”的文章，再次刷爆全网。"
-date: 2025-02-10
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: sam-altman-is-a-hypocrite
+title: 技术精英的救世主情结，驳Sam Altman的“三个观察”
+description: 近日，OpenAI的CEO Sam Altman发表了一篇题为“Three Observations”的文章，再次刷爆全网。
+date: 2025-02-10T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - OpenAI
+  - Sam Altman
+  - 思考
+  - 批判
+  - 生活方式
 featured: false
 editable: true
 ---

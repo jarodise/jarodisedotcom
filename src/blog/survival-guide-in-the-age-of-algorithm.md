@@ -1,10 +1,15 @@
 ---
-slug: "survival-guide-in-the-age-of-algorithm"
-title: "算法分发时代的自救指南"
-description: "近日，一则关于“小🍠演算法工程师访谈”的微博在全网掀起了诸多讨论。这段访谈，猛一听似乎有一点危言耸听，但是仔细想想，似乎又与现实并无二致。"
-date: 2023-12-26
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: survival-guide-in-the-age-of-algorithm
+title: 算法分发时代的自救指南
+description: "近日，一则关于“小\U0001F360演算法工程师访谈”的微博在全网掀起了诸多讨论。这段访谈，猛一听似乎有一点危言耸听，但是仔细想想，似乎又与现实并无二致。"
+date: 2023-12-26T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 思考
+  - 生存指南
+  - 生活方式
+  - 算法
+  - 自媒体
 featured: false
 editable: true
 ---

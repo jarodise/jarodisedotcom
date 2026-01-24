@@ -1,10 +1,16 @@
 ---
-slug: "coronavirus19-pandemic-quarantine-life-in-medellin-colombia-digital-nomad-vol2"
-title: "数字游民哥伦比亚麦德林封城日记 - 02"
-description: "上一回说到在哥伦比亚总统宣布封国之后，我决定按兵不动，留在麦德林。后面在目睹了各种留学生华侨群体在回国路上的幺蛾子之后，我越发庆幸自己没有选择冒险回国，给自己和祖国人民们添乱。"
-date: 2020-03-29
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: coronavirus19-pandemic-quarantine-life-in-medellin-colombia-digital-nomad-vol2
+title: 数字游民哥伦比亚麦德林封城日记 - 02
+description: >-
+  上一回说到在哥伦比亚总统宣布封国之后，我决定按兵不动，留在麦德林。后面在目睹了各种留学生华侨群体在回国路上的幺蛾子之后，我越发庆幸自己没有选择冒险回国，给自己和祖国人民们添乱。
+date: 2020-03-29T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 哥伦比亚
+  - 数字游民
+  - 海外生活
+  - 疫情日记
+  - 麦德林
 featured: false
 editable: true
 ---

@@ -1,10 +1,15 @@
 ---
-slug: "how-to-choose-travel-destinations-as-digital-nomads"
-title: "数字游民该怎么选择旅居目的地？"
-description: "2000年的时候英国大导演Dani Boyle将畅销小说《The Beach》改编后搬上银幕，主演是当时刚刚演完《泰坦尼克号》，名噪一时，如日中天的小李子。"
-date: 2023-09-01
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: how-to-choose-travel-destinations-as-digital-nomads
+title: 数字游民该怎么选择旅居目的地？
+description: 2000年的时候英国大导演Dani Boyle将畅销小说《The Beach》改编后搬上银幕，主演是当时刚刚演完《泰坦尼克号》，名噪一时，如日中天的小李子。
+date: 2023-09-01T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 攻略
+  - 数字游民
+  - 旅行
+  - 生活方式
+  - 目的地选择
 featured: true
 editable: true
 ---

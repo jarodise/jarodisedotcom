@@ -1,10 +1,15 @@
 ---
-slug: "will-ai-replace-coders-and-software-engineers"
-title: "程序员的黄昏"
-description: "近日，Gumroad 创始人 Sahil Lavingia 在X上发布了一条的推文，他宣布 Gumroad 将不再招聘任何初级和中级软件工程师。"
-date: 2025-02-07
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: will-ai-replace-coders-and-software-engineers
+title: 程序员的黄昏
+description: 近日，Gumroad 创始人 Sahil Lavingia 在X上发布了一条的推文，他宣布 Gumroad 将不再招聘任何初级和中级软件工程师。
+date: 2025-02-07T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 人工智能
+  - 未来
+  - 生活方式
+  - 程序员
+  - 职业危机
 featured: false
 editable: true
 ---

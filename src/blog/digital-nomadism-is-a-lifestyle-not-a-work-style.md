@@ -1,10 +1,16 @@
 ---
-slug: "digital-nomadism-is-a-lifestyle-not-a-work-style"
-title: "数字游民是一种“生活”方式"
-description: "最近我参与了一档播客节目的录制，在节目中被问到的一个问题是：**“数字游民与远程办公有何区别？”**与之类似，我平时经常被问到的问题还有：“数字游民与自由职业有何区别？”，“数字游民与SOHO（在家办公）有何区别？”等等。"
-date: 2018-06-27
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: digital-nomadism-is-a-lifestyle-not-a-work-style
+title: 数字游民是一种“生活”方式
+description: >-
+  最近我参与了一档播客节目的录制，在节目中被问到的一个问题是：**“数字游民与远程办公有何区别？”**与之类似，我平时经常被问到的问题还有：“数字游民与自由职业有何区别？”，“数字游民与SOHO（在家办公）有何区别？”等等。
+date: 2018-06-27T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 定义
+  - 数字游民
+  - 生活方式
+  - 观念
+  - 远程工作
 featured: false
 editable: true
 ---

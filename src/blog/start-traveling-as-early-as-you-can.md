@@ -1,10 +1,15 @@
 ---
-slug: "start-traveling-as-early-as-you-can"
-title: "做特种兵没必要，但是旅行真的要趁早"
-description: "在刚刚过去的五一长假前后，“特种兵式旅游”这个词条频频登上热搜，今天这篇文章，我想浅谈一下我对这个现象的看法。"
-date: 2023-05-13
-author: "数字游民Jarod"
-tags: ["旅行"]
+slug: start-traveling-as-early-as-you-can
+title: 做特种兵没必要，但是旅行真的要趁早
+description: 在刚刚过去的五一长假前后，“特种兵式旅游”这个词条频频登上热搜，今天这篇文章，我想浅谈一下我对这个现象的看法。
+date: 2023-05-13T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 思考
+  - 旅行
+  - 特种兵旅游
+  - 生活态度
+  - 趁早
 featured: false
 editable: true
 ---

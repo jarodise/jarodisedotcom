@@ -1,10 +1,15 @@
 ---
-slug: "why-remote-work-is-not-widely-accepted-yet"
-title: "为什么远程工作不被现代公司普遍接受"
-description: "前不久，硅谷科技巨头Meta（脸书）正式发出通知，取消永久远程办公，从今年9月份开始，所有员工每周至少都要回到办公室工作3天。"
-date: 2023-06-12
-author: "数字游民Jarod"
-tags: ["远程工作"]
+slug: why-remote-work-is-not-widely-accepted-yet
+title: 为什么远程工作不被现代公司普遍接受
+description: 前不久，硅谷科技巨头Meta（脸书）正式发出通知，取消永久远程办公，从今年9月份开始，所有员工每周至少都要回到办公室工作3天。
+date: 2023-06-12T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 思考
+  - 管理
+  - 职场
+  - 趋势
+  - 远程工作
 featured: false
 editable: true
 ---

@@ -1,10 +1,17 @@
 ---
-slug: "naval-ravikant-twitter-thread-how-to-get-rich-translated-and-commented"
-title: "How to Get Rich(without getting lucky)- Naval Ravikant的财富大智慧"
-description: "我第一次知道Naval Ravikant这个名字是在The Tim Ferriss Show的第136期播客节目中，也是从那时候起路人转粉，开始在网络上关注这个人。"
-date: 2019-01-02
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: naval-ravikant-twitter-thread-how-to-get-rich-translated-and-commented
+title: How to Get Rich(without getting lucky)- Naval Ravikant的财富大智慧
+description: >-
+  我第一次知道Naval Ravikant这个名字是在The Tim Ferriss
+  Show的第136期播客节目中，也是从那时候起路人转粉，开始在网络上关注这个人。
+date: 2019-01-02T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - Naval Ravikant
+  - 智慧
+  - 生活方式
+  - 翻译
+  - 财富
 featured: false
 editable: true
 ---

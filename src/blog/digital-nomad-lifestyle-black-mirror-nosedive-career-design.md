@@ -1,10 +1,17 @@
 ---
-slug: "digital-nomad-lifestyle-black-mirror-nosedive-career-design"
-title: "由《黑镜》联想到数字游民生活方式"
-description: "最近迷上了一个名叫《黑镜》的英剧，其实并不是什么新剧，第一季早在2011年就上线英国Chanel 4，之所以最近突然火了起来可能跟它目前的制作方是大名鼎鼎的Netflix不无关系。"
-date: 2016-11-01
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: digital-nomad-lifestyle-black-mirror-nosedive-career-design
+title: 由《黑镜》联想到数字游民生活方式
+description: >-
+  最近迷上了一个名叫《黑镜》的英剧，其实并不是什么新剧，第一季早在2011年就上线英国Chanel
+  4，之所以最近突然火了起来可能跟它目前的制作方是大名鼎鼎的Netflix不无关系。
+date: 2016-11-01T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 思考
+  - 数字游民
+  - 社交网络
+  - 职场
+  - 黑镜
 featured: false
 editable: true
 ---

@@ -1,10 +1,16 @@
 ---
-slug: "schengen-visa-for-chinese-eu-citizen-spouse-and-family-members"
-title: "欧盟公民配偶申根签证终极指南"
-description: "我之前曾经在数字游民长期签证攻略里面提到过，通过婚姻关系获得长期签证，其实是很多数字游民得以在多个国家得以长居的优选策略之一。当然，我的意思并不是鼓励大家去为了签证便利而去结婚，而是说，当你有了国际婚姻关系后，你完全可以适时地把它当做自己的优势，为自己的旅行和旅居获得最大化的签证便利。"
-date: 2019-05-27
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: schengen-visa-for-chinese-eu-citizen-spouse-and-family-members
+title: 欧盟公民配偶申根签证终极指南
+description: >-
+  我之前曾经在数字游民长期签证攻略里面提到过，通过婚姻关系获得长期签证，其实是很多数字游民得以在多个国家得以长居的优选策略之一。当然，我的意思并不是鼓励大家去为了签证便利而去结婚，而是说，当你有了国际婚姻关系后，你完全可以适时地把它当做自己的优势，为自己的旅行和旅居获得最大化的签证便利。
+date: 2019-05-27T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 攻略
+  - 欧盟配偶
+  - 生活方式
+  - 申根
+  - 签证
 featured: false
 editable: true
 ---

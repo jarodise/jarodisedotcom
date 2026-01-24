@@ -1,10 +1,17 @@
 ---
-slug: "why-internet-did-not-bring-harmony-to-the-global-village"
-title: "为什么互联网没有让我们的社会更和谐？"
-description: "六十年前，传播学先驱马歇尔·麦克卢汉提出“地球村”（Global Village）概念时，人们曾幻想：当技术让世界触手可及，人类的隔阂终将消融。但今天看来，互联网并未带来理想中的和平——分裂的阵营、极化的争论、碎片化的信息，似乎让世界比过往更喧嚣。"
-date: 2025-02-03
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: why-internet-did-not-bring-harmony-to-the-global-village
+title: 为什么互联网没有让我们的社会更和谐？
+description: >-
+  六十年前，传播学先驱马歇尔·麦克卢汉提出“地球村”（Global
+  Village）概念时，人们曾幻想：当技术让世界触手可及，人类的隔阂终将消融。但今天看来，互联网并未带来理想中的和平——分裂的阵营、极化的争论、碎片化的信息，似乎让世界比过往更喧嚣。
+date: 2025-02-03T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 互联网
+  - 地球村
+  - 思考
+  - 生活方式
+  - 社会学
 featured: false
 editable: true
 ---

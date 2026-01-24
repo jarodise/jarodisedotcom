@@ -1,10 +1,16 @@
 ---
-slug: "digital-nomadism-as-a-solution-to-modernitys-discontent"
-title: "从自动化到自我实现：由数字游民揭示的未来工作新哲学"
-description: "自打工业革命开始，我们就进入了一个由机器循序渐进取代人类劳动的新时代，在担忧部分人群将会因此而失业的同时，**一些技术乐观主义者也预见到一个更为轻松的未来，即人类的工作将会越来越轻松，工作时间也会越来越短。**"
-date: 2023-12-06
-author: "数字游民Jarod"
-tags: ["数字游民","远程工作"]
+slug: digital-nomadism-as-a-solution-to-modernitys-discontent
+title: 从自动化到自我实现：由数字游民揭示的未来工作新哲学
+description: >-
+  自打工业革命开始，我们就进入了一个由机器循序渐进取代人类劳动的新时代，在担忧部分人群将会因此而失业的同时，**一些技术乐观主义者也预见到一个更为轻松的未来，即人类的工作将会越来越轻松，工作时间也会越来越短。**
+date: 2023-12-06T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 数字游民
+  - 未来工作
+  - 现代性
+  - 社会思考
+  - 远程工作
 featured: false
 editable: true
 ---

@@ -1,10 +1,16 @@
 ---
-slug: "do-you-need-to-quit-your-day-job-to-build-the-digital-nomad-lifestyle"
-title: "打造数字游民生活方式是否需要辞职？"
-description: "在回答这个问题之前，我们首先要明确的一个事实：数字游民生活方式设计是一个过程，而不是一个结果。既然是一个过程，那么它就不是一个overnight的事情，你不能说我今天辞职，明天要成为一个数字游民，你第二天就能够成为一个数字游民了。在明确了这个事实之后，问题的答案就很简单了，辞职并不是成为一名数字游民的必要条件。"
-date: 2017-12-15
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: do-you-need-to-quit-your-day-job-to-build-the-digital-nomad-lifestyle
+title: 打造数字游民生活方式是否需要辞职？
+description: >-
+  在回答这个问题之前，我们首先要明确的一个事实：数字游民生活方式设计是一个过程，而不是一个结果。既然是一个过程，那么它就不是一个overnight的事情，你不能说我今天辞职，明天要成为一个数字游民，你第二天就能够成为一个数字游民了。在明确了这个事实之后，问题的答案就很简单了，辞职并不是成为一名数字游民的必要条件。
+date: 2017-12-15T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 副业
+  - 数字游民
+  - 生活方式设计
+  - 职业规划
+  - 转型
 featured: false
 editable: true
 ---

@@ -1,10 +1,17 @@
 ---
-slug: "is-it-safe-to-travel-in-south-latin-america-for-digital-nomads"
-title: "数字游民在拉丁美洲旅行安全吗？这篇文章给你答案"
-description: "2019年9月到2021年7月，我在拉美旅居了22个月，这段时间我被问到的最多的一个问题就是: “在那里旅行安全吗？” 今天这篇文章，我就来统一回复一下这个老声常谈的问题。"
-date: 2021-11-23
-author: "数字游民Jarod"
-tags: ["数字游民","旅行"]
+slug: is-it-safe-to-travel-in-south-latin-america-for-digital-nomads
+title: 数字游民在拉丁美洲旅行安全吗？这篇文章给你答案
+description: >-
+  2019年9月到2021年7月，我在拉美旅居了22个月，这段时间我被问到的最多的一个问题就是: “在那里旅行安全吗？”
+  今天这篇文章，我就来统一回复一下这个老声常谈的问题。
+date: 2021-11-23T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 安全
+  - 拉美
+  - 攻略
+  - 数字游民
+  - 旅行
 featured: false
 editable: true
 ---

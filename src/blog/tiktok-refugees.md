@@ -1,10 +1,16 @@
 ---
-slug: "tiktok-refugees"
-title: "是什么阻碍了世界人民大团结？由小红书上的Tiktok难民所想到的"
-description: "小红书上的歪果仁热潮和前几年的Clubhouse说明，在当代科技背景下，真正阻隔不同国家人民交流的不是语言障碍，不是时空上的距离，更不是“GFW”，而是意识形态刻意打造的无知，漠视和仇恨。"
-date: 2025-01-17
-author: "数字游民Jarod"
-tags: ["生活方式"]
+slug: tiktok-refugees
+title: 是什么阻碍了世界人民大团结？由小红书上的Tiktok难民所想到的
+description: >-
+  小红书上的歪果仁热潮和前几年的Clubhouse说明，在当代科技背景下，真正阻隔不同国家人民交流的不是语言障碍，不是时空上的距离，更不是“GFW”，而是意识形态刻意打造的无知，漠视和仇恨。
+date: 2025-01-17T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - TikTok
+  - 小红书
+  - 思考
+  - 文化交流
+  - 生活方式
 featured: false
 editable: true
 ---

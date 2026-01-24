@@ -1,10 +1,15 @@
 ---
-slug: "should-digital-nomads-own-pets-or-not"
-title: "数字游民该不该养宠物"
-description: "两个月前，我在小区里看到一只流浪猫，它满身的尘土，极度瘦弱，而且靠近一看，还是一只野外生存能力几乎为零的扁脸加菲猫。"
-date: 2023-08-21
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: should-digital-nomads-own-pets-or-not
+title: 数字游民该不该养宠物
+description: 两个月前，我在小区里看到一只流浪猫，它满身的尘土，极度瘦弱，而且靠近一看，还是一只野外生存能力几乎为零的扁脸加菲猫。
+date: 2023-08-21T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 宠物
+  - 思考
+  - 数字游民
+  - 生活方式
+  - 责任
 featured: false
 editable: true
 ---

@@ -1,10 +1,17 @@
 ---
-slug: "the-inconveniences-happened-during-the-covid19-quarantine-in-medellin-colombia-digital-nomad"
-title: "数字游民哥伦比亚麦德林封城日记 - 03"
-description: "有人说，隔离期间度日如年，但是我却感觉白驹过隙，不知不觉中，麦德林的封城隔离生活已经过了整整一个月。就在昨天，哥伦比亚总统宣布，戒严状态将会被延长至5月11日，且不排除继续无限期延长的可能。"
-date: 2020-04-18
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: >-
+  the-inconveniences-happened-during-the-covid19-quarantine-in-medellin-colombia-digital-nomad
+title: 数字游民哥伦比亚麦德林封城日记 - 03
+description: >-
+  有人说，隔离期间度日如年，但是我却感觉白驹过隙，不知不觉中，麦德林的封城隔离生活已经过了整整一个月。就在昨天，哥伦比亚总统宣布，戒严状态将会被延长至5月11日，且不排除继续无限期延长的可能。
+date: 2020-04-18T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 吐槽
+  - 哥伦比亚
+  - 数字游民
+  - 疫情生活
+  - 经历
 featured: false
 editable: true
 ---

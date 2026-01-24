@@ -1,10 +1,16 @@
 ---
-slug: "understanding-freedom-for-digital-nomads"
-title: "论数字游民的两重自由"
-description: "获得自由是很多人选择数字游民生活方式的首要原因，但是在跟一些数字游民部落读者的交流过程中，我发现很多人对于“自由”这个概念的理解是有偏差的，或者至少是没有深度、不完整的。"
-date: 2025-02-24
-author: "数字游民Jarod"
-tags: ["数字游民"]
+slug: understanding-freedom-for-digital-nomads
+title: 论数字游民的两重自由
+description: >-
+  获得自由是很多人选择数字游民生活方式的首要原因，但是在跟一些数字游民部落读者的交流过程中，我发现很多人对于“自由”这个概念的理解是有偏差的，或者至少是没有深度、不完整的。
+date: 2025-02-24T00:00:00.000Z
+author: 数字游民Jarod
+tags:
+  - 哲学
+  - 思考
+  - 数字游民
+  - 生活方式
+  - 自由
 featured: true
 editable: true
 ---
