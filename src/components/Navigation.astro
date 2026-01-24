@@ -6,22 +6,6 @@
   class="no-scrollbar flex items-center justify-start gap-6 overflow-x-auto pb-1 md:justify-center md:gap-8 md:pb-0"
 >
   <a
-    href="/archive/1"
-    class:list={[
-      "navigation animation text-sm whitespace-nowrap md:text-base",
-      Astro.url.pathname.startsWith("/archive")
-        ? "text-accent font-medium"
-        : "",
-    ]}>文章存档</a
-  >
-  <a
-    href="/tags"
-    class:list={[
-      "navigation animation text-sm whitespace-nowrap md:text-base",
-      Astro.url.pathname.startsWith("/tags") ? "text-accent font-medium" : "",
-    ]}>分类标签</a
-  >
-  <a
     href="/page/recommended-services"
     class:list={[
       "navigation animation text-sm whitespace-nowrap md:text-base",
@@ -36,5 +20,21 @@
     rel="noopener noreferrer"
     class="navigation animation text-sm whitespace-nowrap md:text-base"
     >🎧播客</a
+  >
+  <a
+    href="/tags"
+    class:list={[
+      "navigation animation text-sm whitespace-nowrap md:text-base",
+      Astro.url.pathname.startsWith("/tags") ? "text-accent font-medium" : "",
+    ]}>分类标签</a
+  >
+  <a
+    href="/archive/1"
+    class:list={[
+      "navigation animation text-sm whitespace-nowrap md:text-base",
+      Astro.url.pathname.startsWith("/archive")
+        ? "text-accent font-medium"
+        : "",
+    ]}>文章存档</a
   >
 </nav>
