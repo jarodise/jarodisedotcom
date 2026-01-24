@@ -44,15 +44,4 @@ Hashnode就是想在上面这两种解决方案里面找到一个中间地带，
 
 希望今天给大伙推荐的Hashnode能帮大家以最不折腾的方式拥有互联网上的一亩三分地。
 
-免费注册链接: https://jarodise.com/hashnode 
-
-本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏/转发/点赞是我继续创作的最大动力。
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-![zsxq.png](/images/Shxi0yHUiD-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落
+免费注册链接: https://jarodise.com/hashnode

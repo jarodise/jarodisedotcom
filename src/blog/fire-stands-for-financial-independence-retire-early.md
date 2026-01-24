@@ -50,16 +50,6 @@ Brandon通过一篇题为“Valuable Lessons from My First Year of Freedom”的
 
 书籍： **1.《Your Money or Your Life》 2.《The Simple Path to Wealth》**
 
-**本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
 
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。 长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-
-![zsxq.png](/images/2hLxZ5t-J-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落
 
 > 原文始发于微信公众号（数字游民部落）：[“火”了以后的人生是什么样的？- 聊一聊FIRE](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&mid=502724089&idx=1&sn=ba4d18851f040a4eb8b0b4da0c2fa19f&chksm=70364e6a4741c77c0e3cb22e807c048193319933837f059560a081fba7ee0d3b23c033234f61#rd)

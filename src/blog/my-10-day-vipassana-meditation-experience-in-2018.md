@@ -68,14 +68,3 @@ editable: true
 最后，引用葛印卡老师的常说的一句话来结束这篇分享：
 
 **"May all beings find real peace, real harmony, real happiness."**
-
-**本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。
-![zsxq.png](/images/Shxi0yHUiD-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落

@@ -26,15 +26,3 @@ Gary Vaynerchuk，江湖人称GaryVee，是当代互联网营销领域最有影�
 最后，想引用书中的一段话跟所有自媒体从业者共勉：
 
 > **Remember, you're not trading in your day job for an easier life - there's nothing easy about becoming an entrepreneur and influencer. You're trading it in for the different life, one with more flexibility and fun. ** 译：请记住，做自媒体创业的目的并不是要创造一种比朝九晚五更悠闲的生活方式，事实上，自媒体创业想要获得成功，你可能比蜀道还难。你之所以选择了这条路，是因为你想要一种不一样的人生，一种充满了自由和欢乐的人生。
-
-**本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。
-
-![zsxq.png](/images/hlo-Fnaxs-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落

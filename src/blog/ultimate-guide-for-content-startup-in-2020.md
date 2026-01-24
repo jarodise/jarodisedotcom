@@ -81,16 +81,6 @@ Naval曾在他的著名的[“如何致富”推特风暴](http://mp.weixin.qq.c
 
 读到这里的朋友们，无论你是否有计划成为一名数字游民，我都建议你能在2020年开启自己的内容创业之旅，Trust me, it will be a wild and rewarding ride!
 
-**本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
 
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-
-
-![zsxq.png](/images/M7QebIeMX-png.png)
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落
 
 > 原文始发于微信公众号（数字游民部落）：[2020年如何优雅地从零开始内容创业](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&mid=2650207870&idx=1&sn=2395f807ff7d48017056c13d81ed8cc3&chksm=f0364dedc741c4fb63b8ced855e914cfbcb983232e09873b26d1946930c200ef2d5c3da38efe&token=485099786&lang=zh_CN#rd)

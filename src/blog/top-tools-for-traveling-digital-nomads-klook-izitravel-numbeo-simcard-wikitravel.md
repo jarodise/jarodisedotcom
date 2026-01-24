@@ -93,18 +93,6 @@ KLOOK诞生的初衷就是因为两位创始人几年前在尼泊尔旅行时候
 
 以上就是我本人境外游这些年私藏的一些旅行利器，希望它们也能为大家未来的行程提供便利，提升旅行幸福感。也欢迎大家在评论区推荐自己认为比较好的旅行工具，相互切磋。
 
-**本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
 
-[![](/images/be0918f7-cc01-4512-bef9-11b3af43b590-png.png)](https://surfshark.club/friend/6rybN5r5)
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-
-![](/images/a9b37263-2677-498d-9f89-d52e8d1a0f07-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落
 
 > 原文始发于微信公众号（数字游民部落）：[数字游民常用的旅行利器都有哪些？](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&tempkey=MTAyM19od0NOekJ5cWI3SlZObnlLSkZobmJsZlI0cmNfSmtTWk5qdG5wRS14NHcweGZFRFB6TXZvSURieUU0RllhZ1lNUmZIdTUxNnBubDFXRFhpdVhhRkY5Qm95RldKaDg2bHNzSEV4X0dxRkpWYkpWR3ZBQXF5YWlMdWg1WFZacUFxZDBkUUlTMUZDSElqS296WW5WZ254ZC1XbWVVZzEzWXVlcUZxNHl3fn4%3D&chksm=70364db74741c4a183c98ba496c1a4229eb22c9ead635c19e04d6366152ba065566091d253a7&scene=0&xtrack=1&previewkey=HdQcKPvnt9QnBB25VbkQN8wqSljwj2bfCUaCyDofEow%253D#wechat_redirect)

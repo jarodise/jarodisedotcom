@@ -162,17 +162,3 @@ Playa的联合办公空间（Coworking Space）主要有三家：Selina，Nest�
 中国的数字游民们可以采用出国前先买半年国内旅游保险产品，半年即将到期后购买Safetywing续保的策略来实现一次出国，18个月承保。
 
 对这个产品感兴趣的游民们可以通过以下链接详细了解并购买： [**https://jarodise.com/safetywing**](https://jarodise.com/safetywing)
-
-**本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-
-
-![zsxq.png](/images/-mFGpibgi-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落
-

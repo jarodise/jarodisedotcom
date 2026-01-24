@@ -67,17 +67,3 @@ editable: true
 [远程办公，势不可挡](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&mid=2650207614&idx=1&sn=c91945aba1a94a2a0d11a6dc3dca2424&chksm=f0364eedc741c7fb0acb41990b21174b2b7271e986ec4383eb3aa1955010f2c386435d75dd53&scene=21#wechat_redirect)
 
 [当我们在聊远程办公的时候，我们在聊些什么？](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&mid=2650207686&idx=1&sn=f3eca97bab86993fea06e9b1656eca24&chksm=f0364e55c741c74359b3181812a3bfa4e35d22c5bdc3bd4a33d203c62081b2dd4d394edb5495&scene=21#wechat_redirect)
-
-**本文系Jarod Zhang原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前华文圈最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民/远程办公/环球旅行中文资源库，云集环球旅行，远程办公，自由职业等各路达人大V。长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-
-
-![zsxq.png](/images/-mFGpibgi-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落
-
