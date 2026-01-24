@@ -1,0 +1,24 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout
+    title={frontmatter.title}
+    description={frontmatter.description}
+    author={frontmatter.author}
+    url={frontmatter.url}
+    pubDate={frontmatter.date}
+>
+    <article>
+        <div class="center">
+            <h1 class="blog-title">{frontmatter.title}</h1>
+            <hr class="border-foreground/25 mt-14 mb-3 border-t" />
+            <section class="markdown">
+                <slot />
+            </section>
+            <hr class="border-foreground/25 mt-14 mb-3 border-t" />
+        </div>
+    </article>
+</BaseLayout>
