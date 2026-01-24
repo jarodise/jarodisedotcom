@@ -42,3 +42,15 @@ editable: true
 也许，我们只能寄希望于刘慈欣笔下《三体：黑暗森林》中的“思想钢印”技术早日出现，到那个时候，只需要给每个人打上“知足常乐”的思想钢印，这个问题将会迎刃而解。
 
 全文完。
+
+**本文系数字游民Jarod原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
+
+数字游民部落致力于推广目前在全世界日益流行的数字游民生活方式，和Lifestyle Design的方法和理念。
+
+数字游民[知识星球](https://www.zhihu.com/search?q=%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3063042344%7D)是目前中文互联网较权威的数字游民生活方式设计主题社群，扫下方二维码加入我们，开启你的生活方式设计之旅！
+
+![](/images/v2-4ff6816092cbf85aabb2bbaa02816895_1440w-webp.webp)
+
+数字游民部落官网：[http://JARODISE.COM](http://JARODISE.COM)
+
+微信公众号：数字游民部落

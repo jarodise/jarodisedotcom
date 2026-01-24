@@ -49,3 +49,11 @@ Dropshipping是电子商务发展过程中由来已久的商业模式之一，�
 <!-- Image needs recovery: gary-adler-quote-if-it-seems-too-good-to-be-true-it-probably-is-1.jpg -->
 
 之所以写这篇文章，也是想给广大数字游民和准数字游民们提个醒，君子爱财，取之有道，你最想要的东西往往有可能成为你最致命的弱点。我认为无论做任何生意都应该以价值交换为基本准则，通过创造价值来赢得回报。不要被轻易被那些“Get Rich Fast”骗局洗了脑，还是那句老话， If it seems too good to be true, it probably is.
+
+**本文系数字游民部落原创，部分图片来源于网络（图侵删），如需转载请联系作者授权。**
+
+数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
+
+数字游民部落官网：http://JARODISE.COM
+
+微信公众号：数字游民部落（ID：SZYMBL）
