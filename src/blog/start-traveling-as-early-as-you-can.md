@@ -48,3 +48,11 @@ editable: true
 2\. 尽可能早地创建自己的[线上现金流](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&mid=2650208262&idx=1&sn=d65b4a328747c0132230b2a62a063620&chksm=f0364395c741ca83e9d8353ae051398912db4d3e8d04415fb64d8a4183f7d8b8e08a0b8f9dbb&scene=21#wechat_redirect)，成为一名[数字游民](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&mid=2650208216&idx=1&sn=d989684b4ac234f983ba5a642ef99bfd&chksm=f0364c4bc741c55dde69e4dfd8d09ea83e6742ce92e8c546efc02be971a9bc6653f8afa6b586&scene=21#wechat_redirect)。
 
 以上。
+
+**本文系数字游民Jarod原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。**
+
+数字游民部落致力于推广目前在全世界日益流行的数字游民生活方式，和Lifestyle Design的方法和理念。
+
+数字游民知识星球是目前中文互联网较权威的数字游民生活方式设计主题社群，扫下方二维码加入我们，开启你的生活方式设计之旅！
+
+![](/images/88166ab3-0213-4bfa-b666-aef8d38ffc98-avif.jpg)

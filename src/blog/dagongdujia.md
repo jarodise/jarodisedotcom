@@ -91,3 +91,15 @@ Smoky River是三条河里面最平静的，适合4岁及以上的儿童。漂�
 [<!-- Image needs recovery: rafting -->](http://jarodise.com/wp-content/uploads/2015/06/b_large_9dwj_5c98000031701261.jpg) 向山下送船
 
 值得注意的是，以上提到的三个网站严格地讲都不是真正意义上的打工度假（working holiday），因为并不存在真正的雇佣关系，参与者也并不拥有政府颁发工作许可，不能合法的拿工资，因此不适合希望通过打工来赚钱的旅行者，但是正是这样的灵活性让这几个网站成为对新西兰WHV和澳洲462签证的强大补充，为广大的渴望以低成本长期旅行的中国朋友们在探索世界的道路上提供了更为丰富的选择。
+
+（本文系作者原创编写，欢迎转载，转载请注明出处，谢谢！）
+
+如果你喜欢这篇博文，并希望以后接收更多精彩内容的推送，请扫码订阅“数字游民部落”的微信公众号（szymbl）
+
+[<!-- Image needs recovery: qrcode_for_gh_08371fcf4d2f_430 -->](http://jarodise.com/wp-content/uploads/2015/06/qrcode_for_gh_08371fcf4d2f_430.jpg)
+
+数字游民部落官网：[http://jarodise.com](http://jarodise.com)
+
+同步微博地址： [http://weibo.com/u/5640574015](http://weibo.com/u/5640574015)
+
+豆瓣小组地址：[http://www.douban.com/group/568100/](http://www.douban.com/group/568100/)
