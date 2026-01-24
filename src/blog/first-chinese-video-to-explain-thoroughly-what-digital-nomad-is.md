@@ -134,19 +134,3 @@ ok，说完了数字游民，那么Digital Nomad这个英文词组又是从何�
 以上，就是本期节目全部内容，我是陪着你一起设计理想生活方式的数字游民Jarod，我们下期再见。
 
 ![image.png](/images/lgdy0cT8f-png.png)
-
-本文系数字游民Jarod原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前中文互联网最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民中文资源库，云集环球旅行，远程工作，自由职业，跨境电商，创作者经济等各路专家达人。 长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-
-![image.png](/images/W2tNhVle5-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落
-
-Discord限时开放群：
-
-[https://jarodise.com/discord](https://jarodise.com/discord)

@@ -64,15 +64,3 @@ So the information revolution by making easier to communicate, connect and coope
 这样，所谓的『Work-Life Balance』便成真的成为一个伪命题了。就像下面这个meme所诠释的内涵一样：『I didn't want a 9 to 5 job, now I work 24/7.』 You know what I mean.
 
 ![image_1639215794887_0.png](/images/LmFPQdlUw-png.png)
-
-本文系数字游民Jarod原创，如需转载请联系作者授权。坚持原创不易，你的打赏和转发是我继续创作的最大动力。
-
-数字游民部落致力于推广目前在全世界日益流行的数字游民（Digital Nomad）生活方式，和Lifestyle Design的方法和理念。
-
-数字游民知识星球是目前中文互联网最权威的数字游民（Digital Nomad）生活方式设计主题社群，最大的数字游民中文资源库，云集环球旅行，远程工作，自由职业，跨境电商，创作者经济等各路专家达人。 长按下方二维码加入数字游民知识星球，开启你的生活方式设计之旅。
-
-![image.png](/images/sIrMQ7Twk-png.png)
-
-数字游民部落官网：JARODISE.COM
-
-微信公众号：数字游民部落

@@ -139,8 +139,8 @@ When you’re finally wealthy, you’ll realize that it wasn’t what you were s
 
 ![zsxq.png](/images/Shxi0yHUiD-png.png)
 
-数字游民部落官网：JARODISE.COM
 
-微信公众号：数字游民部落
+
+
 
 > 原文始发于微信公众号（数字游民部落）：[How to Get Rich(without getting lucky)- Naval Ravikant的财富大智慧](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&mid=2650207732&idx=1&sn=648de1e48e356fdd46c26e256a858603&chksm=f0364e67c741c77138d3eda538fd4fe27b57b62e414bb5f843b811b583f39f9e7180206daa97&token=1322838265&lang=zh_CN#rd)
