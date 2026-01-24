@@ -29,5 +29,3 @@ editable: true
 如果你不知道什么是数字游民生活方式(Digital Nomad Lifestyle)，请点下方链接扫盲：
 
 [（扫盲贴）什么是数字游民（Digital Nomad)生活方式？](https://link.zhihu.com/?target=http%3A//jarodise.com/2015/12/definition/)
-
-**本文系数字游民部落原创，欢迎转载，转载请联系作者获得授权并注明出处。数字游民部落致力于推广和传播目前在全球日益流行的Digital Nomad生活方式和Lifestyle Design亚文化，让我们一起告别朝九晚五，去想去的地方做想做的事儿！**

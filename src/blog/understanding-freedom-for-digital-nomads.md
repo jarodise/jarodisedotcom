@@ -103,18 +103,7 @@ editable: true
 
 因此，我们必须为自己的每一个选择负责，无论是选择逃避自由，还是选择成为数字游民，去积极的拥抱“两重自由”带来的无限可能性。
 
-本文系数字游民Jarod原创，如需转载请联系作者授权。
 
-在这个算法横行的时代，好的内容只有在读者产生足够互动的前提下，才有可能被更多的人看到，如果你觉得这篇内容还不错，希望你够能不吝花费几秒钟的时间“一键三连”，或者在评论区写下你的看法，这会为我继续坚持原创带来莫大的鼓励。
 
-[![](/images/2ddbd5f1-861e-4182-b9a4-717bfffbbf0f-png.png)](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=A1CZE6PI)
-
-**数字游民部落是中文互联网首个以数字游民生活方式为主题的内容品牌。我们的知识星球也是国内首个主打链接数字游民群体，沉淀相关优质信息的主题社群，扫下方二维码加入我们，与2000+个数字游民一同开启你的生活方式设计之旅！**
-
-![](/images/v2-4ff6816092cbf85aabb2bbaa02816895_1440w-webp.webp)
-
-数字游民部落官网：[http://JARODISE.COM](https://link.zhihu.com/?target=http%3A//JARODISE.COM)
-
-微信公众号：数字游民部落
 
 > 本文使用 [文章同步助手](https://zhuanlan.zhihu.com/p/358098152) 同步
