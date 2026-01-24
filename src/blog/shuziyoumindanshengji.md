@@ -7,9 +7,7 @@ description: >-
 date: 2015-06-24T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 个人故事
-  - 回忆
-  - 成长经历
+  - 思考哲学
 featured: false
 editable: true
 ---

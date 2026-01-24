@@ -7,9 +7,7 @@ description: >-
 date: 2017-03-27T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 人生机会
   - 生活方式
-  - 知乎
 featured: false
 editable: true
 ---

@@ -5,9 +5,7 @@ description: 前不久，硅谷科技巨头Meta（脸书）正式发出通知，
 date: 2023-06-12T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 思考
-  - 管理
-  - 职场
+  - 思考哲学
 featured: false
 editable: true
 ---

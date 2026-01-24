@@ -7,9 +7,7 @@ description: >-
 date: 2025-01-17T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 东南亚
-  - 安全
-  - 旅行
+  - 旅行旅居
 featured: false
 editable: true
 ---

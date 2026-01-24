@@ -6,8 +6,6 @@ date: 2017-02-09T00:00:00.000Z
 author: 数字游民Jarod
 tags:
   - 数字游民
-  - 斜杠青年
-  - 概念解析
 featured: false
 editable: true
 ---

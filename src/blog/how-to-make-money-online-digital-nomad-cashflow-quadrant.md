@@ -6,9 +6,8 @@ description: >-
 date: 2022-08-18T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 富爸爸穷爸爸
+  - 创业赚钱
   - 数字游民
-  - 现金流象限
 featured: true
 editable: true
 ---

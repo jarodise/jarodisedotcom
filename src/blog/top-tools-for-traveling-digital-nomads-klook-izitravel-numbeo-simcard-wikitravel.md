@@ -7,9 +7,7 @@ description: >-
 date: 2019-08-22T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - App
-  - 工具
-  - 效率
+  - 自我成长
 featured: false
 editable: true
 ---

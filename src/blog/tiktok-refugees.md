@@ -6,9 +6,7 @@ description: >-
 date: 2025-01-17T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - TikTok
-  - 小红书
-  - 思考
+  - 思考哲学
 featured: false
 editable: true
 ---

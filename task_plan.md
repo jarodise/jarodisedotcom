@@ -45,6 +45,12 @@ Migrate 108 blog posts from Hashnode to an Astro static site using the Ryze them
 - [ ] Add custom domain `jarodise.com`
 - [ ] Set environment variables if needed
 
+### Phase 6: Tag Reorganization `[complete]`
+- [x] Brainstorm category list with user
+- [x] Create category mapping for existing tags
+- [x] Update all markdown files with new categories
+- [x] Update UI components to handle categories (Tags page, Navigation)
+
 ---
 
 ## Errors Encountered

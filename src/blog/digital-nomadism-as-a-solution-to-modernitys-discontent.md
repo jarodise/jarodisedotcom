@@ -7,8 +7,8 @@ date: 2023-12-06T00:00:00.000Z
 author: 数字游民Jarod
 tags:
   - 数字游民
-  - 未来工作
-  - 现代性
+  - 科技/人工智能
+  - 思考哲学
 featured: false
 editable: true
 ---

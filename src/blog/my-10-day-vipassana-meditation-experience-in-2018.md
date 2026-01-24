@@ -6,9 +6,7 @@ description: >-
 date: 2018-05-06T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 体验
-  - 内观
-  - 冥想
+  - 自我成长
 featured: false
 editable: true
 ---

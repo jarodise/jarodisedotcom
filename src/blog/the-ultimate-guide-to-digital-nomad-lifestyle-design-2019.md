@@ -6,9 +6,8 @@ description: >-
 date: 2019-04-29T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 扫盲
-  - 指南
   - 数字游民
+  - 旅行旅居
 featured: false
 editable: true
 ---

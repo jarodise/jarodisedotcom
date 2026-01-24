@@ -6,9 +6,8 @@ description: >-
 date: 2018-03-12T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 听力
-  - 考试技巧
-  - 自我提升
+  - 英语学习
+  - 自我成长
 featured: false
 editable: true
 ---

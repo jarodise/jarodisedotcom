@@ -7,9 +7,8 @@ description: >-
 date: 2016-11-01T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 思考
+  - 思考哲学
   - 数字游民
-  - 社交网络
 featured: false
 editable: true
 ---

@@ -6,9 +6,7 @@ description: >-
 date: 2022-04-09T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 哥伦比亚
-  - 土耳其
-  - 墨西哥
+  - 旅行旅居
 featured: false
 editable: true
 ---

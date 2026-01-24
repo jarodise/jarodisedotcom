@@ -6,8 +6,7 @@ description: >-
 date: 2025-02-24T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 哲学
-  - 思考
+  - 思考哲学
   - 数字游民
 featured: true
 editable: true

@@ -8,9 +8,7 @@ description: >-
 date: 2018-11-03T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 攻略
-  - 曼谷
-  - 泰国
+  - 旅行旅居
 featured: false
 editable: true
 ---

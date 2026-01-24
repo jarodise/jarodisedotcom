@@ -6,9 +6,7 @@ description: >-
 date: 2016-12-30T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - Canggu
-  - 印尼
-  - 城市指南
+  - 旅行旅居
 featured: false
 editable: true
 ---

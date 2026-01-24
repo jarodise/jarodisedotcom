@@ -7,9 +7,7 @@ description: >-
 date: 2021-12-02T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - F-You Money
-  - 储蓄
-  - 底气
+  - 创业赚钱
 featured: false
 editable: true
 ---

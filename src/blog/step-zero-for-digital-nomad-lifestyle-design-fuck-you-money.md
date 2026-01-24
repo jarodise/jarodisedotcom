@@ -5,8 +5,7 @@ description: 数字游民生活方式设计的第0步 - F-You Money (视频）
 date: 2022-05-14T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - F-You Money
-  - 准备
+  - 创业赚钱
   - 数字游民
 featured: false
 editable: true

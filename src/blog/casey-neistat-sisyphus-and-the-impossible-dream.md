@@ -5,8 +5,6 @@ description: 最近几天，随着贺岁片《热辣滚烫》的猛烈宣发攻�
 date: 2024-02-11T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - Casey Neistat
-  - 励志
   - 生活方式
 featured: false
 editable: true

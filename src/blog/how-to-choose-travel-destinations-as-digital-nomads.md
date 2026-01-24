@@ -5,9 +5,8 @@ description: 2000年的时候英国大导演Dani Boyle将畅销小说《The Beac
 date: 2023-09-01T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 攻略
+  - 旅行旅居
   - 数字游民
-  - 旅行
 featured: true
 editable: true
 ---

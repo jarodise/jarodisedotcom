@@ -6,9 +6,8 @@ description: >-
 date: 2021-04-10T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 攻略
+  - 旅行旅居
   - 数字游民
-  - 旅居
 featured: true
 editable: true
 ---

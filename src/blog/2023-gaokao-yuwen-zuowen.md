@@ -5,8 +5,7 @@ description: 白驹过隙，一眨眼，距离我参加高考已经过去将近2
 date: 2023-06-07T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 凯恩斯
-  - 思考
+  - 思考哲学
   - 生活方式
 featured: false
 editable: true

@@ -7,9 +7,8 @@ description: >-
 date: 2018-06-09T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 内容运营
-  - 技巧
-  - 效率
+  - 创业赚钱
+  - 自我成长
 featured: false
 editable: true
 ---

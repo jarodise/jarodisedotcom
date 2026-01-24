@@ -6,9 +6,8 @@ description: >-
 date: 2020-03-29T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 哥伦比亚
+  - 旅行旅居
   - 数字游民
-  - 海外生活
 featured: false
 editable: true
 ---

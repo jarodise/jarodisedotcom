@@ -5,9 +5,7 @@ description: '在Latitlán湖区休憩了整整一个月后，我们来到了美
 date: 2021-06-27T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 危地马拉
-  - 徒步
-  - 户外
+  - 旅行旅居
 featured: false
 editable: true
 ---

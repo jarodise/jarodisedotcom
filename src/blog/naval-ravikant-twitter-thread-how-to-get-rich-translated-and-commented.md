@@ -7,8 +7,7 @@ description: >-
 date: 2019-01-02T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - Naval Ravikant
-  - 智慧
+  - 创业赚钱
   - 生活方式
 featured: false
 editable: true

@@ -7,9 +7,7 @@ description: >-
 date: 2023-12-10T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - Ishmael
-  - 书评
-  - 哲学
+  - 思考哲学
 featured: false
 editable: true
 ---

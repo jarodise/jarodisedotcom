@@ -7,9 +7,7 @@ description: >-
 date: 2016-03-12T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 反浮躁
-  - 态度
-  - 思考
+  - 思考哲学
 featured: false
 editable: true
 ---

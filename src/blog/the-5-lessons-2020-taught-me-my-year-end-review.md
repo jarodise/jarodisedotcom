@@ -6,9 +6,8 @@ description: >-
 date: 2020-12-25T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 反思
+  - 思考哲学
   - 年终总结
-  - 成长
 featured: false
 editable: true
 ---

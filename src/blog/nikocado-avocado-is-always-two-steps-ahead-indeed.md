@@ -7,8 +7,7 @@ description: >-
 date: 2024-09-08T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 互联网现象
-  - 思考
+  - 思考哲学
   - 生活方式
 featured: false
 editable: true

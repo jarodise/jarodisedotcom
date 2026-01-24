@@ -7,8 +7,7 @@ description: >-
 date: 2020-04-18T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 吐槽
-  - 哥伦比亚
+  - 旅行旅居
   - 数字游民
 featured: false
 editable: true

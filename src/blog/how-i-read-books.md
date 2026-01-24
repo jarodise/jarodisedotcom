@@ -6,9 +6,9 @@ description: >-
 date: 2020-01-03T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 学习方法
+  - 英语学习
   - 生活方式
-  - 自我提升
+  - 自我成长
 featured: false
 editable: true
 ---

@@ -7,9 +7,7 @@ description: >-
 date: 2019-03-13T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - FIRE
-  - 提前退休
-  - 理财
+  - 创业赚钱
 featured: false
 editable: true
 ---

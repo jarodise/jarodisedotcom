@@ -6,9 +6,8 @@ description: >-
 date: 2015-07-12T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 口语
+  - 英语学习
   - 生活方式
-  - 经验分享
 featured: false
 editable: true
 ---

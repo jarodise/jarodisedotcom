@@ -7,7 +7,7 @@ description: >-
 date: 2022-01-19T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 土耳其
+  - 旅行旅居
   - 数字游民
   - 生活方式
 featured: false

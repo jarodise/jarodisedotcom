@@ -7,9 +7,7 @@ description: >-
 date: 2021-11-23T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 安全
-  - 拉美
-  - 攻略
+  - 旅行旅居
 featured: false
 editable: true
 ---

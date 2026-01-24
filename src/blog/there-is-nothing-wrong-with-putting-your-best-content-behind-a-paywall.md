@@ -7,8 +7,7 @@ description: >-
 date: 2022-06-25T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 内容付费
-  - 创作者经济
+  - 创业赚钱
   - 生活方式
 featured: false
 editable: true

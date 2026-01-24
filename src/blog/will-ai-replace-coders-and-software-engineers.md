@@ -5,8 +5,7 @@ description: 近日，Gumroad 创始人 Sahil Lavingia 在X上发布了一条的
 date: 2025-02-07T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 人工智能
-  - 未来
+  - 科技/人工智能
   - 生活方式
 featured: false
 editable: true

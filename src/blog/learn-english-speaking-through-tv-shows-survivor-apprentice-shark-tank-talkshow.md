@@ -7,8 +7,7 @@ description: >-
 date: 2016-10-09T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 口语
-  - 娱乐学习
+  - 英语学习
   - 生活方式
 featured: false
 editable: true

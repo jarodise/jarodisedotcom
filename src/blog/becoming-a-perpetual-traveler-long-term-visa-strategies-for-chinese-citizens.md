@@ -5,9 +5,7 @@ description: 最近有位朋友在数字游民知识星球问到数字游民在�
 date: 2018-04-13T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 全球公民
   - 数字游民
-  - 策略
 featured: false
 editable: true
 ---

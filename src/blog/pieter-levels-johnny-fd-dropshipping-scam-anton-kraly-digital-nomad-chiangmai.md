@@ -8,8 +8,7 @@ description: >-
 date: 2017-02-28T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - Dropshipping
-  - Pieter Levels
+  - 创业赚钱
   - 数字游民
 featured: false
 editable: true

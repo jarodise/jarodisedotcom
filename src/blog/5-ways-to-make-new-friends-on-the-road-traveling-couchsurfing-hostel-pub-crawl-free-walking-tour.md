@@ -8,8 +8,7 @@ date: 2016-09-25T00:00:00.000Z
 author: 数字游民Jarod
 tags:
   - 数字游民
-  - 旅行
-  - 独旅
+  - 旅行旅居
 featured: false
 editable: true
 ---

@@ -97,12 +97,12 @@ ${contentPreview}
 
 Please generate:
 1. A description in Chinese (150-200 characters) that summarizes the post for SEO purposes. It should be compelling and capture the main point.
-2. 3-5 relevant tags in Chinese that categorize this post. Common categories include: 数字游民, 远程工作, 旅行, 生活方式, 人工智能, 创业, 自由职业, 财务自由, 个人成长, 效率工具, 年终总结, etc.
+2. 1-3 relevant categories from this strict list (choose ONLY from these): 数字游民, 生活方式, 旅行旅居, 创业赚钱, 思考哲学, 自我成长, 英语学习, 年终总结, 科技/人工智能
 
 Respond in JSON format only:
 {
   "description": "...",
-  "tags": ["tag1", "tag2", "tag3"]
+  "tags": ["category1", "category2"]
 }`;
 
   try {

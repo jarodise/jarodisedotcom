@@ -6,7 +6,6 @@ description: >-
 date: 2018-06-27T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 定义
   - 数字游民
   - 生活方式
 featured: false

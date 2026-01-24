@@ -9,8 +9,7 @@ description: >-
 date: 2017-12-10T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - Jason Fried
-  - 思考
+  - 思考哲学
   - 生活方式
 featured: false
 editable: true

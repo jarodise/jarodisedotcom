@@ -5,8 +5,8 @@ description: '人们付费买的其实不是知识, 而是时间和认同感。'
 date: 2017-10-23T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 内容创业
-  - 思考
+  - 创业赚钱
+  - 思考哲学
   - 生活方式
 featured: false
 editable: true

@@ -7,9 +7,8 @@ description: >-
 date: 2019-08-03T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 丝绸之路
   - 数字游民
-  - 旅行
+  - 旅行旅居
 featured: false
 editable: true
 ---

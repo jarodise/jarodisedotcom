@@ -7,8 +7,8 @@ description: >-
 date: 2018-07-21T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - 创业
-  - 地理套利
+  - 创业赚钱
+  - 旅行旅居
   - 数字游民
 featured: false
 editable: true

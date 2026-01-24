@@ -6,8 +6,6 @@ date: 2023-02-21T00:00:00.000Z
 author: 数字游民Jarod
 tags:
   - 数字游民
-  - 数据分析
-  - 趋势
 featured: false
 editable: true
 ---

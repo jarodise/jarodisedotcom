@@ -7,9 +7,7 @@ description: >-
 date: 2015-06-30T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - WHV
-  - 打工度假
-  - 新西兰
+  - 旅行旅居
 featured: false
 editable: true
 ---

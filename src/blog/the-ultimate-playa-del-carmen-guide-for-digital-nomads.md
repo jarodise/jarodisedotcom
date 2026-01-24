@@ -6,9 +6,7 @@ description: >-
 date: 2020-01-11T00:00:00.000Z
 author: 数字游民Jarod
 tags:
-  - Playa Del Carmen
-  - 城市指南
-  - 墨西哥
+  - 旅行旅居
 featured: false
 editable: true
 ---
