@@ -1,0 +1,22 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Introduction from "../components/Introduction.astro";
+import Featured from "../components/Featured.astro";
+---
+
+<BaseLayout
+  title="数字游民部落"
+  description="数字游民生活方式设计的中文内容社区，分享远程工作、地理套利、旅居生活等话题的深度思考。"
+  author="数字游民Jarod"
+  url="https://jarodise.com"
+>
+  <div class="center">
+    <section>
+      <Introduction />
+    </section>
+    <hr />
+    <section>
+      <Featured />
+    </section>
+  </div>
+</BaseLayout>

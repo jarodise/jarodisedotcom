@@ -1,0 +1,27 @@
+---
+import ProgressBar from "../components/ProgressBar";
+import BaseLayout from "./BaseLayout.astro";
+import Title from "../components/Title.astro";
+
+const { frontmatter, readTime } = Astro.props;
+---
+
+<BaseLayout
+  title={frontmatter.title}
+  description={frontmatter.description}
+  author={frontmatter.author}
+  url={`https://ryze.pages.dev/${frontmatter.slug}`}
+  pubDate={frontmatter.date}
+>
+  <ProgressBar client:idle />
+  <article>
+    <div class="center">
+      <Title frontmatter={frontmatter} readTime={readTime} />
+      <hr class="border-foreground/25 mt-14 mb-3 border-t" />
+      <section class="markdown">
+        <slot />
+      </section>
+      <hr class="border-foreground/25 mt-14 mb-3 border-t" />
+    </div>
+  </article>
+</BaseLayout>
