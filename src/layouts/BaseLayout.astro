@@ -36,6 +36,7 @@ const { title, description, author, url, pubDate } = Astro.props;
   </head>
   <body class="body-margin">
     <Header />
+    <slot name="after-header" />
     <main class="main-margin bg-background relative z-1 min-h-svh">
       <slot />
     </main>
