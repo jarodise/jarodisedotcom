@@ -23,7 +23,7 @@ editable: true
 
 英国小说家Nick Hornby甚至不吝将其称为"Gen X的《蝇王》"。
 
-![](/images/v2-107e6df2213bbe5375e5d2b3ff0d60bc_1440w-webp.webp)
+![Digital Nomad Travel Map](/images/v2-107e6df2213bbe5375e5d2b3ff0d60bc_1440w-webp.webp)
 
 《The Beach》的故事始于一份神秘的地图，只有被“选中”的幸运儿才能得到它，而它指向的目的地是泰国湾Ang Thong海洋国家公园中的一个名为伊甸园(Eden)的隐秘海滩，也就是书名对应的“The Beach”。
 

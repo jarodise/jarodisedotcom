@@ -23,7 +23,7 @@ editable: true
 
 ## 1.What is the book (or books) you’ve given most as a gift, and why? Or what are one to three books that have greatly influenced your life?哪一本书是你送出给别人（当做礼物）次数最多的？或者哪1-3本书对你的人生影响最为深刻？
 
-说实话我本人没有给别人送书的习惯，但是我常给别人推荐书。在过去的几年中我给别人推荐次数最多的书应该是《Freakonomics》（魔鬼经济学），《The 4-Hour Workweek》和《三体》这三本书。之说以推荐这些书是因为他们对我的三观都产生的或多或少的影响。《魔鬼经济学》对我最大的启示在于通过“incentive”这个非常特殊的角度去理解人性和引导自己在如何做出正确的选择，《The 4-Hour Workweek》是数字游民生活方式设计的圣经，我在之前的文章里面提到过很多次，不用多说，值得每个希望成为数字游民的人反复地读。而《三体》作为我近年来读过的为数不多的小说类书籍极大地颠覆了我对人性的认识，三体里面说宇宙是一个黑暗森林，猎人们因为生存的本能和猜疑链的存在而必须要杀死其它的猎人，仔细想想，大到一个国家，小到一个家庭，我们人类所处的社会又何尝不是一个黑暗森林？ 
+说实话我本人没有给别人送书的习惯，但是我常给别人推荐书。在过去的几年中我给别人推荐次数最多的书应该是《Freakonomics》（魔鬼经济学），《The 4-Hour Workweek》和《三体》这三本书。之说以推荐这些书是因为他们对我的三观都产生的或多或少的影响。《魔鬼经济学》对我最大的启示在于通过“incentive”这个非常特殊的角度去理解人性和引导自己在如何做出正确的选择，《The 4-Hour Workweek》是数字游民生活方式设计的圣经，我在之前的文章里面提到过很多次，不用多说，值得每个希望成为数字游民的人反复地读。而《三体》作为我近年来读过的为数不多的小说类书籍极大地颠覆了我对人性的认识，三体里面说宇宙是一个黑暗森林，猎人们因为生存的本能和猜疑链的存在而必须要杀死其它的猎人，仔细想想，大到一个国家，小到一个家庭，我们人类所处的社会又何尝不是一个黑暗森林？
 
 ## 2.What purchase of $100 or less has most positively impacted your life in the last six months (or in recent memory)? My readers love specifics like brand and model, where you found it, etc. 在过去的六个月中哪样你花费不超过100美元购买的商品给你带来了最大的幸福感？
 
@@ -33,10 +33,10 @@ editable: true
 
 2014年，我经历了人生中的第一次跳槽，从一名奋战在油田一线穿着油乎乎工作服的外企现场工程师摇身一变成了西装革履，某国内民营上市企业驻迪拜的市场经理。刚刚入职的时候踌躇满志，感觉自己突然从一名蓝领升级成了白领，要通过接下来几年的奋斗走上人生巅峰了，结果在迪拜工作的日子却是日复一日满满的负能量，最终让我做出了工作三个月就裸辞的决定，人生中的第一次跳槽就这么完败了。而这次跳槽的完败和石油行业近几年整体的不景气也基本上摧毁了我自己在石油行业继续打拼的希望。但是，仔细想想，如果在迪拜的那段日子没有那么糟糕，我没准会在这个民营企业多忍一段时间，那么这个wake up call就会来得更迟一些，我也不会走上践行数字游民生活方式这条路。塞翁失马焉知非福，我觉得这次跳槽的失败从我人生的角度来看其实是一件好事儿。
 
-## 4.If you could have a gigantic billboard anywhere with anything on it—metaphorically speaking, getting a message out to millions or billions—what would it say and why? It could be a few words or a paragraph. (If helpful, it can be someone else’s quote: Are there any quotes you think of often or live your life by?) 如果你可以拥有一个巨大的公告牌，上面可以写任何你想写的话，或者说，假如你可以将一条信息传达给成千上万个人的话，那么这条信息会是什么？可以是几个字，或者是一段话，或者是某个人的名言警句或者你的座右铭。
+## 4.If you could have a gigantic billboard anywhere with anything on it—metaphorically speaking, getting a message out to millions or billions—what would it say and why? It could be a few words or a paragraph. (If helpful, it can be someone else’s quote: Are there any quotes you think of often or live your life by?) 如果你可以拥有一个巨大的公告牌，上面可以写任何你想写的话，或者说，假如你可以将一条信息传达给成千上万个人的话，那么这条信息会是什么？可以是几个字，或者是一段话，或者是某个人的名言警句或者你的座右铭
 
-美国开国元勋本杰明.富兰克林曾经说过一句话： “If you would not be forgotten as soon as you are dead and rotten, either write things worth reading, or do things worth writing.” - Ben Franklin 译：“如果你不想在死后被世人很快遗忘，要么写一些值得阅读的东西，要么做一些值得写的事情” - 本杰明.富兰克林 
-![](/images/q1UazOmex-html.jpg)
+美国开国元勋本杰明.富兰克林曾经说过一句话： “If you would not be forgotten as soon as you are dead and rotten, either write things worth reading, or do things worth writing.” - Ben Franklin 译：“如果你不想在死后被世人很快遗忘，要么写一些值得阅读的东西，要么做一些值得写的事情” - 本杰明.富兰克林
+![Remote Work Concept](/images/q1UazOmex-html.jpg)
 
 正是这句话让我在自媒体创业和数字游民生活方式设计的路上走得越发坚定不移。自媒体创业的本质就是要创造有价值的内容与别人分享，而数字游民生活方式则给我带来了人生体验的整体升级，二者相辅相成，构成一个良性循环。
 
@@ -46,7 +46,7 @@ editable: true
 
 ## 6.What is an unusual habit or an absurd thing that you love? 你最不寻常的一个习惯或者某个令人匪夷所思的爱好是什么？
 
-对新鲜事物超乎寻常地好奇心和钻研的欲望。我属于那种可以顺着一个关键词把Wikipedia上所有相关链接都看一遍，或者Youtube上所有相关视频看完的人。比如说我在去年读过Tim Ferriss写的Tools of Titans后对psychedelics和漂浮仓产生了极大的兴趣，之后便开始阅读大量有关的内容，并且在Youtube上看了好多相关的纪录片。（如果你也对这个话题感兴趣，我推荐看Youtube上的Hamilton's Pharmacopeia)。最后在波兰实地体验了漂浮仓退了烧。 
+对新鲜事物超乎寻常地好奇心和钻研的欲望。我属于那种可以顺着一个关键词把Wikipedia上所有相关链接都看一遍，或者Youtube上所有相关视频看完的人。比如说我在去年读过Tim Ferriss写的Tools of Titans后对psychedelics和漂浮仓产生了极大的兴趣，之后便开始阅读大量有关的内容，并且在Youtube上看了好多相关的纪录片。（如果你也对这个话题感兴趣，我推荐看Youtube上的Hamilton's Pharmacopeia)。最后在波兰实地体验了漂浮仓退了烧。
 
 这个习惯有好处也有坏处，好处在于它能让我在短时间内非常集中地把一件事儿彻底搞明白，坏处在于它有时候会成为一个时间的杀手，让我在做一件事情的时候很容易side track，让我本身就有的拖延症变得更加糟糕。
 
@@ -56,8 +56,8 @@ editable: true
 
 当然，对于那些只能靠拼假旅行的旅行者而言，花最少的时间看最多的风景无可厚非，但是我只能说我对这种形式的旅行已经没有太大的兴趣了。这也是为什么location independent lifestyle对我意义如此重大，因为只有实现了location independence，把工作和工作地点这二者完全分离开，才能真正赋予一个人慢旅行的自由。
 
-另外一个我今年培养的新习惯是练习瑜伽。现在每天早上起床后做的第一件事就练半个小时瑜伽，这半小时的锻炼不但有助于让我接下来一整天精神饱满，同时帮我矫正常年在电脑前久坐而造成的糟糕体态。如果你也想从零开始学习练习瑜伽，那么我非常推荐由Beachbody.com推出的The 3-Week Yoga Retreat课程。对于进阶的瑜伽练习者，我推荐Youtube上面的YogaTX频道，她的创始人Cole Chance是也是一名数字游民，经历了由颓废吸毒者到瑜伽教练的蜕变，回头有机会我会专门讲讲她的励志故事。 
-![](/images/fau3XciSX-html.jpg)
+另外一个我今年培养的新习惯是练习瑜伽。现在每天早上起床后做的第一件事就练半个小时瑜伽，这半小时的锻炼不但有助于让我接下来一整天精神饱满，同时帮我矫正常年在电脑前久坐而造成的糟糕体态。如果你也想从零开始学习练习瑜伽，那么我非常推荐由Beachbody.com推出的The 3-Week Yoga Retreat课程。对于进阶的瑜伽练习者，我推荐Youtube上面的YogaTX频道，她的创始人Cole Chance是也是一名数字游民，经历了由颓废吸毒者到瑜伽教练的蜕变，回头有机会我会专门讲讲她的励志故事。
+![Office Not Required](/images/fau3XciSX-html.jpg)
 
 ## 8.What advice would you give to a smart, driven college student about to enter the “real world”? What advice should they ignore? 对于一个刚刚迈入社会的大学毕业生，你会给他什么样的人生建议？会劝告他不要相信哪些人生建议？
 

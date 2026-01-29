@@ -15,7 +15,7 @@ editable: true
 
 ## 1.新西兰WHV虽好，但名额太少，成本略高
 
-[<!-- Image needs recovery: 美丽的新西兰 -->](http://jarodise.com/wp-content/uploads/2015/06/5ba5c6df7b3a5a69fc02a9714f2d827e.jpg) 美丽的新西兰
+[<!-- Image needs recovery: 美丽的新西兰 -->](https://jarodise.com/wp-content/uploads/2015/06/5ba5c6df7b3a5a69fc02a9714f2d827e.jpg) 美丽的新西兰
 
 自从2008年新西兰开始向中国大陆年轻人发放打工度假签证(working holiday visa, 以下简称WHV）以来，打工度假这种旅行方式在国内逐渐流行起来，但是每年雷打不动的1000人名额对于数以百万计的潜在申请人数量真的有点儿太不够意思了，前些年经常出现申请开放当天网站被挤爆的情况，然后还有各种黄牛火上浇油，抢注了名额后在淘宝上囤积居奇，高价转让。除此之外，申请新西兰WHV还有各种条条框框的限制：根据新西兰移民局移民局官网的信息，申请新西兰WHV，你首先必须是18-30岁之间的中国公民，长期居住和生活在中国(如果在递交申请前你曾离开中国超过2年时间，那么则被视为不符合申请条件)且递交申请时在中国居住生活，具有至少4200纽币的存款，拥有一定的英语能力(雅思成绩达5.5分以上)，至少拥有高中学历，并需出具由指定医疗机构开出的体检证明，而且此前从未被签发过打工度假签证。我们可以算笔账，申请费是160纽币(约合人民币700元)，加上考雅思费用1750元，出国标准体检按600元计算，这样光申请阶段的费用就要3000元左右。
 
@@ -25,7 +25,7 @@ editable: true
 
 自从习大大上台之后，咱们中国的护照含金量是一天比一天高了。2015年6月17日，中澳双方签署《中华人民共和国ZF和澳大利亚ZF自由贸易协定》。根据《协定》，澳大利亚将向中国公民提供十年期多次往返签证，成为第四个对中国游客提供十年期多次往返签证的国家。同时澳洲还向中国公民开放打工度假签证， 目前澳大利亚开放的“打工度假签证”有两种类型：Work and Holiday Visa（462）和Working Holiday Visa（417），澳大利亚将向中国公民开放的“打工度假签证”是462类型。462签证具体要求可见下表。
 
-[<!-- Image needs recovery: 澳洲打工度假签证（462）要求 -->](http://jarodise.com/wp-content/uploads/2015/06/150828sbzs6bo5bp66sto6.png) 澳洲打工度假签证（462）要求
+[<!-- Image needs recovery: 澳洲打工度假签证（462）要求 -->](https://jarodise.com/wp-content/uploads/2015/06/150828sbzs6bo5bp66sto6.png) 澳洲打工度假签证（462）要求
 
 从上表看来，该签证的要求跟新西兰WHV大同小异，对学历的要求稍微严格一点，申请462签证需要至少本科学历，雅思的要求为4.5（所以考雅思这1750元的费用是逃不掉啦）。此外澳洲462签证点申请费要令人发指的460澳元，折合人民币2000多元，单这一项就把申请成本拉高了不少。值得庆幸的是，相比新西兰，澳洲每年提供5000个名额，虽然还是无法解决僧多粥少的局面，但是还是给广大申请人多了一个选择，况且相比新西兰澳洲面积大，找工作更容易，平均薪水也要比新西兰高一点，相信该签证正式开放申请之后一定会对新西兰的WHV起到一定的分流作用。
 
@@ -37,7 +37,7 @@ editable: true
 
 ### 1). [WWW.WWOOF.NET](http://www.wwoof.net/)
 
-[<!-- Image needs recovery: WWOOF -->](http://jarodise.com/wp-content/uploads/2015/06/WWOOF.jpg) WWOOF
+[<!-- Image needs recovery: WWOOF -->](https://jarodise.com/wp-content/uploads/2015/06/WWOOF.jpg) WWOOF
 
 WWOOF是World-Wide Opportunities on Organic Farms的缩写，为1972年在英国率先成立的一个组织，当时的用意是为让都市人体验农村生活而推出一种“以工换食宿”的工作假期。在澳大利亚、新西兰、丹麦、哥斯达黎加等数十个国家运作多年，串连全球的有机农场主人与游客。依据WWOOF的准则，游客可以到参与WWOOF计划的农场打工，每天只需工作4-6小时，就可赚取农场提供的免费食宿。（以上内容部分转载自百度百科）
 
@@ -47,7 +47,7 @@ WWOOF成立的比较早，因此在全世界范围内已经形成一定的规模
 
 ### 2). [HelpX.net](http://www.helpx.net/)
 
-[<!-- Image needs recovery: helpx -->](http://jarodise.com/wp-content/uploads/2015/06/helpx.png) Helpx.net
+[<!-- Image needs recovery: helpx -->](https://jarodise.com/wp-content/uploads/2015/06/helpx.png) Helpx.net
 
 Helpx是Help Exchange的缩写，最初是由英国人Rob Prince于2001年4月创建的。他在澳大利亚和新西兰游历了好几年，在这期间他在一些农场和背包客栈工作换取住宿有时还包括三餐，都是从常规渠道得知哪些农场需要人帮忙，譬如说旅馆的公告牌和一些小册子。但是他觉得可以通过一个网络系统帮助大家找到合适的hosts，当时还没有这样一个网络系统，他决定自己建立一个这样的一个网站.
 
@@ -65,7 +65,7 @@ Helpx主要是种文化交流，给在国外的旅行者提供一个待在当地
 
 ### 3). [www.workaway.info](http://www.workaway.info/)
 
-[<!-- Image needs recovery: workaway.info -->](http://jarodise.com/wp-content/uploads/2015/06/workaway.jpg) workaway.info
+[<!-- Image needs recovery: workaway.info -->](https://jarodise.com/wp-content/uploads/2015/06/workaway.jpg) workaway.info
 
 Workaway与HelpX类似，也是一个打工换宿的交流平台。Workaway创立于2003年，负责帮助长期旅行者找到可以提供住宿和工作的雇主。“这是一个双赢模式，” 有意成为“志愿者”的人们只需要投入一笔较小的交通费和签证费，就能挑中心目中理想的旅游胜地，领略不同的文化氛围。其中，雇主们会为“志愿者们“提供免费的食宿，而且这也是一个结交来自世界各地的朋友的好途径。”现在网站拥有超过4500个“雇主“，遍及全球115个国家，其中包含很多个人家庭，非政府组织，和慈善机构等等。
 
@@ -75,22 +75,22 @@ Workaway的网站非常简明易用，注册会员可以免费搜索查看全世
 
 在去加拿大之前，我从来没有体验过白河漂流这项极限运动，这次打工换宿经历帮我填补了这个空白。我在小镇Grande Cache总共工作了1个月，在这里认识了来自荷兰，美国，法国和加拿大不同地方的朋友，并且免费参加了8次白河漂流，包括6次在Sulphur River，一次在Sheep Creek，还有一次在Smoky River，这也是Grande Cache周边几条最主要的适合漂流的河流。
 
-[<!-- Image needs recovery: Grande Cache -->](http://jarodise.com/wp-content/uploads/2015/06/b_large_9lO3_53f7000082811263.jpg) 我workaway的地方，加拿大落基山中央的小镇Grande Cache
+[<!-- Image needs recovery: Grande Cache -->](https://jarodise.com/wp-content/uploads/2015/06/b_large_9lO3_53f7000082811263.jpg) 我workaway的地方，加拿大落基山中央的小镇Grande Cache
 
 Sulphur是最受欢迎的一条，难度适中，适合8岁以上的儿童及成年人。两岸的风景也是美不胜收，特别是到了Suphur Gate两河交汇的地段，让人不禁感慨大自然的鬼斧神工。
 
-[<!-- Image needs recovery: 我站在Sulphur Gate之上 -->](http://jarodise.com/wp-content/uploads/2015/06/b_large_0RpE_0c90000039ee1261.jpg) 我站在Sulphur Gate之上
+[<!-- Image needs recovery: 我站在Sulphur Gate之上 -->](https://jarodise.com/wp-content/uploads/2015/06/b_large_0RpE_0c90000039ee1261.jpg) 我站在Sulphur Gate之上
 
 Sheep Creek是难度最大的一条，只有18岁以上的成年人才能参加。无论从河水的湍急程度还是垂直落差，Sheep Creek都绝对够刺激。
 
-[<!-- Image needs recovery: 惊险刺激的漂流 -->](http://jarodise.com/wp-content/uploads/2015/06/b_large_WnZT_7367000066831262.jpg) 惊险刺激的漂流
+[<!-- Image needs recovery: 惊险刺激的漂流 -->](https://jarodise.com/wp-content/uploads/2015/06/b_large_WnZT_7367000066831262.jpg) 惊险刺激的漂流
 
 Smoky River是三条河里面最平静的，适合4岁及以上的儿童。漂流公司也别出心裁的搞了一个海盗情景模拟，让上船的孩子们以为自己是在一个海盗故事之中。
 
-[<!-- Image needs recovery: Canada Day -->](http://jarodise.com/wp-content/uploads/2015/06/m2w595hq85lt_x_large_hJ03_05d7000030781263.jpg) 打扮成海盗船长欢度加拿大国庆节
+[<!-- Image needs recovery: Canada Day -->](https://jarodise.com/wp-content/uploads/2015/06/m2w595hq85lt_x_large_hJ03_05d7000030781263.jpg) 打扮成海盗船长欢度加拿大国庆节
 
 很多朋友误以为我的工作就是每天玩，其实不然。白河漂流的准备工作和后续工作其实还是很费时费力的。早上起床要提前给需要下河的船打气。打好之后要把他们装在拖车上准备出发。因为河水冰冷，公司特意安排给每个下河的游客一杯热巧克力和两块饼干，让他们能在到达终点的时候暖暖身子，补充能量，因此熬热巧克力，烤饼干也是我们的日常工作之一。船运到河流附近的平地后，需要想办法把船弄下山到河谷的岸边。Sulphur River有一套相当完备的缆绳系统，将船挂上滑轮，顺着缆绳就能滑下山。而Sheep Creek就没这么方便了，我们需要把船用扁担顺着陡峭的山路一路扛下去，一条船少则80-100公斤，顺着山路往下抬真的不是一件容易的事情，还好我只抬了一次。 船下水后，因为河水温度低，还需要用气泵手动充气以保持船的气压。到了河下游，游客上岸后，又需要将船从水中拉出来，放上拖车，拉回基地。所有游客身上船的水服都要脱下来，由我们进行清洗和消毒，晾干了之后还要根据尺码摆放整齐以备下次继续使用。 所以与其说我这8次漂流是免费的，不如说是用自己的辛勤劳动换来的。
 
-[<!-- Image needs recovery: rafting -->](http://jarodise.com/wp-content/uploads/2015/06/b_large_9dwj_5c98000031701261.jpg) 向山下送船
+[<!-- Image needs recovery: rafting -->](https://jarodise.com/wp-content/uploads/2015/06/b_large_9dwj_5c98000031701261.jpg) 向山下送船
 
 值得注意的是，以上提到的三个网站严格地讲都不是真正意义上的打工度假（working holiday），因为并不存在真正的雇佣关系，参与者也并不拥有政府颁发工作许可，不能合法的拿工资，因此不适合希望通过打工来赚钱的旅行者，但是正是这样的灵活性让这几个网站成为对新西兰WHV和澳洲462签证的强大补充，为广大的渴望以低成本长期旅行的中国朋友们在探索世界的道路上提供了更为丰富的选择。

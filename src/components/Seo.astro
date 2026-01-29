@@ -9,9 +9,9 @@ export interface Props {
 }
 
 const {
-  title = "Ryze",
-  description = "A minimalist Astro starter for mini blogs.",
-  author = "Rahul",
+  title = "数字游民部落",
+  description = "数字游民部落 - 探索不受地域限制的全球移动生活方式",
+  author = "数字游民Jarod",
   canonicalURL = new URL(Astro.url.pathname, Astro.site),
   pubDate,
 } = Astro.props;
@@ -28,7 +28,7 @@ const {
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="Ryze" />
+<meta property="og:site_name" content="数字游民部落" />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={canonicalURL} />
@@ -46,7 +46,7 @@ const {
 <link
   rel="alternate"
   type="application/rss+xml"
-  title="Ryze"
+  title="数字游民部落"
   href={new URL("rss.xml", Astro.site)}
 />
 

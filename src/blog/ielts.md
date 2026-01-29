@@ -67,7 +67,7 @@ editable: true
 
 关于雅思的备考和实战的建议：上面提到我第一次考雅思口语是7分，第二次考口语是8.5，为什么差别会这么大，我想最主要的原因是第一次是完全裸考，而第二次我认真的备考了，雅思口语的题库很大，再牛的人如果不备考，考场上遇到自己不熟悉的话题都会出现无话可说的情况，这样就很容易出问题。所以我想在最后这部分分享一些关于备考的建议：
 
-书籍方面首先必须要推荐当然是剑桥大学考试委员会出品的剑桥雅思官方真题集，熟悉考试动向，自我模拟练习都需要用到它，目前最新版的是《剑桥雅思11》（购买链接：[亚马逊](https://www.amazon.cn/gp/product/B01BTOPTNI/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B01BTOPTNI&linkCode=as2&tag=jarodisecom-23) | [京东](http://jarodise.com/cambridge-ielts-11-jd)）。口语专项书籍方面我参考的是小姨的《10天突破雅思口语》（购买链接：[亚马逊](http://jarodise.com/10dayieltsspeaking) ）这本书内容比较细，各种素材，话题总结得比较到位，建议当做泛读的入门材料以及一本素材工具书。
+书籍方面首先必须要推荐当然是剑桥大学考试委员会出品的剑桥雅思官方真题集，熟悉考试动向，自我模拟练习都需要用到它，目前最新版的是《剑桥雅思11》（购买链接：[亚马逊](https://www.amazon.cn/gp/product/B01BTOPTNI/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B01BTOPTNI&linkCode=as2&tag=jarodisecom-23) | [京东](https://jarodise.com/cambridge-ielts-11-jd)）。口语专项书籍方面我参考的是小姨的《10天突破雅思口语》（购买链接：[亚马逊](https://jarodise.com/10dayieltsspeaking) ）这本书内容比较细，各种素材，话题总结得比较到位，建议当做泛读的入门材料以及一本素材工具书。
 
 现在比较流行上网课，我尝试听了一些，觉得黄瀚生Frank的口语网课还是可以听一下的，因为他本身是Native Speaker，加上又是前考官，对于答题方法和方式的掌控比较到位，不像某些2B中国老师给你整大段的东西让你死记硬背。
 

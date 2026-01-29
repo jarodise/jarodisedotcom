@@ -13,7 +13,7 @@ export async function GET(context: APIContext) {
   const blogs: BlogType[] = await getCollection("blogs");
   return rss({
     // stylesheet: "/pretty-feed-v3.xsl",
-    title: "Ryze",
+    title: "数字游民部落",
     description: "Static minimal astro blog starter",
     site: context.site,
     trailingSlash: false,

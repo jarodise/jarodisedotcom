@@ -90,12 +90,10 @@ KLOOK诞生的初衷就是因为两位创始人几年前在尼泊尔旅行时候
 
 对这个产品感兴趣的游民们可以通过以下链接详细了解并购买： [**Safetywing Nomad Insurance**](https://safetywing.com/nomad-insurance/?referenceID=jarodise&utm_source=jarodise&utm_medium=Ambassador)
 
-[![](/images/517a0962-c430-40e4-8ab4-6f9072721bde-png.png)](https://safetywing.com/nomad-insurance/?referenceID=jarodise&utm_source=jarodise&utm_medium=Ambassador)
+[![SafetyWing Insurance](/images/517a0962-c430-40e4-8ab4-6f9072721bde-png.png)](https://safetywing.com/nomad-insurance/?referenceID=jarodise&utm_source=jarodise&utm_medium=Ambassador)
 
-## 结语：
+## 结语
 
 以上就是我本人境外游这些年私藏的一些旅行利器，希望它们也能为大家未来的行程提供便利，提升旅行幸福感。也欢迎大家在评论区推荐自己认为比较好的旅行工具，相互切磋。
-
-
 
 > 原文始发于微信公众号（数字游民部落）：[数字游民常用的旅行利器都有哪些？](http://mp.weixin.qq.com/s?__biz=MzIyMjAwNzAzNg==&tempkey=MTAyM19od0NOekJ5cWI3SlZObnlLSkZobmJsZlI0cmNfSmtTWk5qdG5wRS14NHcweGZFRFB6TXZvSURieUU0RllhZ1lNUmZIdTUxNnBubDFXRFhpdVhhRkY5Qm95RldKaDg2bHNzSEV4X0dxRkpWYkpWR3ZBQXF5YWlMdWg1WFZacUFxZDBkUUlTMUZDSElqS296WW5WZ254ZC1XbWVVZzEzWXVlcUZxNHl3fn4%3D&chksm=70364db74741c4a183c98ba496c1a4229eb22c9ead635c19e04d6366152ba065566091d253a7&scene=0&xtrack=1&previewkey=HdQcKPvnt9QnBB25VbkQN8wqSljwj2bfCUaCyDofEow%253D#wechat_redirect)

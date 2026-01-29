@@ -17,7 +17,7 @@ editable: true
 
 之所以说是大变活人，是因为，他用半年时间，从一个300多斤的大胖子，变成了现在一个不到一百斤的瘦子。
 
-![](/images/v2-959afdc8234750c4946414fb7950fe06_1440w-jpg.jpg)
+![Nikocado Avocado Before](/images/v2-959afdc8234750c4946414fb7950fe06_1440w-jpg.jpg)
 
 当然，如果这单纯只是一个热辣滚烫式的减肥励志故事，也许值得谈论，但绝对称不上炸裂。
 
@@ -29,7 +29,7 @@ editable: true
 
 至少，事情从表面上看是这样。
 
-![](/images/v2-b37ecd070b1ec631ec46face7841a030_1440w-jpg.jpg)
+![Nikocado Avocado After](/images/v2-b37ecd070b1ec631ec46face7841a030_1440w-jpg.jpg)
 
 而今天这条回归视频的炸裂之处就在于，我们这些内容受众，对于他之前从正太小鲜肉变成肥胖症患者这件事，无论是惋惜也好，嘲笑也好，其实都是在他的预期之内的。
 
@@ -41,7 +41,7 @@ editable: true
 
 但是一些细心的网友就发现，Nikocado Avocado早在两年前自己还没有减肥的时候，就发表过一条标题一模一样的独白 - “Two steps ahead”，甚至所用的词句也是大差不差，也就是说，这个“伟大的社会实验”早在几年前就已经悄然开始布局了。
 
-![](/images/v2-adac17485bf4f2186ee6e192d356fa64_1440w-jpg.jpg)
+![Two Steps Ahead Video](/images/v2-adac17485bf4f2186ee6e192d356fa64_1440w-jpg.jpg)
 
 作为一名超级油管网红，他很明白受众的G点在哪里，也对算法的分发规则了如指掌。他并没有被算法异化，真正被异化的是那些热衷于看他笑话的人。
 

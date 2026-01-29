@@ -24,3 +24,4 @@ pnpm-debug.log*
 .idea/
 .vercel
 CONTENT_GUIDE.md
+squirrel.toml

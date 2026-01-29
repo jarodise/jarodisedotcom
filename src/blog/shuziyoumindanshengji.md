@@ -39,6 +39,6 @@ editable: true
 
 现在的自己，而立之年，尚未成家，没有工作（也不想找工作），没有房贷，积蓄还够养活自己一阵子，热爱自由，渴望旅行，我充其量只是一个游民，但是我已经下定决心要通过自己的努力成为一名数字游民，这个网站的初衷不仅仅是要记录自己从游民到数字游民的蜕变过程，更要在中国范围内推广和传播数字游民的生活方式，方法和理念，因为这方面的中文信息还相当匮乏。如果你有足够的耐心读到这里，并且有兴趣成为一名数字游民，请继续关注本站，或者扫下方二维码关注本站的微信公众号－数字游民部落（ID：szymbl)
 
-[](http://jarodise.com/wp-content/uploads/2015/06/qrcode_for_gh_08371fcf4d2f_430.jpg)同步微博地址： [http://weibo.com/u/5640574015](http://weibo.com/u/5640574015)
+[](https://jarodise.com/wp-content/uploads/2015/06/qrcode_for_gh_08371fcf4d2f_430.jpg)同步微博地址： [http://weibo.com/u/5640574015](http://weibo.com/u/5640574015)
 
 豆瓣小组地址：[http://www.douban.com/group/568100/](http://www.douban.com/group/568100/)

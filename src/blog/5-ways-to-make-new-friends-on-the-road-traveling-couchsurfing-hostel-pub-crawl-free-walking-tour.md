@@ -18,7 +18,7 @@ editable: true
 
 ## 1\. Couchsurfing
 
-很多人对Couchsurfing（沙发客）这个网站都不陌生了，我之前详细地写过两篇有关Couchsurfing的文章，[一篇是讲我住别人的沙发](http://jarodise.com/couchsurfing-paris/)，[另外一篇是讲别人住我的沙发](http://jarodise.com/couchsurfing/)。
+很多人对Couchsurfing（沙发客）这个网站都不陌生了，我之前详细地写过两篇有关Couchsurfing的文章，[一篇是讲我住别人的沙发](https://jarodise.com/couchsurfing-paris/)，[另外一篇是讲别人住我的沙发](https://jarodise.com/couchsurfing/)。
 
 简单地说，这个网站可以让你在出门旅行时候免费住在陌生人的家中，模式有点像现在比较流行的AirBnB，只不过它可比AirBNB的出现早多了，而且是完全免费的。
 

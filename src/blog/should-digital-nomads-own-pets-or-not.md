@@ -13,7 +13,7 @@ editable: true
 
 两个月前，我在小区里看到一只流浪猫，它满身的尘土，极度瘦弱，而且靠近一看，还是一只野外生存能力几乎为零的扁脸加菲猫。
 
-![](/images/v2-446237295b36ebaa84e71505431177e1_1440w-webp.webp)
+![Digital Nomad with Pet](/images/v2-446237295b36ebaa84e71505431177e1_1440w-webp.webp)
 
 恻隐之心的驱使下，我把它引回了家里，想要给它喂点水和食物。
 
@@ -67,4 +67,4 @@ editable: true
 
 也衷心希望这只小可爱能在它的新家度过快乐无忧的余生。
 
-![](/images/v2-f080f6695c5d9481e58c31ac8a3d0b4b_1440w-webp.webp)
+![Traveling with Cat](/images/v2-f080f6695c5d9481e58c31ac8a3d0b4b_1440w-webp.webp)
