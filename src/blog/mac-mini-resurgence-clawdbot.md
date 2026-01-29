@@ -5,10 +5,8 @@ description: 故事要从知名博主 Nat Eliason 的一条推文说起。1月20
 date: 2026-01-26T16:19:00.000Z
 author: 数字游民Jarod
 tags:
+  - 科技AI
   - 数字游民
-  - AI
-  - Mac mini
-  - Clawdbot
 featured: false
 editable: true
 ---
