@@ -9,7 +9,7 @@ import Year from "../../../components/Year.astro";
 const blogs: BlogType[] = await getCollection("blogs");
 const years = [
   ...new Set(blogs.map((blog) => new Date(blog.data.date).getFullYear())),
-];
+].sort((a, b) => b - a);
 
 export async function getStaticPaths({ paginate }: { paginate: any }) {
   const blogs: BlogType[] = await getCollection("blogs");
