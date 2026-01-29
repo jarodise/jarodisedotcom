@@ -2,16 +2,39 @@
 import IconYoutube from "../assets/icons/brand-youtube.svg";
 import IconDiscord from "../assets/icons/brand-discord.svg";
 import IconTwitter from "../assets/icons/brand-x.svg";
+import IconWechat from "../assets/icons/brand-wechat.svg";
+import IconXiaohongshu from "../assets/icons/brand-xiaohongshu.svg";
 ---
 
-<div class="flex items-center justify-center space-x-6 pb-8">
-  <a href="https://www.youtube.com/@jarodise42" target="blank" aria-label="youtube"
-    ><IconYoutube class="socials" /></a
+<div class="flex items-center justify-center gap-6 pb-8">
+  <a
+    href="https://www.youtube.com/@jarodise42"
+    target="blank"
+    aria-label="youtube"><IconYoutube class="socials" /></a
   >
-  <a href="https://discord.com/invite/RVjS4XWF5h" target="blank" aria-label="discord"
-    ><IconDiscord class="socials" /></a
+  <a
+    href="https://discord.com/invite/RVjS4XWF5h"
+    target="blank"
+    aria-label="discord"><IconDiscord class="socials" /></a
   >
   <a href="https://x.com/jarodise" target="blank" aria-label="twitter"
     ><IconTwitter class="socials" /></a
   >
+  <a
+    href="https://xhslink.com/m/8Y6tGPyqC4h"
+    target="blank"
+    aria-label="xiaohongshu"><IconXiaohongshu class="socials" /></a
+  >
+  <div class="group relative flex items-center justify-center">
+    <IconWechat class="socials cursor-pointer" />
+    <div
+      class="absolute bottom-full z-50 mb-2 hidden w-36 rounded-lg border border-gray-200 bg-white p-2 shadow-lg group-hover:block"
+    >
+      <img
+        src="/wechat-qrcode.jpg"
+        alt="WeChat QR Code"
+        class="h-auto w-full"
+      />
+    </div>
+  </div>
 </div>
