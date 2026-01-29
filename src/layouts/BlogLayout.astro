@@ -3,6 +3,7 @@ import ProgressBar from "../components/ProgressBar";
 import BaseLayout from "./BaseLayout.astro";
 import Title from "../components/Title.astro";
 import AffiliateSection from "../components/AffiliateSection.astro";
+import Comments from "../components/Comments.astro";
 
 const { frontmatter, readTime } = Astro.props;
 ---
@@ -24,6 +25,7 @@ const { frontmatter, readTime } = Astro.props;
       </section>
       <AffiliateSection />
       <hr class="border-foreground/25 mt-14 mb-3 border-t" />
+      <Comments />
     </div>
   </article>
 </BaseLayout>
