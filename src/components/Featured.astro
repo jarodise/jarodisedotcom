@@ -5,8 +5,11 @@ import FeatureCard from "./FeatureCard.astro";
 
 const blogs: BlogType[] = await getCollection("blogs");
 const blogs_ = blogs.map((blog) => {
-  const words = (blog.body ?? "").split(/\s+/).filter(Boolean).length;
-  const minutes = Math.ceil(words / 200);
+  const content = blog.body ?? "";
+  const enWords = content.match(/\w+/g)?.length || 0;
+  const cjkChars = content.match(/[\u4e00-\u9fa5]/g)?.length || 0;
+  const count = enWords + cjkChars;
+  const minutes = Math.ceil(count / 200);
   return {
     ...blog,
     data: { ...blog.data, readTime: minutes },
