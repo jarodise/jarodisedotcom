@@ -11,7 +11,7 @@ const years = [
   ...new Set(
     blogs.map((blog: BlogType) => new Date(blog.data.date).getFullYear()),
   ),
-];
+].sort((a, b) => b - a);
 
 export async function getStaticPaths({
   paginate,
@@ -34,7 +34,9 @@ const { page } = Astro.props as { page: { data: BlogType[] } };
   url="https://ryze.pages.dev/archive/1"
 >
   <div class="center">
-    <div class="flex items-center gap-8">
+    <div
+      class="flex flex-col items-start gap-4 md:flex-row md:items-center md:gap-8"
+    >
       <a href="/archive/1" class="heading">Archive</a>
       <Year years={years} />
     </div>
