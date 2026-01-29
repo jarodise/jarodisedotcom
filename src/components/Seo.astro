@@ -12,7 +12,7 @@ const {
   title = "Ryze",
   description = "A minimalist Astro starter for mini blogs.",
   author = "Rahul",
-  canonicalURL = new URL(Astro.url.pathname, Astro.url),
+  canonicalURL = new URL(Astro.url.pathname, Astro.site),
   pubDate,
 } = Astro.props;
 ---
