@@ -10,6 +10,7 @@ export interface Props {
 import "@fontsource-variable/space-grotesk";
 import "@fontsource/ibm-plex-mono";
 import Analytics from "@vercel/analytics/astro";
+import SpeedInsights from "@vercel/speed-insights/astro";
 import Seo from "../components/Seo.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -43,5 +44,6 @@ const { title, description, author, url, pubDate } = Astro.props;
       <slot />
     </main>
     <Footer />
+    <SpeedInsights />
   </body>
 </html>
