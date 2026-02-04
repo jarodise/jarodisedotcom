@@ -13,7 +13,22 @@ export default defineConfig({
   devToolbar: {
     enabled: false,
   },
-  integrations: [react(), sitemap()],
+  integrations: [
+    react(),
+    sitemap({
+      filter: (page) => {
+        // Exclude tag pagination pages
+        if (page.includes('/tags/') && /\/\d+\/?$/.test(page)) {
+          return false;
+        }
+        // Exclude archive pagination pages  
+        if (page.includes('/archive/') && /\/\d+\/?$/.test(page)) {
+          return false;
+        }
+        return true;
+      }
+    })
+  ],
 
   markdown: {
     shikiConfig: {

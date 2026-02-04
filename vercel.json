@@ -1,0 +1,14 @@
+{
+    "redirects": [
+        {
+            "source": "/blog/the-ultimate-guide-to-digital-nomad-lifestyle-design-2019",
+            "destination": "/blog/what-is-digital-nomad-2024-updated-and-simplified-version",
+            "permanent": true
+        },
+        {
+            "source": "/blog/the-ultimate-guide-to-digital-nomad-lifestyle-2022-post-pandemic-version",
+            "destination": "/blog/what-is-digital-nomad-2024-updated-and-simplified-version",
+            "permanent": true
+        }
+    ]
+}

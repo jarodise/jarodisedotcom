@@ -5,6 +5,7 @@ export interface Props {
   author: string;
   url: string;
   pubDate?: Date;
+  lang?: string;
 }
 
 import "@fontsource-variable/space-grotesk";
@@ -15,11 +16,18 @@ import Seo from "../components/Seo.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/global.css";
-const { title, description, author, url, pubDate } = Astro.props;
+const {
+  title,
+  description,
+  author,
+  url,
+  pubDate,
+  lang = "zh-CN",
+} = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang={lang} dir="ltr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
