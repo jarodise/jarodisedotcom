@@ -12,17 +12,19 @@ featured: false
 editable: true
 ---
 
-![Rick Rubin](/images/blog/rick-rubin-1.png)
-
-![Rick Rubin与Johnny Cash](/images/blog/rick-rubin-2.jpg)
+## 不会乐器的音乐制作人
 
 2025年初，一张照片在硅谷工程师圈子里刷屏。
 
 照片里是Rick Rubin，留着标志性的长胡子，戴着大耳机，姿态松弛地坐在电脑前。配文来自AI研究大神Andrej Karpathy："There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 
+![Rick Rubin](/images/blog/rick-rubin-1.png)
+
 他在描述一种新的工作方式：用自然语言告诉AI你想要什么，让AI处理技术实现，而人类只负责选择、判断。
 
 但这张照片真正有趣的地方在于：Rubin不是程序员，他根本不会写代码。他是八届格莱美奖得主，Jay-Z、Adele、Johnny Cash、Red Hot Chili Peppers背后的制作人。
+
+![Rick Rubin与Johnny Cash](/images/blog/rick-rubin-2.jpg)
 
 如果你问他如何操作混音台，他会摇头；问他什么是Dorian调式，他会茫然；问他如何演奏哪怕一种乐器，他会说："Barely."
 
@@ -32,7 +34,7 @@ editable: true
 
 这种极简主义的介入方式，在AI时代突然获得了新的相关性。当AI可以在几秒钟内生成一首完整的歌曲、一段复杂的代码、一张精美的图像时，"能做"已经不再是区分优秀与平庸的标准。那标准到底在哪呢？
 
-Rubin的答案是：品味——那种无法被算法还原的判断力，那种知道"什么是好的"而不需要知道"如何做到"的能力。
+Rubin的答案是：_品味_——那种无法被算法还原的判断力，那种知道"什么是好的"而不需要知道"如何做到"的能力。
 
 这就引出一个更根本的问题：到底什么是"品味"（taste）？
 

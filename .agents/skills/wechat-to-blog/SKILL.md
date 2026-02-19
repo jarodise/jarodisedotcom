@@ -1,6 +1,6 @@
 ---
 name: wechat-to-blog
-description: Scrape WeChat articles and publish them to a static blog (Astro-based). Use when the user wants to (1) fetch a WeChat article by URL and publish it to their blog, (2) convert WeChat content to markdown format, or (3) migrate WeChat posts to a static site. Preserves original titles and all images.
+description: Scrape WeChat articles and publish them to a static blog (Astro-based). Use when the user wants to (1) fetch a WeChat article by URL and publish it to their blog, (2) convert WeChat content to markdown format, or (3) migrate WeChat posts to a static site. Preserves original titles and all images at correct positions.
 ---
 
 # WeChat to Blog
@@ -11,7 +11,7 @@ Scrape WeChat articles and publish them to an Astro-based static blog.
 
 ### 1. Scrape WeChat Article
 
-Use the bundled Python script to fetch the article content with images:
+Use the bundled Python script to fetch the article content with images at their correct positions:
 
 ```bash
 source .venv/bin/activate && python .agents/skills/wechat-to-blog/scripts/scrape_wechat.py "<WECHAT_URL>"
@@ -19,8 +19,9 @@ source .venv/bin/activate && python .agents/skills/wechat-to-blog/scripts/scrape
 
 This outputs:
 - Article title
-- List of images with their URLs
-- Full text content (saved to `/tmp/wechat_content.txt`)
+- List of images with their URLs and indices
+- Full text content with `IMAGE_URL_X` placeholders showing where images appear
+- Saved to `/tmp/wechat_content.txt`
 
 ### 2. Read and Verify Content
 
@@ -29,12 +30,25 @@ Read the scraped content:
 cat /tmp/wechat_content.txt
 ```
 
-Verify:
-- Title is correctly extracted
-- All images are captured
-- Content is complete
+**Verify carefully:**
+- [ ] Title is correctly extracted
+- [ ] All images are captured (count matches the original)
+- [ ] Content is complete (check beginning and end)
+- [ ] `IMAGE_URL_X` placeholders are at correct positions
+- [ ] **Section headings from the original are preserved**
 
-### 3. Create Blog Post
+### 3. Download Images
+
+Download all images to `public/images/blog/`:
+
+```bash
+# Example - do this for EACH image
+curl -sL "<wechat-image-url>" -o public/images/blog/<descriptive-filename>.png
+```
+
+**Naming convention:** Use descriptive names like `rick-rubin-1.png`, `rick-rubin-2.jpg`
+
+### 4. Create Blog Post
 
 Create a new markdown file in `src/blog/` with this frontmatter format:
 
@@ -57,39 +71,56 @@ editable: true
 - Use the EXACT title from WeChat (do not modify)
 - Use ONLY existing tags from the blog (check with `grep -h "^  - " src/blog/*.md | sort | uniq`)
 - Include ALL images from the original article
-- Insert images at appropriate positions in the content
+- **Insert images at EXACT positions where `IMAGE_URL_X` placeholders appear in the scraped content**
+- **Preserve all section headings from the original article**
 
-### 4. Download and Add Images with Correct Positions
+### 5. Image Positioning Guide
 
-**IMPORTANT:**
-1. Download all images to local, do NOT use remote URLs
-2. Insert images at the EXACT same positions as in the original WeChat article
+The scraped content file shows `IMAGE_URL_X` placeholders indicating where images appear in the original article. **Do NOT place all images at the beginning.**
 
-Steps:
+**Correct approach:**
+1. Copy text content from `/tmp/wechat_content.txt`
+2. Replace each `IMAGE_URL_X` placeholder with the actual markdown image:
+   ```markdown
+   ![alt text](/images/blog/filename.png)
+   ```
+3. Images should appear **exactly where the placeholder is**, not before or after
 
-1. First, analyze the WeChat article structure to determine image positions:
-```bash
-source .venv/bin/activate && python .agents/skills/wechat-to-blog/scripts/scrape_wechat_with_positions.py "<WECHAT_URL>"
+**Example:**
+```markdown
+## Section Heading
+
+Some text here...
+
+![Rick Rubin](/images/blog/rick-rubin-1.png)
+
+More text after the image...
 ```
 
-2. Download images to local:
-```bash
-curl -sL "<wechat-image-url>" -o public/images/blog/<descriptive-filename>.png
-```
+### 6. Verification Checklist
 
-3. Insert images at their ORIGINAL positions in the article - do not guess. If the original has images at the beginning, put them at the beginning. If images are interspersed with text, place them exactly where they appear in the source.
+Before building, verify:
 
-### 5. Build and Verify
+- [ ] **No duplicate paragraphs** - read through the entire post to ensure no text repeats
+- [ ] **Images at correct positions** - images appear where they make contextual sense
+- [ ] **All section headings included** - compare with original WeChat article
+- [ ] **Local image paths correct** - all images use `/images/blog/` prefix
+- [ ] **All images downloaded** - check `public/images/blog/` for each image
+- [ ] **Frontmatter complete** - slug, title, description, date, tags all filled
+
+### 7. Build and Verify
 
 Build the site to verify no errors:
 ```bash
 npm run build
 ```
 
-### 6. Commit and Push
+If build succeeds, verify the generated HTML in `dist/blog/<slug>/index.html`
+
+### 8. Commit and Push
 
 ```bash
-git add src/blog/<new-post>.md
+git add src/blog/<new-post>.md public/images/blog/<new-images>
 git commit -m "Add new post: <title>"
 git push
 ```
@@ -106,13 +137,37 @@ Always use existing tags. Common tags in this blog:
 - 科技AI
 - 英语学习
 
+## Common Issues & Solutions
+
+### Issue: Images appearing at wrong positions
+**Solution:** Check `/tmp/wechat_content.txt` for `IMAGE_URL_X` placeholders. Images should replace these placeholders exactly, not be moved to the beginning.
+
+### Issue: Missing section headings
+**Solution:** WeChat articles often use styled paragraphs (not HTML heading tags) for section titles. The scraper cannot detect these automatically. You must:
+1. Open the original WeChat article in a browser
+2. Identify section headings (usually bold, larger text, or separated by spacing)
+3. Manually add them as markdown headings (`## Section Title`)
+
+**Common WeChat section heading patterns:**
+- Bold text at the start of a section: `## **Bold Title**`
+- Separated by horizontal rules: `## Title` followed by `---`
+- All caps or special formatting
+
+### Issue: Duplicate content
+**Solution:** Read through the entire post. If you see the same paragraph twice, delete the duplicate. This can happen when text appears both in summary and body.
+
+### Issue: Build errors
+**Solution:** 
+- Check all image paths start with `/images/blog/`
+- Verify frontmatter syntax (no trailing spaces, proper indentation)
+- Ensure no special characters in frontmatter values
+
 ## Image Handling
 
-WeChat images use `mmbiz.qpic.cn` URLs. These are direct image links that work in markdown:
-
-```markdown
-![description](https://mmbiz.qpic.cn/sz_mmbiz_png/.../640?wx_fmt=png)
-```
+WeChat images use `mmbiz.qpic.cn` URLs. When downloading:
+- Always save to local `public/images/blog/`
+- Use descriptive filenames
+- Verify images downloaded correctly (check file size > 0)
 
 ## Example Usage
 
@@ -120,6 +175,11 @@ User: "Publish this WeChat article to my blog: https://mp.weixin.qq.com/s/xxxx"
 
 Steps:
 1. Run scrape script with the URL
-2. Read `/tmp/wechat_content.txt` to get content
-3. Create `src/blog/<slug>.md` with exact title and all images
-4. Build and push
+2. Read `/tmp/wechat_content.txt` and verify content + image positions
+3. Download images to `public/images/blog/`
+4. Create `src/blog/<slug>.md` with:
+   - Exact title from WeChat
+   - Content with images at placeholder positions
+   - All section headings preserved
+5. Run verification checklist
+6. Build and push

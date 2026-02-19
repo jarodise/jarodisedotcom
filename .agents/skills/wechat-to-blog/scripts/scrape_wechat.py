@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Scrape WeChat article content with images using Playwright"""
+"""Scrape WeChat article content with images at correct positions using Playwright"""
 
 import asyncio
 from playwright.async_api import async_playwright
 import sys
+import re
 
 async def scrape_wechat(url):
     async with async_playwright() as p:
@@ -26,17 +27,50 @@ async def scrape_wechat(url):
             content_elem = await page.query_selector('#js_content') or await page.query_selector('.rich_media_content')
             
             if content_elem:
-                # Get all images
-                images = await content_elem.query_selector_all('img')
-                image_data = []
-                for i, img in enumerate(images):
-                    src = await img.get_attribute('data-src') or await img.get_attribute('src')
-                    if src and src.startswith('http'):
-                        alt = await img.get_attribute('alt') or f"image_{i}"
-                        image_data.append({'src': src, 'alt': alt})
+                # Get structured content with image positions
+                # Use JS to extract content with markers for image positions
+                content_with_images = await page.evaluate("""
+                    () => {
+                        const content = document.querySelector('#js_content') || document.querySelector('.rich_media_content');
+                        if (!content) return null;
+                        
+                        // Clone to avoid modifying the page
+                        const clone = content.cloneNode(true);
+                        
+                        // Replace images with placeholders
+                        const images = clone.querySelectorAll('img');
+                        const imageInfo = [];
+                        images.forEach((img, index) => {
+                            const src = img.getAttribute('data-src') || img.getAttribute('src');
+                            if (src && src.startsWith('http')) {
+                                imageInfo.push({
+                                    index: index,
+                                    src: src,
+                                    alt: img.getAttribute('alt') || `image_${index}`
+                                });
+                                // Replace with placeholder
+                                const placeholder = document.createElement('span');
+                                placeholder.textContent = `<!-- IMAGE_PLACEHOLDER_${index} -->`;
+                                img.parentNode.replaceChild(placeholder, img);
+                            }
+                        });
+                        
+                        // Get text with placeholders
+                        let text = clone.inner_text || clone.textContent || '';
+                        
+                        return {
+                            text: text,
+                            images: imageInfo
+                        };
+                    }
+                """)
                 
-                # Get text content
-                content_text = await content_elem.inner_text()
+                if content_with_images:
+                    content_text = content_with_images['text']
+                    image_data = content_with_images['images']
+                else:
+                    content_text = ""
+                    image_data = []
             else:
                 content_text = ""
                 image_data = []
@@ -53,6 +87,28 @@ async def scrape_wechat(url):
             await browser.close()
             return {'error': str(e)}
 
+def format_content_with_markdown(title, content_text, images):
+    """Format content with markdown images at correct positions"""
+    lines = []
+    lines.append(f"Title: {title}")
+    lines.append("")
+    lines.append("--- IMAGES ---")
+    for img in images:
+        lines.append(f"[{img['index']}] {img['alt']}|{img['src']}")
+    lines.append("")
+    lines.append("--- CONTENT WITH IMAGE POSITIONS ---")
+    lines.append("")
+    
+    # Replace placeholders with markdown image syntax
+    content = content_text
+    for img in images:
+        placeholder = f"<!-- IMAGE_PLACEHOLDER_{img['index']} -->"
+        markdown_img = f"\n![{img['alt']}](IMAGE_URL_{img['index']})\n"
+        content = content.replace(placeholder, markdown_img)
+    
+    lines.append(content)
+    return '\n'.join(lines)
+
 if __name__ == '__main__':
     url = sys.argv[1] if len(sys.argv) > 1 else ''
     if not url:
@@ -68,15 +124,18 @@ if __name__ == '__main__':
         print(f"Title: {result['title']}")
         print(f"\n--- IMAGES ({len(result['images'])}) ---")
         for img in result['images']:
-            print(f"{img['alt']}|{img['src']}")
+            print(f"[{img['index']}] {img['alt']}|{img['src']}")
         
-        # Save to file
+        # Save formatted content with image positions
+        formatted = format_content_with_markdown(
+            result['title'], 
+            result['content_text'], 
+            result['images']
+        )
+        
         with open('/tmp/wechat_content.txt', 'w', encoding='utf-8') as f:
-            f.write(f"Title: {result['title']}\n")
-            f.write(f"\n--- IMAGES ---\n")
-            for img in result['images']:
-                f.write(f"{img['alt']}|{img['src']}\n")
-            f.write(f"\n--- CONTENT ---\n")
-            f.write(result['content_text'])
+            f.write(formatted)
         
         print(f"\nSaved to /tmp/wechat_content.txt")
+        print("\nNOTE: The content file now shows IMAGE_URL_X placeholders where images should be inserted.")
+        print("Replace IMAGE_URL_X with the actual local image paths when creating the blog post.")
