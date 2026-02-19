@@ -23,13 +23,12 @@ async def scrape_wechat(url):
             title = await title_elem.inner_text() if title_elem else ""
             title = title.strip() if title else ""
             
-            # Get content
+            # Get content with proper structure
             content_elem = await page.query_selector('#js_content') or await page.query_selector('.rich_media_content')
             
             if content_elem:
-                # Get structured content with image positions
-                # Use JS to extract content with markers for image positions
-                content_with_images = await page.evaluate("""
+                # Extract structured content preserving paragraphs
+                result = await page.evaluate("""
                     () => {
                         const content = document.querySelector('#js_content') || document.querySelector('.rich_media_content');
                         if (!content) return null;
@@ -37,37 +36,91 @@ async def scrape_wechat(url):
                         // Clone to avoid modifying the page
                         const clone = content.cloneNode(true);
                         
-                        // Replace images with placeholders
-                        const images = clone.querySelectorAll('img');
-                        const imageInfo = [];
-                        images.forEach((img, index) => {
+                        // Get all images first
+                        const images = [];
+                        const imgElements = clone.querySelectorAll('img');
+                        imgElements.forEach((img, index) => {
                             const src = img.getAttribute('data-src') || img.getAttribute('src');
                             if (src && src.startsWith('http')) {
-                                imageInfo.push({
+                                images.push({
                                     index: index,
                                     src: src,
                                     alt: img.getAttribute('alt') || `image_${index}`
                                 });
                                 // Replace with placeholder
                                 const placeholder = document.createElement('span');
-                                placeholder.textContent = `<!-- IMAGE_PLACEHOLDER_${index} -->`;
+                                placeholder.textContent = `\\n<!-- IMAGE_PLACEHOLDER_${index} -->\\n`;
                                 img.parentNode.replaceChild(placeholder, img);
                             }
                         });
                         
-                        // Get text with placeholders
-                        let text = clone.inner_text || clone.textContent || '';
+                        // Extract text preserving paragraph structure
+                        // Walk through all elements and collect text with proper breaks
+                        let paragraphs = [];
+                        
+                        function extractTextWithStructure(element) {
+                            const tagName = element.tagName?.toLowerCase();
+                            
+                            // Block elements that should create new paragraphs
+                            const blockElements = ['p', 'div', 'section', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote'];
+                            const isBlock = blockElements.includes(tagName);
+                            
+                            // Image placeholders
+                            if (element.nodeType === Node.ELEMENT_NODE && element.tagName === 'SPAN' && 
+                                element.textContent.startsWith('<!-- IMAGE_PLACEHOLDER_')) {
+                                return element.textContent;
+                            }
+                            
+                            // For block elements, process children and wrap with newlines
+                            if (isBlock && element.children.length > 0) {
+                                let text = '';
+                                for (const child of element.childNodes) {
+                                    text += extractTextWithStructure(child);
+                                }
+                                // Clean up the text
+                                text = text.trim();
+                                if (text) {
+                                    return text + '\\n\\n';
+                                }
+                                return '';
+                            }
+                            
+                            // For text nodes, return the text
+                            if (element.nodeType === Node.TEXT_NODE) {
+                                return element.textContent;
+                            }
+                            
+                            // For inline elements, process children
+                            if (element.nodeType === Node.ELEMENT_NODE) {
+                                let text = '';
+                                for (const child of element.childNodes) {
+                                    text += extractTextWithStructure(child);
+                                }
+                                return text;
+                            }
+                            
+                            return '';
+                        }
+                        
+                        // Process all direct children of the content container
+                        let fullText = '';
+                        for (const child of clone.childNodes) {
+                            fullText += extractTextWithStructure(child);
+                        }
+                        
+                        // Clean up excessive newlines
+                        fullText = fullText.replace(/\\n{3,}/g, '\\n\\n');
                         
                         return {
-                            text: text,
-                            images: imageInfo
+                            text: fullText.trim(),
+                            images: images
                         };
                     }
                 """)
                 
-                if content_with_images:
-                    content_text = content_with_images['text']
-                    image_data = content_with_images['images']
+                if result:
+                    content_text = result['text']
+                    image_data = result['images']
                 else:
                     content_text = ""
                     image_data = []

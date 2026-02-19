@@ -105,9 +105,9 @@ git push
 **Cause:** Guessing based on filename/content instead of following placeholders.
 **Fix:** Use the foolproof method above - copy content and replace placeholders exactly where they are.
 
-### No paragraph breaks (wall of text)
-**Cause:** The scraper strips paragraph formatting, outputting text as one long line.
-**Fix:** You MUST manually add paragraph breaks. Open the original WeChat article side-by-side and insert blank lines between paragraphs.
+### Images at wrong positions
+**Cause:** Guessing based on filename/content instead of following placeholders.
+**Fix:** Use the foolproof method above - copy content and replace placeholders exactly where they are.
 
 ### Missing section headings
 **Cause:** WeChat uses styled text, not HTML headings.
