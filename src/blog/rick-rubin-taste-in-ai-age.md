@@ -12,9 +12,11 @@ featured: false
 editable: true
 ---
 
-2025年初，一张照片在硅谷工程师圈子里刷屏。
-
 ![Rick Rubin](/images/blog/rick-rubin-1.png)
+
+![Rick Rubin与Johnny Cash](/images/blog/rick-rubin-2.jpg)
+
+2025年初，一张照片在硅谷工程师圈子里刷屏。
 
 照片里是Rick Rubin，留着标志性的长胡子，戴着大耳机，姿态松弛地坐在电脑前。配文来自AI研究大神Andrej Karpathy："There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 
@@ -104,9 +106,7 @@ Chiang的比喻还揭示了另一个层面：当我们大量依赖AI生成内容
 
 这五条读起来像一份训练手册。它们暗示品味既有天赋的成分，即你需要某种基本的敏感性作为起点，但更主要的部分来自后天的磨练。
 
-Rubin的四十年从业经历其实就是这份手册的活注脚。他躺在工作室里听了整整四十年，从Beastie Boys到Johnny Cash，从嘻哈到乡村。
-
-![Rick Rubin与Johnny Cash](/images/blog/rick-rubin-2.jpg)没有人天生就能横跨这么多风格做出判断。那是"通过实践提升"和"通过比较完善"的结果。
+Rubin的四十年从业经历其实就是这份手册的活注脚。他躺在工作室里听了整整四十年，从Beastie Boys到Johnny Cash，从嘻哈到乡村。没有人天生就能横跨这么多风格做出判断。那是"通过实践提升"和"通过比较完善"的结果。
 
 乔布斯生前在这个问题上跟伴侣Tina Redse有过一次争论。Redse认为审美品味根本上是个人的，因人而异。而乔布斯则坚持品味是普遍的，可以被教授。他们谁也没有说服对方。
 
