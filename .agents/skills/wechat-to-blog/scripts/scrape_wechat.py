@@ -18,9 +18,42 @@ async def scrape_wechat(url):
             await page.goto(url, wait_until='networkidle', timeout=60000)
             await asyncio.sleep(3)
             
-            # Get title
-            title_elem = await page.query_selector('h2.rich_media_title') or await page.query_selector('#activity_name')
-            title = await title_elem.inner_text() if title_elem else ""
+            # Get title - try multiple selectors
+            title = ""
+            title_selectors = [
+                'h1.rich_media_title',
+                'h2.rich_media_title', 
+                '#activity_name',
+                '.rich_media_title',
+                '#js_panel_card .rich_media_title',
+                'meta[property="og:title"]',
+                'meta[name="twitter:title"]',
+                'title'
+            ]
+            
+            for selector in title_selectors:
+                try:
+                    if selector.startswith('meta'):
+                        elem = await page.query_selector(selector)
+                        if elem:
+                            title = await elem.get_attribute('content') or ""
+                    else:
+                        elem = await page.query_selector(selector)
+                        if elem:
+                            title = await elem.inner_text()
+                    title = title.strip() if title else ""
+                    if title and title != '微信公众平台':
+                        break
+                except:
+                    continue
+            
+            # Fallback: try to get from page title
+            if not title or title == '微信公众平台':
+                page_title = await page.title()
+                if page_title and '微信公众平台' not in page_title:
+                    # Page title usually has format "文章标题" or "文章标题 | 公众号名"
+                    title = page_title.split('|')[0].strip().strip('"')
+            
             title = title.strip() if title else ""
             
             # Get content with proper structure

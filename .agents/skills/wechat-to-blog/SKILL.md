@@ -41,19 +41,20 @@ If the scraper couldn't extract the title:
 
 ### Step 3: Generate Slug
 
-Convert title to URL-friendly slug using pinyin:
-```python
-from pypinyin import lazy_pinyin
-import re
+**IMPORTANT:** Generate a short, clean, URL-friendly English slug based on the article content/topic. Do NOT use long pinyin slugs.
 
-pinyin_parts = lazy_pinyin(title)
-slug = '-'.join(pinyin_parts)
-slug = re.sub(r'[^\w\s-]', '', slug)
-slug = re.sub(r'\s+', '-', slug)
-slug = slug.lower()
-slug = re.sub(r'-+', '-', slug)
-slug = slug.strip('-')[:80]
-```
+**Examples:**
+- Title "新年伊始，我vibe code了一个能让任何人帮我朗读有声书的APP" → slug: `clonepub-audiobook-ai-app`
+- Title "Emad Mostaque的《The Last Economy》" → slug: `emad-last-economy-ai-futures`
+- Title "数字游民生活方式指南" → slug: `digital-nomad-lifestyle-guide`
+
+**Rules:**
+1. Extract the core topic/theme from the title/content
+2. Use short English words (3-5 words max)
+3. Lowercase with hyphens
+4. Max 50 characters
+
+**Never use full pinyin transliteration** - it creates unreadable URLs like `xin-nian-yi-shi-wo-vibe-code-liao-yi-ge-neng-rang-ren-he-ren-bang-wo-lang-du-you-sheng-shu-de-app-fu-xia-zai-lian-jie`
 
 ### Step 4: Download Images
 
