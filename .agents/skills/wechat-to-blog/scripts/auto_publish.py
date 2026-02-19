@@ -9,6 +9,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 from playwright.async_api import async_playwright
+from pypinyin import lazy_pinyin
 
 # Configuration
 BLOG_DIR = Path("src/blog")
@@ -126,12 +127,16 @@ def download_image(url, filepath):
         return False
 
 def slugify(title):
-    """Convert title to URL-friendly slug"""
-    # Remove non-alphanumeric chars except Chinese
-    slug = re.sub(r'[^\w\s\u4e00-\u9fff-]', '', title)
+    """Convert title to URL-friendly slug using pinyin for Chinese"""
+    # Convert Chinese to pinyin
+    pinyin_parts = lazy_pinyin(title)
+    slug = '-'.join(pinyin_parts)
+    
+    # Remove special characters
+    slug = re.sub(r'[^\w\s-]', '', slug)
     # Replace spaces with hyphens
     slug = re.sub(r'\s+', '-', slug)
-    # Convert to lowercase (for English parts)
+    # Convert to lowercase
     slug = slug.lower()
     # Remove multiple hyphens
     slug = re.sub(r'-+', '-', slug)
