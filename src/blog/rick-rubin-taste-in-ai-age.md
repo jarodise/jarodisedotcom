@@ -1,6 +1,6 @@
 ---
 slug: rick-rubin-taste-in-ai-age
-title: 不会乐器的音乐制作人——AI时代的品味与判断力
+title: 什么是品味（taste）？
 description: 当AI可以处理"如何做"时，"做什么"就成为人类的专属领域。本文探讨Rick Rubin的工作方式以及品味在AI时代的核心意义。
 date: 2026-02-19T12:00:00.000Z
 author: 数字游民Jarod
