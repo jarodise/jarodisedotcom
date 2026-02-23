@@ -12,7 +12,8 @@ const {
   title = "数字游民部落",
   description = "数字游民部落 - 探索不受地域限制的全球移动生活方式",
   author = "数字游民Jarod",
-  canonicalURL = new URL(Astro.url.pathname, Astro.site),
+  url,
+  canonicalURL = url || new URL(Astro.url.pathname, Astro.site),
   pubDate,
 } = Astro.props;
 ---
