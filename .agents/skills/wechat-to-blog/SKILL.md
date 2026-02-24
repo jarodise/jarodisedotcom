@@ -15,6 +15,7 @@ When the user shares a WeChat article URL and wants it published to jarodise.com
 ## User Request Format
 
 User says something like:
+
 - "Publish this to my blog: https://mp.weixin.qq.com/s/xxxxx"
 - "Post this WeChat article: https://mp.weixin.qq.com/s/xxxxx"
 - Just shares a URL starting with https://mp.weixin.qq.com/
@@ -24,11 +25,13 @@ User says something like:
 ### Step 1: Scrape the Article
 
 Run the scraping script:
+
 ```bash
 source .venv/bin/activate && python .agents/skills/wechat-to-blog/scripts/scrape_wechat.py "<WECHAT_URL>"
 ```
 
 This gives me:
+
 - Title (if extractable)
 - Content with IMAGE_URL_X placeholders at correct positions
 - List of images with URLs
@@ -36,6 +39,7 @@ This gives me:
 ### Step 2: Handle Title
 
 If the scraper couldn't extract the title:
+
 - Ask the user: "What's the title of this article?"
 - Or extract from the first line if it's clearly a title
 
@@ -44,11 +48,13 @@ If the scraper couldn't extract the title:
 **IMPORTANT:** Generate a short, clean, URL-friendly English slug based on the article content/topic. Do NOT use long pinyin slugs.
 
 **Examples:**
+
 - Title "新年伊始，我vibe code了一个能让任何人帮我朗读有声书的APP" → slug: `clonepub-audiobook-ai-app`
 - Title "Emad Mostaque的《The Last Economy》" → slug: `emad-last-economy-ai-futures`
 - Title "数字游民生活方式指南" → slug: `digital-nomad-lifestyle-guide`
 
 **Rules:**
+
 1. Extract the core topic/theme from the title/content
 2. Use short English words (3-5 words max)
 3. Lowercase with hyphens
@@ -59,6 +65,7 @@ If the scraper couldn't extract the title:
 ### Step 4: Download Images
 
 For each image from the scraper:
+
 ```bash
 curl -sL "<image-url>" -o public/images/blog/<slug>-<index>.<ext>
 ```
@@ -70,6 +77,7 @@ Use .png if the URL contains 'png', otherwise .jpg
 Create file: `src/blog/<slug>.md`
 
 Content structure:
+
 ```markdown
 ---
 slug: <slug>
@@ -88,19 +96,22 @@ editable: true
 
 ---
 
-*本文系数字游民Jarod原创，如需转载请联系作者授权。*
+_本文系数字游民Jarod原创，如需转载请联系作者授权。_
 
-*原文发表于微信公众号：数字游民部落*
+_原文发表于微信公众号：数字游民部落_
 ```
 
 **CRITICAL RULES:**
+
 - Replace `IMAGE_URL_X` placeholders exactly where they appear - DO NOT MOVE IMAGES
 - Keep all paragraph breaks from scraped content
 - Preserve section structure
+- **Convert section headings to `##` markdown format** - WeChat scraper returns plain text headings without markdown syntax. Identify section headings (typically standalone short phrases on their own line) and add `## ` prefix to format them properly
 
 ### Step 6: Auto-Select Tags
 
 Based on content keywords, choose from:
+
 - **科技AI**: AI, ChatGPT, 人工智能, code, algorithm, model, tech
 - **思考哲学**: 哲学, 思考, 价值, 社会, 意义, 未来
 - **数字游民**: 数字游民, 远程, 旅居, 旅行, nomad
@@ -131,21 +142,27 @@ git push
 ### Step 9: Confirm to User
 
 Tell user:
+
 - "Published! URL: https://www.jarodise.com/<slug>"
 - If there were any issues (title not found, images missing, etc.)
 
 ## Common Issues I Handle
 
 ### Title not extracted
+
 WeChat loads title via JS which can fail. Solutions:
+
 1. Ask user for title
 2. Look at first line of content - if it looks like a title, use it
 
 ### Images fail to download
+
 Try curl with retry, or report to user which images failed.
 
 ### Build errors
+
 Usually:
+
 - Special characters in title (escape them)
 - Missing images (check paths)
 - Malformed YAML (check indentation)
@@ -155,6 +172,7 @@ Usually:
 User: "Publish this: https://mp.weixin.qq.com/s/xxxxx"
 
 Me:
+
 1. Run scrape script
 2. Scraper returns title "Emad Mostaque的《The Last Economy》"
 3. Generate slug: "emad-mostaque-de-the-last-economy"

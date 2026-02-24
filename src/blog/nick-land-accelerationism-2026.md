@@ -136,31 +136,3 @@ Land会告诉你：这只是硬币的一面。
 _本文系数字游民Jarod原创，如需转载请联系作者授权。_
 
 _原文发表于微信公众号：数字游民部落_
-
-**参考文献**
-
-Beckett, Andy. "Accelerationism: how a fringe philosophy predicted the future we live in." The Guardian, 11 May 2017. https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in
-
-Duesterberg, James. "How Nick Land Became Silicon Valley's Favorite Doomsayer." The New Yorker, February 2026. https://www.newyorker.com/culture/the-lede/silicon-valleys-favorite-doomsaying-philosopher
-
-Land, Nick. "Meltdown." Virtual Futures, 1995. https://www.virtualfutures.co.uk/discover/meltdown
-
-Land, Nick. Fanged Noumena: Collected Writings 1987–2007. Edited by Robin Mackay and Ray Brassier. Urbanomic/Sequence Press, 2011.
-
-Land, Nick. "The Dark Enlightenment." 2013. https://www.thedarkenlightenment.com/
-
-Land, Nick. The Thirst for Annihilation: Georges Bataille and Virulent Nihilism. Routledge, 1992.
-
-Deleuze, Gilles, and Félix Guattari. Anti-Oedipus: Capitalism and Schizophrenia. Translated by Robert Hurley, Mark Seem, and Helen R. Lane. University of Minnesota Press, 1983.
-
-Lyotard, Jean-François. Libidinal Economy. Translated by Iain Hamilton Grant. Indiana University Press, 1993.
-
-Mackay, Robin, and Armen Avanessian, eds. #Accelerate: The Accelerationist Reader. Urbanomic, 2014.
-
-Noys, Benjamin. Malign Velocities: Accelerationism and Capitalism. Zero Books, 2014.
-
-Fisher, Mark. Capitalist Realism: Is There No Alternative? Zero Books, 2009.
-
-Virtual Futures Official Website. https://www.virtualfutures.co.uk/1996
-
-"Nick Land: Mind Games." Dazed, June 2011. https://www.dazeddigital.com/artsandculture/article/10459/1/nick-land-mind-games
