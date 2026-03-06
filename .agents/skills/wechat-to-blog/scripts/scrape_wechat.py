@@ -1,12 +1,25 @@
 #!/usr/bin/env python3
 """Scrape WeChat article content with images at correct positions using Playwright"""
 
+import os
 import asyncio
 from playwright.async_api import async_playwright
 import sys
 import re
 
-async def scrape_wechat(url):
+async def download_image(context, url, path):
+    try:
+        response = await context.request.get(url)
+        if response.status == 200:
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, 'wb') as f:
+                f.write(await response.body())
+            return True
+    except Exception as e:
+        print(f"Error downloading {url}: {e}")
+    return False
+
+async def scrape_wechat(url, slug=None):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(
@@ -15,7 +28,17 @@ async def scrape_wechat(url):
         page = await context.new_page()
         
         try:
-            await page.goto(url, wait_until='networkidle', timeout=60000)
+            max_retries = 3
+            retry_count = 0
+            while retry_count < max_retries:
+                try:
+                    await page.goto(url, wait_until='networkidle', timeout=60000)
+                    break
+                except Exception as e:
+                    retry_count += 1
+                    if retry_count == max_retries:
+                        raise e
+                    await asyncio.sleep(2 * retry_count)
             await asyncio.sleep(3)
             
             # Get title - try multiple selectors
@@ -161,6 +184,18 @@ async def scrape_wechat(url):
                 content_text = ""
                 image_data = []
             
+            # Download images if slug is provided
+            if slug:
+                for img in image_data:
+                    ext = 'png' if 'png' in img['src'].lower() else 'jpg'
+                    img_path = f"public/images/blog/{slug}-{img['index']}.{ext}"
+                    print(f"Downloading image {img['index']} to {img_path}...")
+                    success = await download_image(context, img['src'], img_path)
+                    if success:
+                        img['local_path'] = img_path
+                    else:
+                        print(f"Failed to download image {img['index']}")
+            
             await browser.close()
             
             return {
@@ -180,7 +215,8 @@ def format_content_with_markdown(title, content_text, images):
     lines.append("")
     lines.append("--- IMAGES ---")
     for img in images:
-        lines.append(f"[{img['index']}] {img['alt']}|{img['src']}")
+        path = img.get('local_path', img['src'])
+        lines.append(f"[{img['index']}] {img['alt']}|{path}")
     lines.append("")
     lines.append("--- CONTENT WITH IMAGE POSITIONS ---")
     lines.append("")
@@ -189,7 +225,8 @@ def format_content_with_markdown(title, content_text, images):
     content = content_text
     for img in images:
         placeholder = f"<!-- IMAGE_PLACEHOLDER_{img['index']} -->"
-        markdown_img = f"\n![{img['alt']}](IMAGE_URL_{img['index']})\n"
+        path = img.get('local_path', f"IMAGE_URL_{img['index']}")
+        markdown_img = f"\n![{img['alt']}]({path})\n"
         content = content.replace(placeholder, markdown_img)
     
     lines.append(content)
@@ -197,11 +234,13 @@ def format_content_with_markdown(title, content_text, images):
 
 if __name__ == '__main__':
     url = sys.argv[1] if len(sys.argv) > 1 else ''
+    slug = sys.argv[2] if len(sys.argv) > 2 else None
+    
     if not url:
-        print("Usage: python scrape_wechat.py <WECHAT_URL>")
+        print("Usage: python scrape_wechat.py <WECHAT_URL> [SLUG]")
         sys.exit(1)
     
-    result = asyncio.run(scrape_wechat(url))
+    result = asyncio.run(scrape_wechat(url, slug))
     
     if 'error' in result:
         print(f"Error: {result['error']}")
@@ -210,7 +249,8 @@ if __name__ == '__main__':
         print(f"Title: {result['title']}")
         print(f"\n--- IMAGES ({len(result['images'])}) ---")
         for img in result['images']:
-            print(f"[{img['index']}] {img['alt']}|{img['src']}")
+            path = img.get('local_path', 'No local path')
+            print(f"[{img['index']}] {img['alt']}|{path}")
         
         # Save formatted content with image positions
         formatted = format_content_with_markdown(
@@ -223,5 +263,3 @@ if __name__ == '__main__':
             f.write(formatted)
         
         print(f"\nSaved to /tmp/wechat_content.txt")
-        print("\nNOTE: The content file now shows IMAGE_URL_X placeholders where images should be inserted.")
-        print("Replace IMAGE_URL_X with the actual local image paths when creating the blog post.")
