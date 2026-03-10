@@ -11,18 +11,4 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   <meta name="robots" content="noindex" slot="after-header" />
   <h1 class="heading text-center">404</h1>
   <p class="paragraph text-center">The page you requested cannot be found!</p>
-
-  <script>
-    import { track } from '@vercel/analytics';
-    
-    // As soon as the 404 page loads, send a custom event with the broken URL
-    // This allows us to see exactly *which* URLs are 404ing in the Analytics Dashboard
-    window.addEventListener('load', () => {
-      track('404_error', {
-        path: window.location.pathname,
-        url: window.location.href,
-        referrer: document.referrer || 'direct'
-      });
-    });
-  </script>
 </BaseLayout>
