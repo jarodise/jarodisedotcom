@@ -108,8 +108,33 @@ async def scrape_wechat(url):
                     }
                 """)
                 
+                # Extract publication date
+                date_elem = await page.query_selector('#publish_time') or await page.query_selector('.rich_media_meta_text')
+                text_date = await date_elem.inner_text() if date_elem else None
+                publish_date = None
+                if text_date:
+                    text_date = text_date.strip()
+                    # Clean up Chinese date format to ISO
+                    matches = re.search(r'(\d{4})[年\-](\d{1,2})[月\-](\d{1,2})', text_date)
+                    if matches:
+                        publish_date = f"{matches.group(1)}-{matches.group(2).zfill(2)}-{matches.group(3).zfill(2)}"
+                
+                # Fallback to ct variable
+                if not publish_date or not re.match(r'\d{4}-\d{2}-\d{2}', publish_date):
+                    html_content = await page.content()
+                    ct_match = re.search(r'var ct = "(\d+)"', html_content)
+                    if ct_match:
+                        from datetime import datetime
+                        dt = datetime.fromtimestamp(int(ct_match.group(1)))
+                        publish_date = dt.strftime('%Y-%m-%d')
+
                 await browser.close()
-                return {'title': title, **result}
+                return {
+                    'title': title,
+                    'text': content_text,
+                    'images': image_data,
+                    'publish_date': publish_date
+                }
             else:
                 await browser.close()
                 return {'error': 'Could not find content'}
@@ -213,7 +238,12 @@ async def publish_article(url, manual_title=None):
     slug = slugify(title)
     description = generate_description(content)
     tags = auto_select_tags(content, title)
-    date = datetime.now().strftime('%Y-%m-%dT12:00:00.000Z')
+    
+    publish_date = data.get('publish_date')
+    if publish_date:
+        date = f"{publish_date}T12:00:00.000Z"
+    else:
+        date = datetime.now().strftime('%Y-%m-%dT12:00:00.000Z')
     
     print(f"✅ Generated slug: {slug}")
     print(f"✅ Auto-selected tags: {', '.join(tags)}")

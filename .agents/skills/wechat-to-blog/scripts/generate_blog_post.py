@@ -6,7 +6,7 @@ import re
 from datetime import datetime
 from pathlib import Path
 
-def generate_blog_post(content_file, slug, title, description, tags, image_mapping):
+def generate_blog_post(content_file, slug, title, description, tags, image_mapping, date=None):
     """
     Generate blog post markdown from scraped content.
     
@@ -17,18 +17,18 @@ def generate_blog_post(content_file, slug, title, description, tags, image_mappi
         description: Post description
         tags: List of tags
         image_mapping: Dict mapping IMAGE_URL_X to local path, e.g. {"IMAGE_URL_0": "/images/blog/rick-rubin-1.png"}
+        date: Optional ISO date string
     """
     
     with open(content_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Extract the content section (after "--- CONTENT WITH IMAGE POSITIONS ---")
     match = re.search(r'--- CONTENT WITH IMAGE POSITIONS ---\n\n(.+)', content, re.DOTALL)
     if not match:
-        print("Error: Could not find content section")
-        sys.exit(1)
-    
-    body = match.group(1)
+        # Fallback for simple content
+        body = content.split('--- CONTENT WITH IMAGE POSITIONS ---')[-1].strip()
+    else:
+        body = match.group(1)
     
     # Replace IMAGE_URL_X placeholders with actual markdown images
     for placeholder, local_path in image_mapping.items():
@@ -44,7 +44,9 @@ def generate_blog_post(content_file, slug, title, description, tags, image_mappi
     tags_yaml = '\n'.join([f'  - {tag}' for tag in tags])
     
     # Generate frontmatter
-    date = datetime.now().strftime('%Y-%m-%dT12:00:00.000Z')
+    if not date:
+        date = datetime.now().strftime('%Y-%m-%dT12:00:00.000Z')
+        
     frontmatter = f"""---
 slug: {slug}
 title: {title}

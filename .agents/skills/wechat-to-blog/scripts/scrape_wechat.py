@@ -167,9 +167,31 @@ async def scrape_wechat(url, slug=None):
                         // Clean up excessive newlines
                         fullText = fullText.replace(/\\n{3,}/g, '\\n\\n');
                         
+                        // Extract publication date
+                        const dateElem = document.querySelector('#publish_time') || document.querySelector('.rich_media_meta_text');
+                        let publishDate = dateElem ? dateElem.textContent.trim() : null;
+                        
+                        // Fallback to ct variable
+                        if (!publishDate || !/\\d{4}[年\\-月\\-]/.test(publishDate)) {
+                            const ctMatch = document.documentElement.innerHTML.match(/var ct = "(\\d+)"/);
+                            if (ctMatch) {
+                                const date = new Date(parseInt(ctMatch[1]) * 1000);
+                                publishDate = date.toISOString().split('T')[0];
+                            }
+                        }
+                        
+                        // Clean up Chinese date format to ISO if needed
+                        if (publishDate && publishDate.includes('年')) {
+                            const matches = publishDate.match(/(\\d{4})年(\\d{1,2})月(\\d{1,2})日/);
+                            if (matches) {
+                                publishDate = `${matches[1]}-${matches[2].padStart(2, '0')}-${matches[3].padStart(2, '0')}`;
+                            }
+                        }
+
                         return {
                             text: fullText.trim(),
-                            images: images
+                            images: images,
+                            publish_date: publishDate
                         };
                     }
                 """)
@@ -177,12 +199,15 @@ async def scrape_wechat(url, slug=None):
                 if result:
                     content_text = result['text']
                     image_data = result['images']
+                    publish_date = result['publish_date']
                 else:
                     content_text = ""
                     image_data = []
+                    publish_date = None
             else:
                 content_text = ""
                 image_data = []
+                publish_date = None
             
             # Download images if slug is provided
             if slug:
@@ -201,17 +226,20 @@ async def scrape_wechat(url, slug=None):
             return {
                 'title': title,
                 'content_text': content_text,
-                'images': image_data
+                'images': image_data,
+                'publish_date': publish_date
             }
             
         except Exception as e:
             await browser.close()
             return {'error': str(e)}
 
-def format_content_with_markdown(title, content_text, images):
+def format_content_with_markdown(title, content_text, images, publish_date=None):
     """Format content with markdown images at correct positions"""
     lines = []
     lines.append(f"Title: {title}")
+    if publish_date:
+        lines.append(f"Date: {publish_date}")
     lines.append("")
     lines.append("--- IMAGES ---")
     for img in images:
@@ -256,7 +284,8 @@ if __name__ == '__main__':
         formatted = format_content_with_markdown(
             result['title'], 
             result['content_text'], 
-            result['images']
+            result['images'],
+            result.get('publish_date')
         )
         
         with open('/tmp/wechat_content.txt', 'w', encoding='utf-8') as f:
