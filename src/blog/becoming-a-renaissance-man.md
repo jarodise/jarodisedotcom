@@ -2,7 +2,7 @@
 slug: becoming-a-renaissance-man
 title: 做一个文艺复兴人 - Renaissance Man
 description: 我第一次听到“文艺复兴人”这个概念，是在一本叫《Early Retirement Extreme》的书里。
-date: 2026-03-20T12:00:00.000Z
+date: 2026-03-18T12:00:00.000Z
 author: 数字游民Jarod
 tags:
   - 科技AI
