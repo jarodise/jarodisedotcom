@@ -2,7 +2,7 @@
 slug: empire-fall-geopolitics-psychohistory
 title: 帝国灭亡的倒计时 - 地缘政治的心理史学推演
 description: 科幻大师阿西莫夫在《基地》中最硬核的设定：心理史学。它既不是心理学，也不是历史学，本质上是用数学模型研究大规模社会系统的运行规律。
-date: 2026-03-20T12:00:00.000Z
+date: 2026-03-16T12:00:00.000Z
 author: 数字游民Jarod
 tags:
   - 思考哲学
