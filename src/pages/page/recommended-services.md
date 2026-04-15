@@ -7,4 +7,6 @@ url: "https://jarodise.com/page/recommended-services"
 
 ## 科学上网服务推荐 🪜
 
-1. [高端专线机场 ✈️（15.9元/月，油管4K丝滑秒开）](https://www.dginv.click/#/register?code=9cvBZnFd)
+1. [我自用的科学上网服务，直连节点居多，使用最新的AnyTLS加密协议，并有自研的iOS客户端，不限速包月仅需20元/月](https://www.dginv.click/#/register?code=9cvBZnFd)
+
+2. [我的备用梯子，包年仅需15元/年，使用Hysteria2协议](https://bb4.hhneko.xyz/#/register?code=erHvv72q)
