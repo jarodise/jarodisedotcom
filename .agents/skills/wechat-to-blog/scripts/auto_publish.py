@@ -131,8 +131,8 @@ async def scrape_wechat(url):
                 await browser.close()
                 return {
                     'title': title,
-                    'text': content_text,
-                    'images': image_data,
+                    'text': result['text'],
+                    'images': result['images'],
                     'publish_date': publish_date
                 }
             else:
