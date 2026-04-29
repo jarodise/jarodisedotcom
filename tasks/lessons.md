@@ -12,3 +12,7 @@
 
 - **Friction vs. Precision**: If a task is a routine operation of a "utility" skill, reduce precision in favor of speed and autonomy.
 - **Tool Approvals**: Minimize the number of separate `run_command` calls for the same logical operation to reduce the "Approve" burden on the user.
+
+## Content Management
+
+- **No New Tags**: Never create tags "on the fly" when creating new blog posts. Always extract and verify the real, existing list of tags from other markdown files (e.g. using `grep -h "^  - " src/blog/*.md | sort | uniq`) and ONLY use tags from that exact list. This maintains the integrity of the taxonomy.
