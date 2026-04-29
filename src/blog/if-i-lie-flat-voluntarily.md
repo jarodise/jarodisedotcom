@@ -6,8 +6,7 @@ date: 2026-04-29T09:53:00.000Z
 author: 数字游民Jarod
 tags:
   - 思考哲学
-  - 社会
-  - 躺平
+  - 生活方式
 featured: false
 editable: true
 ---
