@@ -61,40 +61,57 @@ async def scrape_wechat(url):
                         });
                         
                         // Extract with paragraph structure
-                        let paragraphs = [];
                         function extractText(element) {
-                            const tagName = element.tagName?.toLowerCase();
-                            const blockElements = ['p', 'div', 'section', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote'];
-                            const isBlock = blockElements.includes(tagName);
-                            
-                            if (element.nodeType === Node.ELEMENT_NODE && element.tagName === 'SPAN' && 
-                                element.textContent.includes('<!-- IMAGE_')) {
-                                return element.textContent;
-                            }
-                            
-                            if (isBlock && element.children.length > 0) {
-                                let text = '';
-                                for (const child of element.childNodes) {
-                                    text += extractText(child);
-                                }
-                                text = text.trim();
-                                if (text) return text + '\\n\\n';
-                                return '';
-                            }
-                            
-                            if (element.nodeType === Node.TEXT_NODE) {
-                                return element.textContent;
-                            }
-                            
-                            if (element.nodeType === Node.ELEMENT_NODE) {
-                                let text = '';
-                                for (const child of element.childNodes) {
-                                    text += extractText(child);
-                                }
-                                return text;
-                            }
-                            return '';
-                        }
+                             const tagName = element.tagName?.toLowerCase();
+                             const blockElements = ['p', 'div', 'section', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote'];
+                             const isBlock = blockElements.includes(tagName);
+                             
+                             if (element.nodeType === Node.ELEMENT_NODE && element.tagName === 'SPAN' && 
+                                 element.textContent.includes('<!-- IMAGE_')) {
+                                 return element.textContent;
+                             }
+                             
+                             const isBold = element.nodeType === Node.ELEMENT_NODE && (
+                                 tagName === 'strong' || tagName === 'b' || 
+                                 element.style?.fontWeight === 'bold' || 
+                                 element.style?.fontWeight === '700' || 
+                                 (element.getAttribute && (
+                                     element.getAttribute('style')?.includes('font-weight: bold') ||
+                                     element.getAttribute('style')?.includes('font-weight:bold') ||
+                                     element.getAttribute('style')?.includes('font-weight: 700') ||
+                                     element.getAttribute('style')?.includes('font-weight:700')
+                                 ))
+                             );
+                             
+                             if (isBlock && element.children.length > 0) {
+                                 let text = '';
+                                 for (const child of element.childNodes) {
+                                     text += extractText(child);
+                                 }
+                                 text = text.trim();
+                                 if (isBold && text) {
+                                     text = `**${text}**`;
+                                 }
+                                 if (text) return text + '\\n\\n';
+                                 return '';
+                             }
+                             
+                             if (element.nodeType === Node.TEXT_NODE) {
+                                 return element.textContent;
+                             }
+                             
+                             if (element.nodeType === Node.ELEMENT_NODE) {
+                                 let text = '';
+                                 for (const child of element.childNodes) {
+                                     text += extractText(child);
+                                 }
+                                 if (isBold && text.trim()) {
+                                     return ` **${text.trim()}** `;
+                                 }
+                                 return text;
+                             }
+                             return '';
+                         }
                         
                         let fullText = '';
                         for (const child of clone.childNodes) {

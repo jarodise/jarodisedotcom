@@ -112,51 +112,67 @@ async def scrape_wechat(url, slug=None):
                         
                         // Extract text preserving paragraph structure
                         // Walk through all elements and collect text with proper breaks
-                        let paragraphs = [];
-                        
                         function extractTextWithStructure(element) {
-                            const tagName = element.tagName?.toLowerCase();
-                            
-                            // Block elements that should create new paragraphs
-                            const blockElements = ['p', 'div', 'section', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote'];
-                            const isBlock = blockElements.includes(tagName);
-                            
-                            // Image placeholders
-                            if (element.nodeType === Node.ELEMENT_NODE && element.tagName === 'SPAN' && 
-                                element.textContent.startsWith('<!-- IMAGE_PLACEHOLDER_')) {
-                                return element.textContent;
-                            }
-                            
-                            // For block elements, process children and wrap with newlines
-                            if (isBlock && element.children.length > 0) {
-                                let text = '';
-                                for (const child of element.childNodes) {
-                                    text += extractTextWithStructure(child);
-                                }
-                                // Clean up the text
-                                text = text.trim();
-                                if (text) {
-                                    return text + '\\n\\n';
-                                }
-                                return '';
-                            }
-                            
-                            // For text nodes, return the text
-                            if (element.nodeType === Node.TEXT_NODE) {
-                                return element.textContent;
-                            }
-                            
-                            // For inline elements, process children
-                            if (element.nodeType === Node.ELEMENT_NODE) {
-                                let text = '';
-                                for (const child of element.childNodes) {
-                                    text += extractTextWithStructure(child);
-                                }
-                                return text;
-                            }
-                            
-                            return '';
-                        }
+                             const tagName = element.tagName?.toLowerCase();
+                             
+                             // Block elements that should create new paragraphs
+                             const blockElements = ['p', 'div', 'section', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote'];
+                             const isBlock = blockElements.includes(tagName);
+                             
+                             // Image placeholders
+                             if (element.nodeType === Node.ELEMENT_NODE && element.tagName === 'SPAN' && 
+                                 element.textContent.startsWith('<!-- IMAGE_PLACEHOLDER_')) {
+                                 return element.textContent;
+                             }
+                             
+                             const isBold = element.nodeType === Node.ELEMENT_NODE && (
+                                 tagName === 'strong' || tagName === 'b' || 
+                                 element.style?.fontWeight === 'bold' || 
+                                 element.style?.fontWeight === '700' || 
+                                 (element.getAttribute && (
+                                     element.getAttribute('style')?.includes('font-weight: bold') ||
+                                     element.getAttribute('style')?.includes('font-weight:bold') ||
+                                     element.getAttribute('style')?.includes('font-weight: 700') ||
+                                     element.getAttribute('style')?.includes('font-weight:700')
+                                 ))
+                             );
+                             
+                             // For block elements, process children and wrap with newlines
+                             if (isBlock && element.children.length > 0) {
+                                 let text = '';
+                                 for (const child of element.childNodes) {
+                                     text += extractTextWithStructure(child);
+                                 }
+                                 // Clean up the text
+                                 text = text.trim();
+                                 if (isBold && text) {
+                                     text = `**${text}**`;
+                                 }
+                                 if (text) {
+                                     return text + '\\n\\n';
+                                 }
+                                 return '';
+                             }
+                             
+                             // For text nodes, return the text
+                             if (element.nodeType === Node.TEXT_NODE) {
+                                 return element.textContent;
+                             }
+                             
+                             // For inline elements, process children
+                             if (element.nodeType === Node.ELEMENT_NODE) {
+                                 let text = '';
+                                 for (const child of element.childNodes) {
+                                     text += extractTextWithStructure(child);
+                                 }
+                                 if (isBold && text.trim()) {
+                                     return ` **${text.trim()}** `;
+                                 }
+                                 return text;
+                             }
+                             
+                             return '';
+                         }
                         
                         // Process all direct children of the content container
                         let fullText = '';
