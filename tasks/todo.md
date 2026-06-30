@@ -5,5 +5,5 @@
 - [x] Run the `auto_publish.py` workflow or manually download images and generate the markdown post.
 - [x] Ensure slug discipline: Rename files/images to use the short English slug and update internal references (slug, image paths) to match.
 - [x] Validate tags: Verify the real list of existing tags and only use tags from that list.
-- [/] Git commit and push changes.
-- [ ] Document results and verify the final URL.
+- [x] Git commit and push changes.
+- [x] Document results and verify the final URL.
